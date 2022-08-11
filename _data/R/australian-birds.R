@@ -39,7 +39,7 @@
     group_by(scientificNameVerbatim,family,traitNameVerbatim) %>%
     summarise(NumberOfRecords = n())%>%
     mutate(accessDate = Sys.Date(),
-           OTNdatasetID = dataset,
+           datasetId = dataset,
            curator = curator) -> ausbirds
   
 # toss malformed names
