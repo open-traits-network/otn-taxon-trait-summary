@@ -23,27 +23,29 @@ unzip(dataset)
 
 # setting location of table and read file
 path <- "Measurements of passerine birds.xlsx"
-traits <- read_excel(paste("./", path, sep=""))
+traits <- data.frame(read_excel(paste("./", path, sep="")))
 
 head(traits)
-cols.used <- c(1,2,14:23)
+cols.used <- c(1:19,24,25)
 
 ## reshape from wide to long 
-traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[1],colnames(traits)[2]))
+traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[24],colnames(traits)[25]))
 
 ## filter NAs
 traits_long.filter <- traits_long[!is.na(traits_long[,4]),]
 
 dim(traits_long)
 dim(traits_long.filter)
+head(traits_long.filter)
+
+traits_long.filter$VerbSpec <- interaction(traits_long.filter$Genus,traits_long.filter$Species, sep=" ")
 
 # summarize
-traits_summary <- traits_long.filter %>% count(Avibase.ID,Species1_BirdLife,variable, sort = TRUE)
+traits_summary <- traits_long.filter %>% count(VerbSpec,variable, sort = TRUE)
 
-names(traits_summary)[1] <- "taxonIdVerbatim"
-names(traits_summary)[2] <- "scientificNameVerbatim"
-names(traits_summary)[3] <- "traitNameVerbatim"
-names(traits_summary)[4] <- "numberOfRecords"
+names(traits_summary)[1] <- "scientificNameVerbatim"
+names(traits_summary)[2] <- "traitNameVerbatim"
+names(traits_summary)[3] <- "numberOfRecords"
 
 traits_summary$datasetId <- dataset_url
 traits_summary$curator <- curator
