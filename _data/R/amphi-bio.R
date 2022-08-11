@@ -10,11 +10,11 @@ if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 
 # set variables
 curator <- "https://opentraits.org/members/alexander-keller"
-dataset_url <- "https://opentraits.org/datasets/jeppsson-2014"
-dataset <- "jeppsson-2014"
+dataset_url <- "https://opentraits.org/datasets/amphi-bio"
+dataset <- "amphi-bio"
 
 # Download file
-download.file(url = "https://datadryad.org/stash/downloads/file_stream/59837",
+download.file(url = "https://figshare.com/ndownloader/files/8828578",
               destfile = paste("_data/R/temp/",dataset, sep=""))
 setwd("_data/R/temp")
 
@@ -23,15 +23,15 @@ setwd("_data/R/temp")
 unzip(dataset)
 
 # setting location of table and read file
-path <- "AnimCons_speciesdata/data/longhorn_species_data.csv"
+path <- "AmphiBIO_v1.csv"
 
-traits <- data.frame(read.csv(paste("./", path, sep=""), sep="|"))
+traits <- data.frame(read.csv(paste("./", path, sep=""), sep=","))
 
 head(traits)
-cols.used <- c(1:8)
+cols.used <- c(5:37)
 
 ## reshape from wide to long 
-traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[1]))
+traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits[,cols.used])[1]))
 
 ## filter NAs
 traits_long.filter <- traits_long[!is.na(traits_long[,3]),]
@@ -43,7 +43,7 @@ head(traits_long.filter)
 #traits_long.filter$VerbSpec <- interaction(traits_long.filter$Genus,traits_long.filter$Species, sep=" ")
 
 # summarize
-traits_summary <- traits_long.filter %>% count(Species.name,variable, sort = TRUE)
+traits_summary <- traits_long.filter %>% count(Species,variable, sort = TRUE)
 
 names(traits_summary)[1] <- "scientificNameVerbatim"
 names(traits_summary)[2] <- "traitNameVerbatim"
