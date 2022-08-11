@@ -38,8 +38,8 @@ arthropod.species.traits_summary <- arthropod.species.traits_long.filter %>% cou
 
 names(arthropod.species.traits_summary)[1] <- "scientificNameVerbatim"
 names(arthropod.species.traits_summary)[2] <- "traitNameVerbatim"
-names(arthropod.species.traits_summary)[3] <- "NumberOfRecords"
-arthropod.species.traits_summary$OTNdatasetID <- dataset_url
+names(arthropod.species.traits_summary)[3] <- "numberOfRecords"
+arthropod.species.traits_summary$datasetId <- dataset_url
 arthropod.species.traits_summary$curator <- curator
 arthropod.species.traits_summary$accessDate <- Sys.Date()
 

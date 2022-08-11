@@ -44,9 +44,9 @@ traits_summary <- traits_long.filter %>% count(Avibase.ID,Species1_BirdLife,vari
 names(traits_summary)[1] <- "taxonIdVerbatim"
 names(traits_summary)[2] <- "scientificNameVerbatim"
 names(traits_summary)[3] <- "traitNameVerbatim"
-names(traits_summary)[4] <- "NumberOfRecords"
+names(traits_summary)[4] <- "numberOfRecords"
 
-traits_summary$OTNdatasetID <- dataset_url
+traits_summary$datasetId <- dataset_url
 traits_summary$curator <- curator
 traits_summary$accessDate <- Sys.Date()
 
