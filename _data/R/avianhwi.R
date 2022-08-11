@@ -10,11 +10,11 @@ if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 
 # set variables
 curator <- "https://opentraits.org/members/alexander-keller"
-dataset_url <- "https://opentraits.org/datasets/passerine-morphology"
-dataset <- "passerine-morphology"
+dataset_url <- "https://opentraits.org/datasets/avianhwi"
+dataset <- "avianhwi"
 
 # Download file
-download.file(url = "https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.1783&file=ecy1783-sup-0002-DataS1.zip",
+download.file(url = "https://zenodo.org/record/3832215/files/catherinesheard/Global-HWI-v1.1.zip?download=1",
               destfile = paste("_data/R/temp/",dataset, sep=""))
 setwd("_data/R/temp")
 
@@ -22,23 +22,24 @@ setwd("_data/R/temp")
 unzip(dataset)
 
 # setting location of table and read file
-path <- "Measurements of passerine birds.xlsx"
+path <- "Dataset HWI 2020-04-10.xlsx"
+
 traits <- data.frame(read_excel(paste("./", path, sep="")))
 
 head(traits)
-cols.used <- c(1:19,24,25)
+cols.used <- c(3,6,8,9,11,13,14,15)
 
 ## reshape from wide to long 
-traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[24],colnames(traits)[25]))
+traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[3]))
 
 ## filter NAs
-traits_long.filter <- traits_long[traits_long[,4] != ".",]
+traits_long.filter <- traits_long[!is.na(traits_long[,3]),]
 
 dim(traits_long)
 dim(traits_long.filter)
 head(traits_long.filter)
 
-traits_long.filter$VerbSpec <- interaction(traits_long.filter$Genus,traits_long.filter$Species, sep=" ")
+#traits_long.filter$VerbSpec <- interaction(traits_long.filter$Genus,traits_long.filter$Species, sep=" ")
 
 # summarize
 traits_summary <- traits_long.filter %>% count(VerbSpec,variable, sort = TRUE)
