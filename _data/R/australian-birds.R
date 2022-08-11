@@ -49,7 +49,7 @@
         FUN = function(x){length(strsplit(x = x,
                               split = " ")[[1]])}))==2),]
   
- ausbirds$comment <- "malformed entries in database, perhaps due to comma placement issue"
+ ausbirds$comment <- "'malformed entries in database perhaps due to comma placement issue'"
 
 #write output
   write.csv(x = ausbirds,
@@ -59,7 +59,8 @@
 # zipping
 
   R.utils::gzip(filename = "_data/R/temp/australian-birds.csv",
-       destname = "_data/R/summaries/australian-birds.csv.gz")
+       destname = "_data/R/summaries/australian-birds.csv.gz",
+       overwrite = TRUE)
   
 # clean up
   
