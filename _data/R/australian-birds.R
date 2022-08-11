@@ -1,4 +1,5 @@
 #load libraries
+
   library(tidyverse)
 
 # create temporary directory
@@ -40,6 +41,15 @@
     mutate(accessDate = Sys.Date(),
            OTNdatasetID = dataset,
            curator = curator) -> ausbirds
+  
+# toss malformed names
+
+  ausbirds <- 
+    ausbirds[which(as.numeric(sapply(X = ausbirds$scientificNameVerbatim,
+        FUN = function(x){length(strsplit(x = x,
+                              split = " ")[[1]])}))==2),]
+  
+ ausbirds$comment <- "malformed entries in database, perhaps due to comma placement issue"
 
 #write output
   write.csv(x = ausbirds,
@@ -54,8 +64,6 @@
 # clean up
   
   unlink(file.path("_data/R/temp/"), recursive = TRUE)
-  
-  
   
   
   
