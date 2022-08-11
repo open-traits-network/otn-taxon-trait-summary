@@ -29,6 +29,8 @@ for (z in 1:length(names(all.data))){
   headerTableT <- bind_rows(headerTable,all.data[[z]])
   headerTable <- headerTableT
 }
+
+# account for species level resolution in taxonomy here 
   
 tail(headerTable)
 write.csv(file="_data/R/summaries/_all.csv",headerTable, row.names = F)
