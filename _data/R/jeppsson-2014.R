@@ -11,7 +11,7 @@ if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 # set variables
 curator <- "https://opentraits.org/members/alexander-keller"
 dataset_url <- "https://opentraits.org/datasets/Jeppsson_2014"
-dataset <- "Jeppsson_2014"
+dataset <- "jeppsson-2014"
 
 # Download file
 download.file(url = "https://datadryad.org/stash/downloads/file_stream/59837",
