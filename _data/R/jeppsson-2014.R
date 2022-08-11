@@ -1,6 +1,6 @@
 library(reshape2)
 library(dplyr)
-library(readxl)
+#library(readxl)
 
 root.dir = getwd()
 
@@ -10,27 +10,28 @@ if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 
 # set variables
 curator <- "https://opentraits.org/members/alexander-keller"
-dataset_url <- "https://opentraits.org/datasets/avianhwi"
-dataset <- "avianhwi"
+dataset_url <- "https://opentraits.org/datasets/Jeppsson_2014"
+dataset <- "Jeppsson_2014"
 
 # Download file
-download.file(url = "https://zenodo.org/record/3832215/files/catherinesheard/Global-HWI-v1.1.zip?download=1",
+download.file(url = "https://datadryad.org/stash/downloads/file_stream/59837",
               destfile = paste("_data/R/temp/",dataset, sep=""))
 setwd("_data/R/temp")
+
 
 # unzipping if necessary
 unzip(dataset)
 
 # setting location of table and read file
-path <- "Dataset HWI 2020-04-10.xlsx"
+path <- "AnimCons_speciesdata/data/longhorn_species_data.csv"
 
-traits <- data.frame(read_excel(paste("./", path, sep="")))
+traits <- data.frame(read.csv(paste("./", path, sep=""), sep="|"))
 
 head(traits)
-cols.used <- c(3,6,8,9,11,13,14,15)
+cols.used <- c(1:8)
 
 ## reshape from wide to long 
-traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[3]))
+traits_long <- melt(traits[,cols.used], id.vars=c(colnames(traits)[1]))
 
 ## filter NAs
 traits_long.filter <- traits_long[!is.na(traits_long[,3]),]
