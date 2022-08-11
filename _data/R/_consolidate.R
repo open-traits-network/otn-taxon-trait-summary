@@ -3,33 +3,34 @@ library(dplyr)
 
 root.dir <- getwd()
 
-if(!dir.exists("_data/R/temp_consolidate")){dir.create("_data/R/temp_consolidate")}
-list.zip <- list.files(path = "_data/R/summaries")
+#if(!dir.exists("_data/R/temp_consolidate")){dir.create("_data/R/temp_consolidate")}
+list.zip <- list.files(path = "_data/R/summaries", pattern="csv.gz")
 
 setwd("_data/R/summaries/")
 
 all.data <- list()
 
 for (i in 1:length(list.zip)){
-  unzip(list.zip[i])
-  file.copy(gsub("zip","csv",list.zip[i]), "../temp_consolidate")
-  unlink(gsub("zip","csv",list.zip[i]))
-  all.data[[gsub(".zip","",list.zip[i])]]<-read.table(paste("../temp_consolidate/",gsub("zip","csv",list.zip[i]),sep=""), sep=",", header=T, row.names=1)
+  gunzip(list.zip[i], overwrite=T, remove=F)
+  all.data[[gsub(".csv.gz","",list.zip[i])]]<-read.table(paste("./",gsub("csv.gz","csv",list.zip[i]),sep=""), sep=",", header=T)
 }
 
 setwd(root.dir)
 
-headerTable = data.frame(matrix(vector(), 0, 21,
-                        dimnames=list(c(), c("taxonIdVerbatim","scientificNameVerbatim","resolvedTaxonId","resolvedTaxonName","parentTaxonId","family","phylum","traitIdVerbatim","traitNameVerbatim","bucketId","bucketName","counts","datasetId","numberOfRecords","curator","accessDate"))),
+columnNames <- c("taxonIdVerbatim","scientificNameVerbatim","resolvedTaxonId","resolvedTaxonName","parentTaxonId","family","phylum","traitIdVerbatim","traitNameVerbatim","bucketId","bucketName","counts","datasetId","numberOfRecords","curator","accessDate")
+
+headerTable = data.frame(matrix(vector(), 1, length(columnNames),
+                        dimnames=list(c(), columnNames)),
                         stringsAsFactors=F)
 
 
 for (z in 1:length(names(all.data))){
-  all.data[[z]]$taxonIDVerbatim <- as.character(all.data[[z]]$taxonIDVerbatim)
-  headerTable <- bind_rows(headerTable,all.data[[z]])
+  if(!is.null(all.data[[z]]$taxonIdVerbatim)){all.data[[z]]$taxonIdVerbatim <- as.character(all.data[[z]]$taxonIdVerbatim)}
+  headerTableT <- bind_rows(headerTable,all.data[[z]])
+  headerTable <- headerTableT
 }
   
 tail(headerTable)
-write.csv(file="_data/R/summaries/_all.csv",headerTable)
-zip("_data/R/_all.zip","_data/R/summaries/_all.csv")
-unlink("_data/R/summaries/_all.csv")
+write.csv(file="_data/R/summaries/_all.csv",headerTable, row.names = F)
+gzip("_data/R/summaries/_all.csv",destname="_data/R/_all.zip",overwrite=T)
+unlink("_data/R/summaries/*.csv")
