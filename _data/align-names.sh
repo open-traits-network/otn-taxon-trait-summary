@@ -87,9 +87,23 @@ function align-traits {
   > "$WORKDIR/_all_taxon_traits_aligned.tsv.gz"
 
   cat "$WORKDIR/_all_taxon_traits_aligned.tsv.gz"\
+  > "R/traits.tsv.gz"
+
+  cat "R/traits.tsv.gz"\
+  | gunzip\
+  | head -n101\
+  > "R/traits-sample.tsv"
+
+  cat "R/traits.tsv.gz"\
   | gunzip\
   | mlr --itsvlite --ocsv cat\
-  > "$WORKDIR/_all_taxon_traits_aligned.csv.gz"
+  | gzip\
+  > "R/traits.csv.gz"
+
+  cat "R/traits.csv.gz"\
+  | gunzip\
+  | head -n101\
+  > "R/traits-sample.csv"
 }
 
 
