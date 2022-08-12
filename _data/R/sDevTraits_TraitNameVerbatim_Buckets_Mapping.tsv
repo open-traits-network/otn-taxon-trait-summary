@@ -1,0 +1,2216 @@
+OTN_DatasetID	traitNameVerbatim	Trait bucket
+Arthropod-species-traits	Body_Size	Morphology/Body size
+Arthropod-species-traits	Dispersal_ability	Reproduction/Life history
+Arthropod-species-traits	Endophagous_lifestyle	
+Arthropod-species-traits	Feeding_guild	Interaction
+Arthropod-species-traits	Feeding_guild_short	Interaction
+Arthropod-species-traits	Feeding_mode	Interaction
+Arthropod-species-traits	Feeding_plant_part	Interaction
+Arthropod-species-traits	Feeding_specialization	Interaction
+Arthropod-species-traits	Feeding_tissue	Interaction
+Arthropod-species-traits	Stratum_use	
+Arthropod-species-traits	Stratum_use_short	
+Australian-birds	X100_Body_mass_min_8	Morphology/Body size
+Australian-birds	X101_Body_mass_max_8	Morphology/Body size
+Australian-birds	X102_Male_body_mass_average_8	Morphology/Body size
+Australian-birds	X103_Male_body_mass_min_8	Morphology/Body size
+Australian-birds	X104_Male_body_mass_max_8	Morphology/Body size
+Australian-birds	X105_Female_body_mass_average_8	Morphology/Body size
+Australian-birds	X106_Female_body_mass_min_8	Morphology/Body size
+Australian-birds	X107_Female_body_mass_max_8	Morphology/Body size
+Australian-birds	X108_Unsexed_body_mass_average_8	Morphology/Body size
+Australian-birds	X109_Unsexed_body_mass_min_8	Morphology/Body size
+Australian-birds	X110_Unsexed_body_mass_max_8	Morphology/Body size
+Australian-birds	X112_Brain_volume_8	Morphology
+Australian-birds	X113_Brain_mass_8	Morphology
+Australian-birds	X114_Brain_mass_residual_8	Morphology
+Australian-birds	X115_Feeding_habitat_Terrestrial_Arid_shrubland_9	Habitat
+Australian-birds	X116_Feeding_habitat_Terrestrial_Chenopod_shrubland_9	Habitat
+Australian-birds	X117_Feeding_habitat_Terrestrial_Heath_9	Habitat
+Australian-birds	X118_Feeding_habitat_Terrestrial_Triodia_hummock_grassland_9	Habitat
+Australian-birds	X119_Feeding_habitat_Terrestrial_Other_grassland_9	Habitat
+Australian-birds	X120_Feeding_habitat_Terrestrial_Mallee_9	Habitat
+Australian-birds	X121_Feeding_habitat_Terrestrial_Tropical_savanna_woodland_9	Habitat
+Australian-birds	X122_Feeding_habitat_Terrestrial_Temperate_dry_sclerophyll_forest_and_woodland_9	Habitat
+Australian-birds	X123_Feeding_habitat_Terrestrial_Temperate_wet_sclerophyll_forest_and_woodland_9	Habitat
+Australian-birds	X124_Feeding_habitat_Terrestrial_Rainforest_9	Habitat
+Australian-birds	X125_Feeding_habitat_Terrestrial_Mangrove_trees_9	Habitat
+Australian-birds	X126_Feeding_habitat_Inland_waters_Rivers_and_streams_9	Habitat
+Australian-birds	X127_Feeding_habitat_Inland_waters_Deep_open_water_9	Habitat
+Australian-birds	X128_Feeding_habitat_Inland_waters_Shallow_open_water_9	Habitat
+Australian-birds	X129_Feeding_habitat_Inland_waters_Reeds_and_tall_wet_grassland_9	Habitat
+Australian-birds	X130_Feeding_habitat_Inland_waters_Low_marshland_and_wet_grassland_9	Habitat
+Australian-birds	X131_Feeding_habitat_Coastal_Sandy_9	Habitat
+Australian-birds	X132_Feeding_habitat_Coastal_Rocky_9	Habitat
+Australian-birds	X133_Feeding_habitat_Coastal_Soft_mud_9	Habitat
+Australian-birds	X134_Feeding_habitat_Coastal_Saltmarsh_9	Habitat
+Australian-birds	X135_Feeding_habitat_Coastal_Mangrove_floor_9	Habitat
+Australian-birds	X136_Feeding_habitat_Marine_Very_cold_pelagic_9	Habitat
+Australian-birds	X137_Feeding_habitat_Marine_Cold_pelagic_9	Habitat
+Australian-birds	X138_Feeding_habitat_Marine_Temperate_pelagic_9	Habitat
+Australian-birds	X139_Feeding_habitat_Marine_Warm_pelagic_9	Habitat
+Australian-birds	X140_Feeding_habitat_Marine_Cold_inshore_9	Habitat
+Australian-birds	X141_Feeding_habitat_Marine_Temperate_inshore_9	Habitat
+Australian-birds	X142_Feeding_habitat_Marine_Warm_inshore_9	Habitat
+Australian-birds	X143_Feeding_habitat_Other_non.Australian_habitat_9	Habitat
+Australian-birds	X144_Feeding_habitat_Agricultural_landscapes_9	Habitat
+Australian-birds	X145_Feeding_habitat_Urban_landscapes_9	Habitat
+Australian-birds	X146_Breeding_habitat_Arid_shrubland_9	Habitat
+Australian-birds	X147_Breeding_habitat_Chenopod_shrubland_9	Habitat
+Australian-birds	X148_Breeding_habitat_Heath_9	Habitat
+Australian-birds	X149_Breeding_habitat_Triodia_hummock_grassland_9	Habitat
+Australian-birds	X150_Breeding_habitat_Other_grassland_9	Habitat
+Australian-birds	X151_Breeding_habitat_Mallee_9	Habitat
+Australian-birds	X152_Breeding_habitat_Tropical_savanna_woodland_9	Habitat
+Australian-birds	X153_Breeding_habitat_Temperate_dry_sclerophyll_forest_and_woodland_9	Habitat
+Australian-birds	X154_Breeding_habitat_Temperate_wet_sclerophyll_forest_and_woodland_9	Habitat
+Australian-birds	X155_Breeding_habitat_Rainforest_9	Habitat
+Australian-birds	X156_Breeding_habitat_Mangrove_9	Habitat
+Australian-birds	X157_Breeding_habitat_inland_wetland_9	Habitat
+Australian-birds	X158_Breeding_habitat_Beaches_and_sand_cays_9	Habitat
+Australian-birds	X159_Breeding_habitat_Rocky_coasts_and_islets_9	Habitat
+Australian-birds	X160_Breeding_habitat_Other_non.Australian_habitats_9	Habitat
+Australian-birds	X161_Breeding_habitat_Agricultural_lands_9	Habitat
+Australian-birds	X162_Breeding_habitat_Urban_9	Habitat
+Australian-birds	X163_Food_Fruit_10	Interaction
+Australian-birds	X164_Food_Nectar_or_pollen_10	Interaction
+Australian-birds	X165_Food_Seeds_10	Interaction
+Australian-birds	X166_Food_Foliage_or_herbs_10	Interaction
+Australian-birds	X167_Food_Corms_or_tubers	Interaction
+Australian-birds	X168_Food_Terrestrial_invertebrates_10	Interaction
+Australian-birds	X169_Food_Terrestrial_vertebrates_10	Interaction
+Australian-birds	X170_Food_Carrion_10	Interaction
+Australian-birds	X171_Food_Intertidal_invertebrates_10	Interaction
+Australian-birds	X172_Food_Fish_or_invertebrates_Marine_10	Interaction
+Australian-birds	X173_Food_fish_or_invertebrates_Inland_waters_10	Interaction
+Australian-birds	X174_Feeding_aggregation_Solitary_11	Interaction
+Australian-birds	X175_Feeding_aggregation_Pairs_11	Interaction
+Australian-birds	X176_Feeding_aggregation_Flocks_11	Interaction
+Australian-birds	X177_Mean_Flight_Initiation_Distance_11	
+Australian-birds	X178_Clutch_size_average_12	
+Australian-birds	X179_Clutch_size_min_12	
+Australian-birds	X180_Clutch_size_max_12	
+Australian-birds	X181_Egg_length_12	
+Australian-birds	X182_Egg_diameter_12	
+Australian-birds	X183_Nest_location_Ground_level_12	
+Australian-birds	X184_Nest_location_Supported_12	
+Australian-birds	X185_Nest_location_Hanging_12	
+Australian-birds	X186_Nest_location_Burrow_12	
+Australian-birds	X187_Nest_location_Hollow_12	
+Australian-birds	X188_Nest_location_Floating_12	
+Australian-birds	X189_Nest_aggregation_Solitary_12	
+Australian-birds	X190_Nest_aggregation_Colonial_12	
+Australian-birds	X191_Nest_aggregation_Parasitic_12	Interaction
+Australian-birds	X192_Breeding_system_Cooperative_12	
+Australian-birds	X96_Body_length_8	Morphology/Body size
+Australian-birds	X97_Body_length_min_8	Morphology/Body size
+Australian-birds	X98_Body_length_max_8	Morphology/Body size
+Australian-birds	X99_Body_mass_average_8	Morphology/Body size
+Avonet	Beak.Depth	Morphology
+Avonet	Beak.Length_Culmen	
+Avonet	Beak.Length_Nares	
+Avonet	Beak.Width	
+Avonet	Hand.wing.Index	
+Avonet	Kipps.Distance	
+Avonet	Secondary1	
+Avonet	Tail.Length	
+Avonet	Tarsus.Length	
+Avonet	Wing.Length	Morphology/Body size
+TRY	Bark calcium (Ca) content per bark dry mass	Physiology
+TRY	Bark carbon (C) content per bark dry mass	Physiology
+TRY	Bark carbon (C) isotope signature (delta 13C)	Physiology
+TRY	Bark carbon/nitrogen (C/N) ratio	Physiology
+TRY	Bark copper (Cu) content per bark dry mass	Physiology
+TRY	Bark crystals	
+TRY	Bark density (bark dry mass per bark volume)	
+TRY	Bark iron (Fe) content per bark dry mass	Physiology
+TRY	Bark magnesium (Mg) content per bark dry mass	Physiology
+TRY	Bark manganese (Mn) content per bark dry mass	Physiology
+TRY	Bark nitrogen (N) content per bark dry mass	Physiology
+TRY	Bark nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Bark persistence (deciduous, persistent)	
+TRY	Bark phosphorus (P) content per bark dry mass	Physiology
+TRY	Bark potassium (K) content per bark dry mass	Physiology
+TRY	Bark sclereids arrangement	
+TRY	Bark secondary compounds: oil, tannins, latex, slime	
+TRY	Bark sieve tubes grouping	
+TRY	Bark structure	
+TRY	Bark sulfur (S) content per bark dry mass	Physiology
+TRY	Bark surface structure, texture, age	
+TRY	Bark thickness	
+TRY	Bark thickness (inner bark)	
+TRY	Bark thickness (outer bark)	
+TRY	Bark thickness per stem diameter	
+TRY	Bark zinc (Zn) content per bark dry mass	Physiology
+TRY	Belowground plant organ acid hydrolyzable extractives per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ annual loss of nitrogen (N) through belowground plant organ mortality as a fraction of annual nitrogen uptake	Physiology
+TRY	Belowground plant organ annual loss of nitrogen (N) through belowground plant organ mortality as a fraction of plant N storage	Physiology
+TRY	Belowground plant organ calcium (Ca) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ carbon (C) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ carbon/nitrogen (C/N) ratio	Physiology
+TRY	Belowground plant organ cellulose and hemicellulose content per belowground plant organ dry mass	
+TRY	Belowground plant organ cellulose content per belowground plant organ dry mass	
+TRY	Belowground plant organ construction cost per belowground plant organ dry mass	
+TRY	Belowground plant organ debris decomposition rate constant	
+TRY	Belowground plant organ decomposition: fraction carbon (C) remaining	Physiology
+TRY	Belowground plant organ decomposition: fraction nitrogen (N) remaining	Physiology
+TRY	Belowground plant organ decomposition: fraction of belowground plant organ dry mass not decomposed to original belowground plant organ dry mass	
+TRY	Belowground plant organ diameter	
+TRY	Belowground plant organ dry mass per belowground plant organ fresh mass (belowground plant organ dry matter content; RDMC)	
+TRY	Belowground plant organ dry mass per ground area	
+TRY	Belowground plant organ dry mass soluble in neutral solution per belowground plant organ dry mass	
+TRY	Belowground plant organ dry mass soluble in nonpolar extractives per belowground plant organ dry mass	
+TRY	Belowground plant organ dry mass to leaf dry mass ratio	
+TRY	Belowground plant organ dry mass turnover rate	
+TRY	Belowground plant organ growth: belowground plant organ dry mass production per ground area per day	
+TRY	Belowground plant organ growth: belowground plant organ dry mass production per ground area per year	
+TRY	Belowground plant organ growth: fraction of belowground plant organs recovering from pruning	
+TRY	Belowground plant organ hemicellulose content per belowground plant organ dry mass	
+TRY	Belowground plant organ iron (Fe) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ length per belowground plant organ dry mass (specific belowground plant organ length, SRL)	
+TRY	Belowground plant organ lignin content per belowground plant organ dry mass	
+TRY	Belowground plant organ magnesium (Mg) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ morphological adaptations: aerenchyma	
+TRY	Belowground plant organ necromass (dead dry mass) per ground area for specified soil depth increment	
+TRY	Belowground plant organ necromass to biomass ratio	
+TRY	Belowground plant organ nitrogen (N) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ nitrogen (N) per ground area	Physiology
+TRY	Belowground plant organ nitrogen (N) uptake per ground area per year	Physiology
+TRY	Belowground plant organ nitrogen (N) uptake rate	Physiology
+TRY	Belowground plant organ persistence (lifespan, longevity)	
+TRY	Belowground plant organ phenols content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ phosphorus (P) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ polyphenol content per belowground plant organ dry mass	
+TRY	Belowground plant organ potassium (K) content per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ ratio of lignin to nitrogen (N)	Physiology
+TRY	Belowground plant organ respiration rate per belowground plant organ dry mass	Physiology
+TRY	Belowground plant organ rooting depth	
+TRY	Belowground plant organ tissue density (belowground plant organ dry mass per belowground plant organ volume)	
+TRY	Belowground plant organ water soluble compounds per belowground plant organ dry mass	
+TRY	Belowground plant organ water soluble sugar content per belowground plant organ dry mass	
+TRY	Belowground plant organ/shoot ratio	
+TRY	Branch annual growth	
+TRY	Branch calcium (Ca) content per branch dry mass	Physiology
+TRY	Branch carbon (C) content per branch dry mass	Physiology
+TRY	Branch copper (Cu) content per branch dry mass	Physiology
+TRY	Branch cross-sectional fraction of bark	
+TRY	Branch cross-sectional fraction of conduits (vessels)	
+TRY	Branch cross-sectional fraction of fiber	
+TRY	Branch cross-sectional fraction of parenchyma	
+TRY	Branch cross-sectional fraction of pith	
+TRY	Branch cross-sectional fraction of xylem	
+TRY	Branch diameter	
+TRY	Branch dry mass	
+TRY	Branch dry mass per ground area	
+TRY	Branch hydraulic conductance	
+TRY	Branch iron (Fe) content per branch dry mass	Physiology
+TRY	Branch magnesium (Mg) content per branch dry mass	Physiology
+TRY	Branch manganese (Mn) content per branch dry mass	Physiology
+TRY	Branch nitrogen (N) content per branch dry mass	Physiology
+TRY	Branch nitrogen (N) content per branch dry mass per leaf nitrogen (N) content per leaf dry mass (branch vs. leaf nitrogen concentration)	Physiology
+TRY	Branch nitrogen (N) content per ground area	Physiology
+TRY	Branch number of secondary branches at first branching	
+TRY	Branch number per height along the shoot axis	
+TRY	Branch phosphorus (P) content per branch dry mass	Physiology
+TRY	Branch potassium (K) content per branch dry mass	Physiology
+TRY	Branch respiration rate per branch dry mass	Physiology
+TRY	Branch respiration rate per branch nitrogen (N) content	Physiology
+TRY	Branch respiration rate per branch surface area	Physiology
+TRY	Branch respiration rate per branch volume	Physiology
+TRY	Branch respiration temperature dependence	Physiology
+TRY	Branch sulfur (S) content per branch dry mass	Physiology
+TRY	Branch vessel density	
+TRY	Branch vessel diameter	
+TRY	Branch zinc (Zn) content per branch dry mass	Physiology
+TRY	Bud frost hardiness (leaf-buds)	
+TRY	Bud physical defence	
+TRY	Bud source	
+TRY	Budbank height distribution	
+TRY	Budbank seasonality	
+TRY	Budburst mean date	
+TRY	Coarse root 12 phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root aluminium (Al) content per coarse root dry mass	Physiology
+TRY	Coarse root antimony (Sb) content per coarse root dry mass	
+TRY	Coarse root arabinans content per coarse root dry mass	
+TRY	Coarse root arsenic (As) content per coarse root dry mass	
+TRY	Coarse root bound phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root branching intensity 3: number of root tips per total coarse root length	
+TRY	Coarse root cadmium (Cd) content per coarse root dry mass	Physiology
+TRY	Coarse root calcium (Ca) content per coarse root dry mass	Physiology
+TRY	Coarse root carbon (C) content not hydrolyzable in acid extractives per coarse root carbon (C) content	Physiology
+TRY	Coarse root carbon (C) content per coarse root dry mass	Physiology
+TRY	Coarse root carbon (C) content per ground area	Physiology
+TRY	Coarse root carbon/nitrogen (C/N) ) ratio	Physiology
+TRY	Coarse root carbon/nitrogen (C/N) ratio	Physiology
+TRY	Coarse root cellulose and hemicellulose content per coarse root dry mass	
+TRY	Coarse root cellulose content per coarse root dry mass	
+TRY	Coarse root chromium (Cr) content per coarse root dry mass	Physiology
+TRY	Coarse root cinnamyl phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root Cl- ion content per coarse root dry mass	
+TRY	Coarse root conduit diameter	
+TRY	Coarse root copper (Cu) content per coarse root dry mass	Physiology
+TRY	Coarse root cortex thickness	
+TRY	Coarse root cross-sectional fraction of stele area to coarse root area	
+TRY	Coarse root debris decomposition rate constant	
+TRY	Coarse root decomposition: fraction nitrogen (N) remaining	Physiology
+TRY	Coarse root decomposition: fraction of coarse root dry mass not decomposed to original coarse root dry mass	
+TRY	Coarse root density on screen: number of coarse roots per area of in-growth screen	
+TRY	Coarse root diameter	
+TRY	Coarse root dry mass fraction in respective root diameter class	
+TRY	Coarse root dry mass fraction in respective root order	
+TRY	Coarse root dry mass per ground area	
+TRY	Coarse root dry mass per soil volume	
+TRY	Coarse root dry mass to leaf dry mass ratio	
+TRY	Coarse root dry mass turnover	
+TRY	Coarse root dry mass turnover rate	
+TRY	Coarse root ethanol soluble compounds per coarse root dry mass	
+TRY	Coarse root free phenols content per coarse root carbon (C) content	Physiology
+TRY	Coarse root galactans content per coarse root dry mass	
+TRY	Coarse root growth: coarse root carbon (C) production per ground area and time	Physiology
+TRY	Coarse root growth: coarse root dry mass production per ground area per day	
+TRY	Coarse root growth: coarse root dry mass production per ground area per duration of exposition	
+TRY	Coarse root growth: coarse root dry mass production per ground area per year	
+TRY	Coarse root growth: coarse root elongation	
+TRY	Coarse root growth: coarse root length production per ground area per year	
+TRY	Coarse root growth: coarse root surface area produced per ground area per year	
+TRY	Coarse root growth: fraction of coarse root number that has elongated since last measurement to total number of coarse roots	
+TRY	Coarse root hemicellulose content per coarse root dry mass	
+TRY	Coarse root iron (Fe) content per coarse root dry mass	Physiology
+TRY	Coarse root lead (Pb) content per coarse root dry mass	Physiology
+TRY	Coarse root length density (RLD): coarse root length per ground area	
+TRY	Coarse root length fraction in respective root diameter class	
+TRY	Coarse root length per coarse root dry mass (specific coarse root length, SRL)	
+TRY	Coarse root length per soil volume	
+TRY	Coarse root length: distance from coarse root base to tip	
+TRY	Coarse root lifespan: fraction of coarse roots that live to the age in ôcoarse root ageö	
+TRY	Coarse root lignin content per coarse root dry mass	
+TRY	Coarse root lignin phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root lignin phenol vegetation index	
+TRY	Coarse root magnesium (Mg) content per coarse root dry mass	Physiology
+TRY	Coarse root manganese (Mn) content per coarse root dry mass	Physiology
+TRY	Coarse root mannans content per coarse root dry mass	
+TRY	Coarse root mercury (Hg) content per coarse root dry mass	Physiology
+TRY	Coarse root molybdenum (Mo) content per coarse root dry mass	
+TRY	Coarse root mortality: coarse root dry mass mortality per ground area and time	
+TRY	Coarse root necromass (dead dry mass) per ground area for specified soil depth increment	
+TRY	Coarse root necromass to biomass ratio	
+TRY	Coarse root nickel (Ni) content per coarse root dry mass	Physiology
+TRY	Coarse root nitrogen (N) content per coarse root dry mass	Physiology
+TRY	Coarse root nitrogen (N) content per ground area	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar 15N-Glycine per shoot dry mass	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar 15NH4+ per shoot dry mass	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar 15NO3- per shoot dry mass	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar inorganic N uptake per coarse root area	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar NH4+ uptake per coarse root area	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar NO3- uptake per coarse root area	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar organic N uptake per coarse root area	Physiology
+TRY	Coarse root nitrogen (N) uptake of molar total 15N per shoot dry mass	Physiology
+TRY	Coarse root nitrogen (N) uptake per ground area per year	Physiology
+TRY	Coarse root phosphorus (P) content per coarse root dry mass	Physiology
+TRY	Coarse root p-hydroxy phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root potassium (K) content per coarse root dry mass	Physiology
+TRY	Coarse root ratio of 3,5-dihydroxybenzoic acid groups to vanillyl phenols	Physiology
+TRY	Coarse root ratio of number of acid groups to number of aldehyde groups in syringyl phenols	Physiology
+TRY	Coarse root ratio of number of acid groups to number of aldehyde groups in vanillyl phenols	Physiology
+TRY	Coarse root ratio of of cinnamyl phenol to vanillyl phenol	
+TRY	Coarse root ratio of of syringyl phenol to vanillyl phenol	
+TRY	Coarse root ratio of vanillyl phenol to lignin phenol	
+TRY	Coarse root respiration rate per coarse root dry mass	Physiology
+TRY	Coarse root rhamnans content per coarse root dry mass	
+TRY	Coarse root rooting depth	
+TRY	Coarse root rooting depth: fraction of coarse root dry mass contained in depth interval	
+TRY	Coarse root silicon (Si) content per coarse root dry mass	
+TRY	Coarse root sodium (Na) content per coarse root dry mass	Physiology
+TRY	Coarse root sodium (Na+) ion content per coarse root dry mass	Physiology
+TRY	Coarse root starch content per dry mass	
+TRY	Coarse root stele diameter	
+TRY	Coarse root stele fraction: stele diameter divided by coarse root diameter	
+TRY	Coarse root sulfur (S) content per coarse root dry mass	Physiology
+TRY	Coarse root surface area fraction in respective root order	
+TRY	Coarse root surface area per coarse root dry mass (specific coarse root area)	
+TRY	Coarse root syringyl phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root thallium (Ti) content per coarse root dry mass	
+TRY	Coarse root tissue density (coarse root dry mass per coarse root volume)	
+TRY	Coarse root to fine root mass ratio	
+TRY	Coarse root total non-structural carbon (TNC) content per coarse root dry mass	Physiology
+TRY	Coarse root vanillyl phenol content per coarse root carbon (C) content	Physiology
+TRY	Coarse root volume per ground area	
+TRY	Coarse root water or ethanol soluble compounds per coarse root dry mass	
+TRY	Coarse root water soluble compounds per coarse root dry mass	
+TRY	Coarse root xylans content per coarse root dry mass	
+TRY	Coarse root xylem vessel density in stele: number of xylem vessels per square millimeter of coarse root stele	
+TRY	Coarse root zinc (Zn) content per coarse root dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: calcium (Ca) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: carbon (C) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: carbon/nitrogen (C/N) ratio	Physiology
+TRY	Coarse woody debris (CWD) branch: cellulose content per branch CWD dry mass	
+TRY	Coarse woody debris (CWD) branch: copper (Cu) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: decomposition rate	
+TRY	Coarse woody debris (CWD) branch: decomposition rate constant	
+TRY	Coarse woody debris (CWD) branch: density	
+TRY	Coarse woody debris (CWD) branch: hemicellulose content per branch CWD dry mass	
+TRY	Coarse woody debris (CWD) branch: iron (Fe) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: lignin content per branch CWD dry mass	
+TRY	Coarse woody debris (CWD) branch: lignin/nitrogen (lignin/N) ratio	Physiology
+TRY	Coarse woody debris (CWD) branch: magnesium (Mg) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: manganese (Mn) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: nitrogen (N) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: phosphorus (P) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: potassium (K) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: rot type	
+TRY	Coarse woody debris (CWD) branch: sodium (Na) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: sulfur (S) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) branch: zinc (Zn) content per branch CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: calcium (Ca) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: carbon (C) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: carbon/nitrogen (C/N) ratio	Physiology
+TRY	Coarse woody debris (CWD) root: cellulose content per coarse root CWD dry mass	
+TRY	Coarse woody debris (CWD) root: decomposition rate	
+TRY	Coarse woody debris (CWD) root: decomposition rate constant	
+TRY	Coarse woody debris (CWD) root: density	
+TRY	Coarse woody debris (CWD) root: lignin content per coarse root CWD dry mass	
+TRY	Coarse woody debris (CWD) root: lignin/nitrogen (lignin/N) ratio	Physiology
+TRY	Coarse woody debris (CWD) root: magnesium (Mg) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: manganese (Mn) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: nitrogen (N) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: phosphorus (P) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: potassium (K) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: rot type	
+TRY	Coarse woody debris (CWD) root: sodium (Na) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) root: wood fraction	
+TRY	Coarse woody debris (CWD) root: zinc (Zn) content per coarse root CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD) stem: acetals content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: alkyls content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: aluminium (Al) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: aromatic content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: bark fraction	
+TRY	Coarse woody debris (CWD) stem: calcium (Ca) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: carbon (C) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: carbon/nitrogen (C/N) ratio	Physiology
+TRY	Coarse woody debris (CWD) stem: carboxyls content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: cellulose content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: decomposition rate	
+TRY	Coarse woody debris (CWD) stem: decomposition rate constant	
+TRY	Coarse woody debris (CWD) stem: iron (Fe) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: lignin content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: lignin/nitrogen ratio	Physiology
+TRY	Coarse woody debris (CWD) stem: magnesium (Mg) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: manganese (Mn) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: N-alkyl content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: nitrogen (N) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: O-alkyl content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: pH	
+TRY	Coarse woody debris (CWD) stem: phenols content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: phosphorus (P) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: potassium (K) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: protein content per stem CWD	
+TRY	Coarse woody debris (CWD) stem: rot type	
+TRY	Coarse woody debris (CWD) stem: sodium (Na) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: sulfur (S) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD) stem: wood fraction	
+TRY	Coarse woody debris (CWD) stem: zinc (Zn) content per stem CWD	Physiology
+TRY	Coarse woody debris (CWD): calcium (Ca) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): carbon (C) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): carbon/nitrogen (C/N) ratio	Physiology
+TRY	Coarse woody debris (CWD): cellulose content per CWD dry mass	
+TRY	Coarse woody debris (CWD): decomposition rate	
+TRY	Coarse woody debris (CWD): density	
+TRY	Coarse woody debris (CWD): lignin content per CWD dry mass	
+TRY	Coarse woody debris (CWD): magnesium (Mg) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): manganese (Mn) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): nitrogen (N) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): phosphorus (P) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): potassium (K) content per CWD dry mass	Physiology
+TRY	Coarse woody debris (CWD): sodium (Na) content per CWD dry mass	Physiology
+TRY	Cone (strobilus) calcium (Ca) content per cone dry mass	Physiology
+TRY	Cone (strobilus) copper (Cu) content per cone dry mass	Physiology
+TRY	Cone (strobilus) diameter	
+TRY	Cone (strobilus) dry mass	
+TRY	Cone (strobilus) iron (Fe) content per cone dry mass	Physiology
+TRY	Cone (strobilus) length	
+TRY	Cone (strobilus) magnesium (Mg) content per cone dry mass	Physiology
+TRY	Cone (strobilus) manganese (Mn) content per cone dry mass	Physiology
+TRY	Cone (strobilus) nitrogen (N) content per cone dry mass	Physiology
+TRY	Cone (strobilus) phosphorus (P) content per cone dry mass	Physiology
+TRY	Cone (strobilus) potassium (K) content per cone dry mass	Physiology
+TRY	Cone (strobilus) sulfur (S) content per cone dry mass	Physiology
+TRY	Cone (strobilus) zinc (Zn) content per cone dry mass	Physiology
+TRY	Crown (canopy) base height (ground to base)	
+TRY	Crown (canopy) density	
+TRY	Crown (canopy) exposure index	
+TRY	Crown (canopy) form	
+TRY	Crown (canopy) ground area fraction covered by projected canopy	
+TRY	Crown (canopy) height (base to top)	
+TRY	Crown (canopy) length: diameter along the longest axis	
+TRY	Crown (canopy) mass per ground area	
+TRY	Crown (canopy) nitrogen (N) content per ground area	Physiology
+TRY	Crown (canopy) radiation extinction coefficient	
+TRY	Crown (canopy) rainfall (water) interception	
+TRY	Crown (canopy) structure	
+TRY	Crown (canopy) transpiration	
+TRY	Crown (canopy) width	
+TRY	Dispersal distance	
+TRY	Dispersal frequenzy	
+TRY	Dispersal kernel measurement (relative abundance at given distance)	
+TRY	Dispersal probability	
+TRY	Dispersal syndrome	
+TRY	Dispersal unit appendages	
+TRY	Dispersal unit color	
+TRY	Dispersal unit dry mass	
+TRY	Dispersal unit exposure	
+TRY	Dispersal unit floating capacity	
+TRY	Dispersal unit length	
+TRY	Dispersal unit shape	
+TRY	Dispersal unit surface structure	
+TRY	Dispersal unit thickness	
+TRY	Dispersal unit type	
+TRY	Dispersal unit width	
+TRY	Fine root (absorptive) 12 phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) acid hydrolyzable extractives per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) acid phosphatase activity per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) alkyl carbon (C) content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) aluminium (Al) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) arsenic (As) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) bound phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) branching intensity 1 (branching ratio): number of absorptive fine roots per higher order root	Morphology
+TRY	Fine root (absorptive) branching intensity 2: number of root tips per higher order root length	Morphology
+TRY	Fine root (absorptive) branching intensity 3: number of root tips per total fine root (absorptive) length	Morphology
+TRY	Fine root (absorptive) cadmium (Cd) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) calcium (Ca) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) carbon (C) content not hydrolyzable in acid extractives per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) carbon (C) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) carbon content per ground area	Physiology
+TRY	Fine root (absorptive) carbon content per soil dry mass	Physiology
+TRY	Fine root (absorptive) carbon/nitrogen (C/N) ratio	Physiology
+TRY	Fine root (absorptive) cellulose carbon (C) per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) chromium (Cr) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) cinnamyl phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) Cl- ion content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) color	Morphology
+TRY	Fine root (absorptive) condensed tannins	Physiology
+TRY	Fine root (absorptive) conduit cell wall thickness	Morphology
+TRY	Fine root (absorptive) conduit density: number of conduits per stele cross-section area	Morphology
+TRY	Fine root (absorptive) conduit diameter	Morphology
+TRY	Fine root (absorptive) copper (Cu) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) cortex thickness	Morphology
+TRY	Fine root (absorptive) cross-sectional area	Morphology
+TRY	Fine root (absorptive) cross-sectional area of root stele	Morphology
+TRY	Fine root (absorptive) cross-sectional area of vessel	Morphology
+TRY	Fine root (absorptive) cross-sectional area of xylem	Morphology
+TRY	Fine root (absorptive) cross-sectional fraction of stele area to absorptive fine root area	Morphology
+TRY	Fine root (absorptive) debris decomposition rate constant	Physiology
+TRY	Fine root (absorptive) decomposition: absorptive fine root length decomposed per ground area during exposition	Physiology
+TRY	Fine root (absorptive) decomposition: fraction nitrogen (N) remaining	Physiology
+TRY	Fine root (absorptive) decomposition: fraction of absorptive fine root dry mass not decomposed to original absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) diameter	Morphology
+TRY	Fine root (absorptive) dry mass fraction in respective root order	Morphology
+TRY	Fine root (absorptive) dry mass not hydrolyzable in acid extractives per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) dry mass per absorptive fine root fresh mass (absorptive fine root dry matter content; RDMC)	Morphology
+TRY	Fine root (absorptive) dry mass per ground area	Morphology
+TRY	Fine root (absorptive) dry mass soluble in nonpolar extractives per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) dry mass soluble in polar extractives per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) dry mass turnover	Physiology
+TRY	Fine root (absorptive) dry mass turnover rate	Physiology
+TRY	Fine root (absorptive) exodermal wall thickness	Morphology
+TRY	Fine root (absorptive) exodermis passage cell frequency per length of absorptive fine root circumference	Morphology
+TRY	Fine root (absorptive) exudation rate per length	Physiology
+TRY	Fine root (absorptive) exudation: carbon (C) exudation as fraction of absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) fractal dimension	Morphology
+TRY	Fine root (absorptive) fraction of cross-sectional area occupied by xylem	Morphology
+TRY	Fine root (absorptive) free phenols content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) growth: absorptive fine root dry mass production per ground area per year	Physiology
+TRY	Fine root (absorptive) growth: absorptive fine root elongation	Physiology
+TRY	Fine root (absorptive) growth: absorptive fine root length production per ground area per exposition period	Physiology
+TRY	Fine root (absorptive) growth: absorptive fine root length production per ground area per year	Physiology
+TRY	Fine root (absorptive) growth: absorptive fine root length production per minirhizotron surface area per year	Physiology
+TRY	Fine root (absorptive) growth: absorptive fine root length recovery from pruning	Physiology
+TRY	Fine root (absorptive) growth: fraction of absorptive fine root number that has elongated since last measurement to total number of absorptive fine roots	Physiology
+TRY	Fine root (absorptive) iron (Fe) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) lead (Pb) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) length density (RLD): absorptive fine root length per ground area	Morphology
+TRY	Fine root (absorptive) length fraction in respective root order	Morphology
+TRY	Fine root (absorptive) length per absorptive fine root dry mass (specific absorptive fine root length, SRL)	Morphology
+TRY	Fine root (absorptive) length per minirhizotron screen area	Morphology
+TRY	Fine root (absorptive) length per soil volume	Morphology
+TRY	Fine root (absorptive) length relative growth rate	Physiology
+TRY	Fine root (absorptive) length: distance from absorptive fine root base to tip	Morphology
+TRY	Fine root (absorptive) lifespan: fraction of absorptive fine roots that live to the age in ôabsorptive fine root ageö	Reproduction/Life history
+TRY	Fine root (absorptive) lifespan: fraction of absorptive fine roots that survive over the course of a growing season	Reproduction/Life history
+TRY	Fine root (absorptive) lignin carbon (C) content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) lignin content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) lignin phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) lignin phenol vegetation index	Physiology
+TRY	Fine root (absorptive) link length (segments between two nodes or a node and a tip)	Morphology
+TRY	Fine root (absorptive) lipid content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) magnesium (Mg) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) manganese (Mn) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) mortality: absorptive fine root dry mass mortality per ground area and time	Reproduction/Life history
+TRY	Fine root (absorptive) mortality: absorptive fine root length mortality per ground area and year	Reproduction/Life history
+TRY	Fine root (absorptive) nickel (Ni) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) nitrogen (N) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) nitrogen (N) content per absorptive fine root length	Physiology
+TRY	Fine root (absorptive) nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Fine root (absorptive) nitrogen (N) per soil dry mass	Physiology
+TRY	Fine root (absorptive) number of phellem layers	Morphology
+TRY	Fine root (absorptive) number of vessels per cross-section	Morphology
+TRY	Fine root (absorptive) number of vessels per cross-sectional area	Morphology
+TRY	Fine root (absorptive) passage cell number in exodermis per absorptive fine root circumference	Morphology
+TRY	Fine root (absorptive) persistence (lifespan, longevity)	Reproduction/Life history
+TRY	Fine root (absorptive) phenols chlorogenic acid molarity per absorptive fine root mass	Physiology
+TRY	Fine root (absorptive) phenols content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) phosphorus (P) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) phosphorus (P) uptake rate per absorptive fine root surface area	Physiology
+TRY	Fine root (absorptive) p-hydroxy phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) porosity (volume of root air space)	Morphology
+TRY	Fine root (absorptive) potassium (K) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) ratio of 3,5-dihydroxybenzoic acid groups to vanillyl phenols	Physiology
+TRY	Fine root (absorptive) ratio of lignin to nitrogen (N)	Physiology
+TRY	Fine root (absorptive) ratio of mass of non-acid hydrolysable compounds to mass of nitrogen	Physiology
+TRY	Fine root (absorptive) ratio of number of acid groups to number of aldehyde groups in syringyl phenols	Physiology
+TRY	Fine root (absorptive) ratio of number of acid groups to number of aldehyde groups in vanillyl phenols	Physiology
+TRY	Fine root (absorptive) ratio of of cinnamyl phenol to vanillyl phenol	Physiology
+TRY	Fine root (absorptive) ratio of of syringyl phenol to vanillyl phenol	Physiology
+TRY	Fine root (absorptive) ratio of vanillyl phenol to lignin phenol	Physiology
+TRY	Fine root (absorptive) respiration rate per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) respiration rate per absorptive fine root length	Physiology
+TRY	Fine root (absorptive) root hair density	Morphology
+TRY	Fine root (absorptive) root hair diameter	Morphology
+TRY	Fine root (absorptive) sodium (Na) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) sodium (Na+) ion content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) starch content per dry mass	
+TRY	Fine root (absorptive) stele diameter	
+TRY	Fine root (absorptive) stele fraction: stele diameter divided by absorptive fine root diameter	
+TRY	Fine root (absorptive) sulfur (S) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) surface area fraction in respective root order	
+TRY	Fine root (absorptive) surface area per absorptive fine root dry mass (specific absorptive fine root area)	
+TRY	Fine root (absorptive) syringyl phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) tissue density (absorptive fine root dry mass per absorptive fine root volume)	
+TRY	Fine root (absorptive) total non-structural carbon (TNC) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive) turnover rate during growing season	
+TRY	Fine root (absorptive) vanillyl phenol content per absorptive fine root carbon (C) content	Physiology
+TRY	Fine root (absorptive) vessel diameter	
+TRY	Fine root (absorptive) water soluble sugar content per absorptive fine root dry mass	
+TRY	Fine root (absorptive) xylem vessel density in stele: number of xylem vessels per square millimeter of absorptive fine root stele	
+TRY	Fine root (absorptive) zinc (Zn) content per absorptive fine root dry mass	Physiology
+TRY	Fine root (absorptive)/shoot ratio	
+TRY	Fine root (transport) arsenic (As) content per transport fine root dry mass	
+TRY	Fine root (transport) branching intensity 1(branching ratio): number of transport fine roots per higher order root	
+TRY	Fine root (transport) cadmium (Cd) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) calcium (Ca) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) carbon (C) content not hydrolyzable in acid extractives per transport fine root carbon (C) content	Physiology
+TRY	Fine root (transport) carbon (C) content per ground area	Physiology
+TRY	Fine root (transport) carbon (C) content per soil dry mass	Physiology
+TRY	Fine root (transport) carbon (C) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) carbon/nitrogen (C/N) ratio	Physiology
+TRY	Fine root (transport) cellulose carbon (C) content per transport fine root carbon (C) content	Physiology
+TRY	Fine root (transport) chromium (Cr) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) Cl- ion content per transport fine root dry mass	
+TRY	Fine root (transport) conduit cell wall thickness	
+TRY	Fine root (transport) conduit density: number of conduits per stele cross-section area	
+TRY	Fine root (transport) conduit diameter	
+TRY	Fine root (transport) copper (Cu) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) cortex thickness	
+TRY	Fine root (transport) cross-sectional fraction of stele area to transport fine root area	
+TRY	Fine root (transport) debris decomposition rate constant	
+TRY	Fine root (transport) decomposition: fraction nitrogen (N) remaining	Physiology
+TRY	Fine root (transport) decomposition: fraction of transport fine root dry mass not decomposed to original transport fine root dry mass	
+TRY	Fine root (transport) diameter	
+TRY	Fine root (transport) dry mass fraction in respective root order	
+TRY	Fine root (transport) dry mass per ground area	
+TRY	Fine root (transport) dry mass turnover rate	
+TRY	Fine root (transport) growth: transport fine root dry mass production per ground area per duration of exposition	
+TRY	Fine root (transport) growth: transport fine root dry mass production per ground area per year	
+TRY	Fine root (transport) growth: transport fine root length production per minirhizotron surface area per year	
+TRY	Fine root (transport) lead (Pb) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) length density (RLD): transport fine root length per ground area	
+TRY	Fine root (transport) length fraction in respective root order	
+TRY	Fine root (transport) length per soil volume	
+TRY	Fine root (transport) length per transport fine root dry mass (specific transport fine root length, SRL)	
+TRY	Fine root (transport) length: distance from transport fine root base to tip	
+TRY	Fine root (transport) lignin carbon (C) content per transport fine root carbon (C) content	Physiology
+TRY	Fine root (transport) manganese (Mn) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) mortality: transport fine root length mortality per ground area and year	
+TRY	Fine root (transport) nickel (Ni) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) nitrogen (N) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Fine root (transport) nitrogen (N) per soil dry mass	Physiology
+TRY	Fine root (transport) number of phellem layers	
+TRY	Fine root (transport) persistence (lifespan, longevity)	
+TRY	Fine root (transport) phenols chlorogenic acid molarity per transport fine root mass	Physiology
+TRY	Fine root (transport) phosphorus (P) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) potassium (K) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) respiration rate per transport fine root dry mass	Physiology
+TRY	Fine root (transport) root hair density	
+TRY	Fine root (transport) root hair diameter	
+TRY	Fine root (transport) sodium (Na) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) sodium (Na+) ion content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) starch content per dry mass	
+TRY	Fine root (transport) stele diameter	
+TRY	Fine root (transport) stele fraction: stele diameter divided by transport fine root diameter	
+TRY	Fine root (transport) surface area fraction in respective root order	
+TRY	Fine root (transport) surface area per transport fine root dry mass (specific transport fine root area)	
+TRY	Fine root (transport) tissue density (transport fine root dry mass per transport fine root volume)	
+TRY	Fine root (transport) total non-structural carbon (TNC) content per transport fine root dry mass	Physiology
+TRY	Fine root (transport) vessel diameter	
+TRY	Fine root (transport) water soluble sugar content per transport fine root dry mass	
+TRY	Fine root (transport) xylem vessel density in stele: number of xylem vessels per square millimeter of transport fine root stele	
+TRY	Fine root (transport) zinc (Zn) content per transport fine root dry mass	Physiology
+TRY	Fine root acid hydrolyzable extractives per fine root dry mass	Physiology
+TRY	Fine root acid phosphatase activity per fine root dry mass	Physiology
+TRY	Fine root alkyl carbon (C) content per fine root carbon (C) content	Physiology
+TRY	Fine root aluminium (Al) content per fine root dry mass	Physiology
+TRY	Fine root aluminium (Al) content per fine root fresh mass	Physiology
+TRY	Fine root ammonium (NH4+) uptake per fine root dry mass per hour	
+TRY	Fine root ammonium (NH4+) uptake per fine root fresh mass per hour	
+TRY	Fine root annual loss of nitrogen (N) through fine root mortality as a fraction of plant N storage	Physiology
+TRY	Fine root arabinans content per fine root dry mass	
+TRY	Fine root area index (RAI): fine root surface area per ground area	
+TRY	Fine root aromatic carbon (C) content per fine root carbon (C) content	Physiology
+TRY	Fine root arsenic (As) content per fine root dry mass	
+TRY	Fine root ash carbon (C) content per fine root carbon (C) content	Physiology
+TRY	Fine root ash content per fine root dry mass	
+TRY	Fine root boron (B) content per fine root dry mass	
+TRY	Fine root branching intensity 1 (branching ratio): number of fine roots per higher order root	
+TRY	Fine root branching intensity 3: number of root tips per total fine root length	
+TRY	Fine root cadmium (Cd) content per fine root dry mass	Physiology
+TRY	Fine root calcium (Ca) content per fine root dry mass	Physiology
+TRY	Fine root calcium (Ca) content per fine root fresh mass	Physiology
+TRY	Fine root carbon (C) content not hydrolyzable in acid extractives per fine root carbon (C) content	Physiology
+TRY	Fine root carbon (C) content per fine root dry mass	Physiology
+TRY	Fine root carbon (C) content to leaf carbon (C) content ratio	Physiology
+TRY	Fine root carbon content per ground area	Physiology
+TRY	Fine root carbon content per soil dry mass	Physiology
+TRY	Fine root carbon/nitrogen (C/N) ratio	Physiology
+TRY	Fine root cellulose and hemicellulose content per fine root dry mass	
+TRY	Fine root cellulose carbon (C) content per fine root carbon (C) content	Physiology
+TRY	Fine root cellulose content per fine root dry mass	
+TRY	Fine root chromium (Cr) content per fine root dry mass	Physiology
+TRY	Fine root color	
+TRY	Fine root condensed tannins	
+TRY	Fine root conduit diameter	
+TRY	Fine root construction cost per fine root dry mass	
+TRY	Fine root copper (Cu) content per fine root dry mass	Physiology
+TRY	Fine root cortex thickness	
+TRY	Fine root cross-sectional fraction of aerenchyma	
+TRY	Fine root cross-sectional fraction of stele area to fine root area	
+TRY	Fine root debris decomposition rate constant	
+TRY	Fine root decomposition: fraction carbon (C) remaining	Physiology
+TRY	Fine root decomposition: fraction nitrogen (N) remaining	Physiology
+TRY	Fine root density on screen: number of fine roots per area of in-growth screen	
+TRY	Fine root diameter	
+TRY	Fine root dichotomous branching index (DBI)	
+TRY	Fine root dry mass fraction in respective root diameter class	
+TRY	Fine root dry mass fraction that is taproot (taproot dry mass per fine root dry mass)	
+TRY	Fine root dry mass not hydrolyzable in acid extractives per fine root dry mass	Physiology
+TRY	Fine root dry mass per fine root fresh mass (fine root dry matter content; RDMC)	
+TRY	Fine root dry mass per ground area	
+TRY	Fine root dry mass per soil volume	
+TRY	Fine root dry mass soluble in neutral solution per fine root dry mass	
+TRY	Fine root dry mass soluble in nonpolar extractives per fine root dry mass	
+TRY	Fine root dry mass soluble in polar extractives per fine root dry mass	
+TRY	Fine root dry mass to leaf dry mass ratio	
+TRY	Fine root dry mass turnover	
+TRY	Fine root dry mass turnover during dry season	
+TRY	Fine root dry mass turnover during wet season	
+TRY	Fine root dry mass turnover rate	
+TRY	Fine root ethanol soluble compounds per fine root dry mass	
+TRY	Fine root exodermal wall thickness	
+TRY	Fine root exodermis passage cell frequency per length of fine root circumference	
+TRY	Fine root external path length (Pe; sum of links in all paths from each external link to the base link)	
+TRY	Fine root exudation: carbon (C) exudation as fraction of fine root dry mass	Physiology
+TRY	Fine root forks per fine root dry mass (specific fine root forks density, SRFD)	
+TRY	Fine root fractal dimension	
+TRY	Fine root fraction of metaxylem cell wall thickness to vessel diameter	
+TRY	Fine root fraction of protoxylem cell wall thickness to vessel diameter	
+TRY	Fine root galactans content per fine root dry mass	
+TRY	Fine root growth: amplitude of monthly net fine root production	
+TRY	Fine root growth: cumulative new fine root length growth per ground area per exposition period	
+TRY	Fine root growth: fine root carbon (C) production per ground area and time	Physiology
+TRY	Fine root growth: fine root dry mass production per ground area per day	
+TRY	Fine root growth: fine root dry mass production per ground area per duration of exposition	
+TRY	Fine root growth: fine root dry mass production per ground area per month	
+TRY	Fine root growth: fine root dry mass production per ground area per year	
+TRY	Fine root growth: fine root dry mass production per soil volume and time	
+TRY	Fine root growth: fine root elongation	
+TRY	Fine root growth: fine root length production per ground area per exposition period	
+TRY	Fine root growth: fine root length production per ground area per year	
+TRY	Fine root growth: fine root length production per minirhizotron frame per exposition period	
+TRY	Fine root growth: fine root length production per minirhizotron surface area per day	
+TRY	Fine root growth: fine root length production per minirhizotron surface area per year	
+TRY	Fine root growth: fine root surface area produced per ground area per year	
+TRY	Fine root growth: fraction of fine root number that has elongated since last measurement to total number of fine roots	
+TRY	Fine root growth: new fine root length growth per ground area per year	
+TRY	Fine root growth: number of fine roots born per area of in-growth screen per time	
+TRY	Fine root growth: probability that monthly net fine root production is greater than 0	
+TRY	Fine root growth: relative fine root production: ratio fine root production rate at given time to maximum fine root production rate	
+TRY	Fine root hemicellulose content per fine root dry mass	
+TRY	Fine root intact branch length	
+TRY	Fine root iron (Fe) content per fine root dry mass	Physiology
+TRY	Fine root labile carbon (C) compound content per fine root carbon (C) content	Physiology
+TRY	Fine root lead (Pb) content per fine root dry mass	Physiology
+TRY	Fine root length fraction in respective root diameter class	
+TRY	Fine root length fraction in respective root order	
+TRY	Fine root length fraction that contains fungal/mycorrhizal arbuscules	Interaction
+TRY	Fine root length fraction that contains fungal/mycorrhizal vesicles	Interaction
+TRY	Fine root length per fine root dry mass (specific fine root length, SRL)	
+TRY	Fine root length per ground area	
+TRY	Fine root length per minirhizotron frame	
+TRY	Fine root length per minirhizotron screen area	
+TRY	Fine root length per soil volume	
+TRY	Fine root length relative growth rate	
+TRY	Fine root length: distance from fine root base to tip	
+TRY	Fine root lifespan: fraction of fine roots that live to the age in ôfine root ageö	
+TRY	Fine root lifespan: fraction of fine roots that survive over the course of a growing season	
+TRY	Fine root lifespan: fraction of fine roots that survive the exposition period	
+TRY	Fine root lignin carbon (C) content per fine root carbon (C) content	Physiology
+TRY	Fine root lignin content per fine root dry mass	
+TRY	Fine root link branching angle: angle between a link and the extension of the link before it	
+TRY	Fine root link length (segments between two nodes or a node and a tip)	
+TRY	Fine root lipid content per fine root dry mass	
+TRY	Fine root magnesium (Mg) content per fine root dry mass	Physiology
+TRY	Fine root magnesium (Mg) content per fine root fresh mass	Physiology
+TRY	Fine root manganese (Mn) content per fine root dry mass	Physiology
+TRY	Fine root manganese (Mn) content per fine root fresh mass	Physiology
+TRY	Fine root mannans content per fine root dry mass	
+TRY	Fine root metaxylem cell wall thickness	
+TRY	Fine root metaxylem vessel diameter	
+TRY	Fine root microbial relations: phospholipid fatty acid 18.2omega6.9 degradation during soil incubation	Physiology
+TRY	Fine root microbial relations: ratio of fungal rRNA gene copy number to bacterial rRNA gene copy number	
+TRY	Fine root microbial relations: soil ergosterol content per soil dry mass or growth medium dry mass	
+TRY	Fine root monthly decomposition rate	
+TRY	Fine root mortality: fine root dry mass mortality per ground area and time	
+TRY	Fine root mortality: fine root dry mass mortality per soil volume and time	
+TRY	Fine root mortality: fine root length mortality per ground area and year	
+TRY	Fine root mortality: fine root length mortality per minirhizotron frame and time	
+TRY	Fine root mortality: fine root length mortality per minirhizotron surface per day	
+TRY	Fine root mortality: fine root length mortality per minirhizotron surface per year	
+TRY	Fine root mortality: fine root number mortality per in-growth screen area and time	
+TRY	Fine root mortality: fraction of fine root screen contacts lost during exposition	
+TRY	Fine root necromass (dead dry mass) per ground area for specified soil depth increment	
+TRY	Fine root necromass to biomass ratio	
+TRY	Fine root nickel (Ni) content per fine root dry mass	Physiology
+TRY	Fine root nitrogen (N) content per fine root dry mass	Physiology
+TRY	Fine root nitrogen (N) content per fine root length	Physiology
+TRY	Fine root nitrogen (N) content per ground area	Physiology
+TRY	Fine root nitrogen (N) content per soil dry mass	Physiology
+TRY	Fine root nitrogen (N) turnover per ground area per year	Physiology
+TRY	Fine root nitrogen (N) uptake of molar 15N-Glycine per shoot dry mass	Physiology
+TRY	Fine root nitrogen (N) uptake of molar 15NH4+ per shoot dry mass	Physiology
+TRY	Fine root nitrogen (N) uptake of molar 15NO3- per shoot dry mass	Physiology
+TRY	Fine root nitrogen (N) uptake of molar inorganic N uptake per fine root area	Physiology
+TRY	Fine root nitrogen (N) uptake of molar NH4+ uptake per fine root area	Physiology
+TRY	Fine root nitrogen (N) uptake of molar NO3- uptake per fine root area	Physiology
+TRY	Fine root nitrogen (N) uptake of molar organic N uptake per fine root area	Physiology
+TRY	Fine root nitrogen (N) uptake of molar total 15N per shoot dry mass	Physiology
+TRY	Fine root nitrogen (N) uptake per ground area during exposition period	Physiology
+TRY	Fine root nitrogen (N) uptake per ground area per year	Physiology
+TRY	Fine root nitrogen (N) uptake preference: ammonium (NH4+), nitrate (NO3-), organic nitrogen (N)	Physiology
+TRY	Fine root nitrogen/phosphorus (N/P) ratio	Physiology
+TRY	Fine root number of forks per length.	
+TRY	Fine root number of tips per branch	
+TRY	Fine root number of tracheary elements per crossection	
+TRY	Fine root o-alkyl carbon (C) content per fine root carbon (C) content	Physiology
+TRY	Fine root passage cell number in exodermis per fine root circumference	
+TRY	Fine root persistence (lifespan, longevity)	
+TRY	Fine root pH	
+TRY	Fine root phenols content per fine root dry mass	Physiology
+TRY	Fine root phosphatase activity per fine root dry mass	
+TRY	Fine root phosphatase activity per fine root length	
+TRY	Fine root phosphate (H2PO4) uptake rate	
+TRY	Fine root phosphorus (P) content per fine root dry mass	Physiology
+TRY	Fine root phosphorus (P) content per fine root fresh mass	Physiology
+TRY	Fine root phosphorus (P) content per fine root length	Physiology
+TRY	Fine root phosphorus (P) uptake rate per fine root dry mass	Physiology
+TRY	Fine root phosphorus (P) uptake relative to maximum fine root phosphorus (P) uptake	Physiology
+TRY	Fine root polyphenol content per fine root dry mass	
+TRY	Fine root porosity (volume of root air space)	
+TRY	Fine root potassium (K) content per fine root dry mass	Physiology
+TRY	Fine root potassium (K) content per fine root fresh mass	Physiology
+TRY	Fine root potassium (K) uptake in depth interval relative to total fine root potassium (K) uptake	Physiology
+TRY	Fine root protoxylem cell wall thickness	
+TRY	Fine root protoxylem vessel diameter	
+TRY	Fine root ratio of lignin to nitrogen (N)	Physiology
+TRY	Fine root ratio of polyphenol to nitrogen (N)	Physiology
+TRY	Fine root respiration rate per fine root dry mass	Physiology
+TRY	Fine root respiration rate per fine root length	Physiology
+TRY	Fine root rhamnans content per fine root dry mass	
+TRY	Fine root root hair density	
+TRY	Fine root root hair diameter	
+TRY	Fine root root hair incidence: fraction of fine root intersections that contain root hairs	
+TRY	Fine root rooting depth	
+TRY	Fine root rooting depth where most of the root activity of interest occurs	
+TRY	Fine root rooting depth: fraction of fine root dry mass contained in depth interval	
+TRY	Fine root rubidium (Rb) uptake rate per fine root dry mass per hour	
+TRY	Fine root rubidium (Rb) uptake rate per fine root fresh mass per hour	
+TRY	Fine root silicon (Si) content per fine root dry mass	
+TRY	Fine root sodium (Na) content per fine root dry mass	Physiology
+TRY	Fine root species abundance: fraction of total fine root dry mass composed of respective species	
+TRY	Fine root specific root hair cylinder volume: volume of root hairs per fine root dry mass	
+TRY	Fine root starch content per dry mass	
+TRY	Fine root stele diameter	
+TRY	Fine root stele fraction: stele diameter divided by fine root diameter	
+TRY	Fine root sulfur (S) content per fine root dry mass	Physiology
+TRY	Fine root sulfur (S) content per fine root fresh mass	Physiology
+TRY	Fine root surface area per fine root dry mass (specific fine root area)	
+TRY	Fine root tips per minirhizotron frame	
+TRY	Fine root tissue density (fine root dry mass per fine root volume)	
+TRY	Fine root topological index (TI): Slope of linear regression of external path length against number of root tips	
+TRY	Fine root total non-structural carbon (TNC) content per fine root dry mass	Physiology
+TRY	Fine root volume per ground area	
+TRY	Fine root water or ethanol soluble compounds per fine root dry mass	
+TRY	Fine root water soluble compounds per fine root dry mass	
+TRY	Fine root water soluble sugar content per fine root dry mass	
+TRY	Fine root water uptake rate per fine root surface area	
+TRY	Fine root xylans content per fine root dry mass	
+TRY	Fine root zinc (Zn) content per fine root dry mass	Physiology
+TRY	Fine root/shoot ratio	
+TRY	Flower color	
+TRY	Flower conspicuous	
+TRY	Flower corolla length	
+TRY	Flower corolla type	
+TRY	Flower hairy	
+TRY	Flower heteromorphy	
+TRY	Flower heterostyly	
+TRY	Flower insemination autogamous or xenogamous	
+TRY	Flower number of pollen per ovule	
+TRY	Flower number per plant	
+TRY	Flower onset of flowering (first flowering date, flowering beginning)	
+TRY	Flower petal number	
+TRY	Flower pollinator and type of reward	
+TRY	Flower presence	
+TRY	Flower sex	
+TRY	Flower sex timing	
+TRY	Flower sexual self-incompatibility mechanism	
+TRY	Flower sexual syndrome (dichogamy, cleistogamy, dioecious, monoecious)	
+TRY	Flower stamen number	
+TRY	Flower symmetry type (flower shape)	
+TRY	Flower UV light reflectance	
+TRY	Flowering requirement (requirement for fertility)	
+TRY	Fruit dehiscence type	
+TRY	Fruit diameter	
+TRY	Fruit length	
+TRY	Fruit mass	
+TRY	Fruit palatability	
+TRY	Fruit pericarp type	
+TRY	Fruit surface type	
+TRY	Fruit type	
+TRY	Fruit/seed abundance	
+TRY	Fruit/seed color	
+TRY	Fruit/seed conspicuous	
+TRY	Inflorescence diameter at base	
+TRY	Inflorescence diameter at top	
+TRY	Inflorescence length (height)	
+TRY	Inflorescence nectar sugar concentration	
+TRY	Inflorescence nectar volume	
+TRY	Inflorescence percentage of flowers open	
+TRY	Inflorescence position at the shoot axis	
+TRY	Inflorescence type	
+TRY	Inflorescence: number of flowers per inflorescence	
+TRY	Leaf aluminium (Al) content per leaf dry mass	Physiology
+TRY	Leaf and fine root turnover	
+TRY	Leaf and leaf-structures fresh to dry shrinkage ratio (length, width, thickness, area)	
+TRY	Leaf and leaf-structures fresh to dry shrinkage ratio (mass)	
+TRY	Leaf angle (inclination, orientation)	
+TRY	Leaf anthocyanin content per leaf area	
+TRY	Leaf anthocyanin content per leaf dry mass	
+TRY	Leaf antimony (Sb) content per leaf dry mass	
+TRY	Leaf area (cotyledons)	
+TRY	Leaf area (in case of compound leaves undefined if leaf or leaflet, undefined if petiole is in- or excluded)	
+TRY	Leaf area (in case of compound leaves: leaf, petiole excluded)	
+TRY	Leaf area (in case of compound leaves: leaf, petiole included)	
+TRY	Leaf area (in case of compound leaves: leaf, undefined if petiole in- or excluded)	
+TRY	Leaf area (in case of compound leaves: leaflet, petiole excluded)	
+TRY	Leaf area (in case of compound leaves: leaflet, petiole included)	
+TRY	Leaf area (in case of compound leaves: leaflet, undefined if petiole is in- or excluded)	
+TRY	Leaf area fraction in given age class	
+TRY	Leaf area index (LAI) of a single plant	
+TRY	Leaf area index (LAI) total per LAI projected	
+TRY	Leaf area per dry mass (cotyledons, specific leaf area (SLA) of cotyledons)	
+TRY	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA) petiole, rhachis and midrib excluded	
+TRY	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole excluded	
+TRY	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): petiole included	
+TRY	Leaf area per leaf dry mass (specific leaf area, SLA or 1/LMA): undefined if petiole is in- or excluded	
+TRY	Leaf area per leaf fresh mass (specific leaf area (SLA or 1/LMA) based on leaf fresh mass)	
+TRY	Leaf area per leaf perimeter	
+TRY	Leaf area per metamer dry mass	
+TRY	Leaf area per plant	
+TRY	Leaf area per plant dry mass (leaf area ratio; LAR)	
+TRY	Leaf area total at given shoot height	
+TRY	Leaf area-specific conductivity (leaf specific conductivity)	
+TRY	Leaf aromatic	
+TRY	Leaf arsenic (As) content per leaf dry mass	
+TRY	Leaf ash content per leaf dry mass	
+TRY	Leaf barium (Ba) content per leaf dry mass	
+TRY	Leaf boron (B) content per leaf dry mass	
+TRY	Leaf bromine (Br) content per leaf dry mass	
+TRY	Leaf cadmium (Cd) content per leaf dry mass	Physiology
+TRY	Leaf caesium (Cs) content per leaf dry mass	
+TRY	Leaf calcium (Ca) content per leaf	Physiology
+TRY	Leaf calcium (Ca) content per leaf dry mass	Physiology
+TRY	Leaf carbon (C) content per dry mass (cotyledons)	Physiology
+TRY	Leaf carbon (C) content per leaf area	Physiology
+TRY	Leaf carbon (C) content per leaf dry mass	Physiology
+TRY	Leaf carbon (C) isotope fractionation ('big' Delta 13C)	Physiology
+TRY	Leaf carbon (C) isotope signature (delta 13C)	Physiology
+TRY	Leaf carbon/nitrogen (C/N) ratio	Physiology
+TRY	Leaf carbon/phosphorus (C/P) ratio	Physiology
+TRY	Leaf carotenoid content per leaf area	
+TRY	Leaf carotenoid content per leaf dry mass	
+TRY	Leaf cell lumen area per leaf area	
+TRY	Leaf cell lumen length	
+TRY	Leaf cell lumen volume	
+TRY	Leaf cell lumen width	
+TRY	Leaf cell number per leaf area	
+TRY	Leaf cell wall mass per leaf area	
+TRY	Leaf cell wall mass per leaf dry mass	
+TRY	Leaf cell wall nitrogen (N) content per cell wall dry mass	Physiology
+TRY	Leaf cell wall nitrogen (N) content per leaf area	Physiology
+TRY	Leaf cellulose content per leaf dry mass	
+TRY	Leaf cerium (Ce) content per leaf dry mass	
+TRY	Leaf chlorine (Cl) content per leaf dry mass	
+TRY	Leaf chlorophyll a/b ratio	
+TRY	Leaf chlorophyll content in SPAD units relative	
+TRY	Leaf chlorophyll content per leaf area	
+TRY	Leaf chlorophyll content per leaf area (Chl a)	
+TRY	Leaf chlorophyll content per leaf area (Chl b)	
+TRY	Leaf chlorophyll content per leaf carotene content	
+TRY	Leaf chlorophyll content per leaf dry mass	
+TRY	Leaf chlorophyll content per leaf dry mass (Chl a)	
+TRY	Leaf chlorophyll content per leaf dry mass (Chl b)	
+TRY	Leaf chlorophyll content per leaf nitrogen (N) content	Physiology
+TRY	Leaf chlorophyll fluorescence	
+TRY	Leaf chloroplast surface area exposed to internal airspace	
+TRY	Leaf chromium (Cr) content per leaf dry mass	Physiology
+TRY	Leaf clumping factor	
+TRY	Leaf cobalt (Co) content per leaf dry mass	
+TRY	Leaf color	
+TRY	Leaf compoundness	
+TRY	Leaf construction cost per leaf area	
+TRY	Leaf construction cost per leaf dry mass	
+TRY	Leaf contact angle of water droplets	
+TRY	Leaf copper (Cu) content per leaf dry mass	Physiology
+TRY	Leaf cuticula thickness	
+TRY	Leaf cuticular conductance	
+TRY	Leaf density (leaf tissue density, leaf dry mass per leaf volume)	
+TRY	Leaf display type	
+TRY	Leaf distribution along the shoot axis (arrangement type)	
+TRY	Leaf distribution along the shoot axis (number)	
+TRY	Leaf dry mass (cotyledons)	
+TRY	Leaf dry mass (paracotyledons)	
+TRY	Leaf dry mass (single leaf)	
+TRY	Leaf dry mass fraction per leaf age class	
+TRY	Leaf dry mass loss during leaf senescence	
+TRY	Leaf dry mass per area (LMA) versus leaf nitrogen (N) content	Physiology
+TRY	Leaf dry mass per branch	
+TRY	Leaf dry mass per fresh mass (cotyledons, cotyledon LDMC)	
+TRY	Leaf dry mass per ground area	
+TRY	Leaf dry mass per leaf fresh mass (leaf dry matter content, LDMC)	
+TRY	Leaf dry mass per metamer dry mass	
+TRY	Leaf dysprosium (Dy) content per leaf dry mass	
+TRY	Leaf elastic modulus	
+TRY	Leaf emergences (pubescence, pruinescence, hairs, spines, thorns)	
+TRY	Leaf energy content	
+TRY	Leaf epidermis area per leaf area	
+TRY	Leaf epidermis cell area	
+TRY	Leaf epidermis cell length	
+TRY	Leaf epidermis cell wall thickness	
+TRY	Leaf epidermis conductance	
+TRY	Leaf epidermis thickness	
+TRY	Leaf epidermis volume per leaf volume	
+TRY	Leaf europium (Eu) content per leaf dry mass	
+TRY	Leaf floating capacity	
+TRY	Leaf fraction of nitrogen (N) in cell wall	Physiology
+TRY	Leaf fresh mass	
+TRY	Leaf fresh mass (cotyledons)	
+TRY	Leaf gadolinium (Gd) content per leaf dry mass	
+TRY	Leaf gold (Au) content per leaf dry mass	
+TRY	Leaf hafnium (Hf) content per leaf dry mass	
+TRY	Leaf hemi-cellulose content per leaf dry mass	
+TRY	Leaf herbivore species	
+TRY	Leaf heterophylly	
+TRY	Leaf homeostatic regulation coefficient of N/P (nitrogen to phosphorus) ratio	Physiology
+TRY	Leaf homeostatic regulation coefficient of nitrogen content per dry mass	Physiology
+TRY	Leaf homeostatic regulation coefficient of phosphorus content per dry mass	Physiology
+TRY	Leaf hydraulic conductance	
+TRY	Leaf hydrogen (H) content per leaf dry mass	
+TRY	Leaf hypodermis thickness	
+TRY	Leaf hypodermis volume per leaf volume	
+TRY	Leaf inrolling of lamina	
+TRY	Leaf intercellular airspace area per leaf area	
+TRY	Leaf intercellular volume	
+TRY	Leaf intercellular volume per leaf volume	
+TRY	Leaf iron (Fe) content per leaf dry mass	Physiology
+TRY	Leaf isoprene emission category	
+TRY	Leaf isoprene emission rate per leaf area	
+TRY	Leaf isoprene emission rate per leaf dry mass	
+TRY	Leaf lamina dissection index: lamina perimeter / square root of lamina area	
+TRY	Leaf lanthanum (La) content per leaf dry mass	
+TRY	Leaf lead (Pb) content per leaf dry mass	Physiology
+TRY	Leaf length	
+TRY	Leaf length excluding petiole (leaf lamina length)	
+TRY	Leaf lifespan (longevity)	
+TRY	Leaf light absorption (extinction)	
+TRY	Leaf light transmittance	
+TRY	Leaf lignin content per leaf dry mass	
+TRY	Leaf lithium (Li) content per leaf dry mass	
+TRY	Leaf lutetium (Lu) content per leaf dry mass	
+TRY	Leaf magnesium (Mg) content per leaf	Physiology
+TRY	Leaf magnesium (Mg) content per leaf area	Physiology
+TRY	Leaf magnesium (Mg) content per leaf dry mass	Physiology
+TRY	Leaf manganese (Mn) content per leaf dry mass	Physiology
+TRY	Leaf margin type	
+TRY	Leaf mercury (Hg) content per leaf dry mass	Physiology
+TRY	Leaf mesophyll area per leaf area	
+TRY	Leaf mesophyll cell area	
+TRY	leaf mesophyll cell area per leaf area	
+TRY	Leaf mesophyll cell lumen thickness	
+TRY	Leaf mesophyll cell thickness	
+TRY	Leaf mesophyll cell volume	
+TRY	Leaf mesophyll cell wall thickness	
+TRY	Leaf mesophyll conductance	
+TRY	Leaf mesophyll conductance for CO2 per unit chloroplast surface area	
+TRY	Leaf mesophyll density (number of mesophyll cells per area)	
+TRY	Leaf mesophyll palisade parenchym thickness	
+TRY	Leaf mesophyll palisade parenchym volume per leaf spongiophyll volume	
+TRY	Leaf mesophyll palisade parenchym volume per leaf volume	
+TRY	Leaf mesophyll palisade parenchyma cell area	
+TRY	Leaf mesophyll porosity (air space versus volume or area)	
+TRY	Leaf mesophyll spongiophyll thickness	
+TRY	Leaf mesophyll spongiophyll volume per leaf volume	
+TRY	Leaf mesophyll surface area exposed to internal airspace	
+TRY	Leaf mesophyll thickness	
+TRY	Leaf mid vein conductivity	
+TRY	Leaf mid vein cross-sectional area	
+TRY	Leaf mid vein length	
+TRY	Leaf mid vein support tissue thickness	
+TRY	Leaf mid vein thickness	
+TRY	Leaf mid vein vascular bundle diameter	
+TRY	Leaf mid vein vessel diameter	
+TRY	Leaf mid vein xylem conduits number	
+TRY	Leaf mineral content per leaf dry mass	
+TRY	Leaf minus soil nitrogen (N) isotope signature (leaf delta 15N minus soil delta 15N)	Physiology
+TRY	Leaf molybdenum (Mo) content per leaf dry mass	
+TRY	Leaf neodymium (Nd) content per leaf dry mass	
+TRY	Leaf nickel (Ni) content per leaf dry mass	Physiology
+TRY	Leaf nitrate (NO3-) content per leaf dry mass	
+TRY	Leaf nitrate reductase activity	
+TRY	Leaf nitrogen (N) content organic per leaf dry mass	Physiology
+TRY	Leaf nitrogen (N) content per dry mass (cotyledons)	Physiology
+TRY	Leaf nitrogen (N) content per leaf	Physiology
+TRY	Leaf nitrogen (N) content per leaf area	Physiology
+TRY	Leaf nitrogen (N) content per leaf dry mass	Physiology
+TRY	Leaf nitrogen (N) fraction in ammonium (NH4+)	Physiology
+TRY	Leaf nitrogen (N) fraction in N2	Physiology
+TRY	Leaf nitrogen (N) fraction in nitrate (NO3-)	Physiology
+TRY	Leaf nitrogen (N) fraction in Rubisco	Physiology
+TRY	Leaf nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Leaf nitrogen (N) retranslocation prior to leaf senescence	Physiology
+TRY	Leaf nitrogen (N) uptake rate	Physiology
+TRY	Leaf nitrogen/phosphorus (N/P) ratio	Physiology
+TRY	Leaf non-structural carbon (TNC) content per leaf dry mass	Physiology
+TRY	Leaf number of chloroplasts per leaf mesopyll cell	
+TRY	Leaf oxygen (O) isotope signature (delta 18O)	Physiology
+TRY	Leaf palatability	
+TRY	Leaf perimeter	
+TRY	Leaf perimeter excluding petiol (leaf lamina perimeter)	
+TRY	Leaf petiole diameter	
+TRY	Leaf petiole dry mass	
+TRY	Leaf petiole dry mass per petiole fresh mass (leaf petiole dry matter content; PDMC)	
+TRY	Leaf petiole fresh mass	
+TRY	Leaf petiole length	
+TRY	Leaf petiole mass per metamer mass	
+TRY	Leaf petiole projected area	
+TRY	Leaf petiole projected area per petiole dry mass (specific leaf area (SLA) of leaf petiole)	
+TRY	Leaf petiole specific length (petiole length per petiole dry mass)	
+TRY	Leaf pH	
+TRY	Leaf phenology type	Phenology
+TRY	Leaf phenols content per leaf dry mass	Physiology
+TRY	Leaf phosphorus (P) content per leaf	Physiology
+TRY	Leaf phosphorus (P) content per leaf area	Physiology
+TRY	Leaf phosphorus (P) content per leaf dry mass	Physiology
+TRY	Leaf phosphorus (P) retranslocation prior to leaf senescence	Physiology
+TRY	Leaf photosynthesis carboxylation capacity (Vcmax) per leaf area (Farquhar model)	Physiology
+TRY	Leaf photosynthesis carboxylation capacity (Vcmax) per leaf dry mass (Farquhar model)	Physiology
+TRY	Leaf photosynthesis carboxylation capacity (Vcmax) per leaf nitrogen (N) content (Farquhar model)	Physiology
+TRY	Leaf photosynthesis carboxylation capacity (Vcmax) temperature dependence (Farquhar model)	Physiology
+TRY	Leaf photosynthesis CO2 compensation point	Physiology
+TRY	Leaf photosynthesis CO2 concentration at chloroplast	Physiology
+TRY	Leaf photosynthesis drawdown of CO2 concentration from ambient airspace to intercellular airspace	Physiology
+TRY	Leaf photosynthesis drawdown of CO2 concentration from intercellular airspace to chloroplast	Physiology
+TRY	Leaf photosynthesis electron transport capacity (Jmax) per leaf area (Farquhar model)	Physiology
+TRY	Leaf photosynthesis electron transport capacity (Jmax) per leaf dry mass (Farquhar model)	Physiology
+TRY	Leaf photosynthesis electron transport capacity (Jmax) per leaf nitrogen (N) content (Farquhar model)	Physiology
+TRY	Leaf photosynthesis electron transport capacity (Jmax) temperature dependence (Farquhar model)	Physiology
+TRY	Leaf photosynthesis irradiance at saturation	Physiology
+TRY	Leaf photosynthesis light compensation point	Physiology
+TRY	Leaf photosynthesis light response curvatur	Physiology
+TRY	Leaf photosynthesis light use efficiency (LUE)	Physiology
+TRY	Leaf photosynthesis oxygenation capacity (Farquhar model)	Physiology
+TRY	Leaf photosynthesis pathway	Physiology
+TRY	Leaf photosynthesis photoperiodism: threshold value	Physiology
+TRY	Leaf photosynthesis photoperiodism: type	Physiology
+TRY	Leaf photosynthesis quantum yield (QY; corresponding to photosynthetic efficiency)	Physiology
+TRY	Leaf photosynthesis rate per leaf area	Physiology
+TRY	Leaf photosynthesis rate per leaf area: transition to TPU limited photosynthesis	Physiology
+TRY	Leaf photosynthesis rate per leaf dry mass	Physiology
+TRY	Leaf photosynthesis rate per leaf nitrogen (N) content (photosynthetic nitrogen use efficiency, PNUE)	Physiology
+TRY	Leaf photosynthesis rate per leaf transpiration (photosynthetic water use effinciency: WUE)	Physiology
+TRY	Leaf photosynthesis rate per stomatal conductance	Physiology
+TRY	Leaf photosynthesis temperature dependence	Physiology
+TRY	Leaf photosynthesis: intercellular CO2 concentration	Physiology
+TRY	Leaf photosynthesis: intercellular CO2 concentration to ambient CO2 (ci/ca)	Physiology
+TRY	Leaf photosynthesis: maximum rate of PEPc carboxylation (Vpmax) per leaf area	Physiology
+TRY	Leaf photosynthesis: quantum efficiency of photosystem II (maximum potential; FvFm)	Physiology
+TRY	Leaf photosynthetic A/Ci curve: intercellular CO2 concentration	Physiology
+TRY	Leaf photosynthetic A/Ci curve: photosynthetic rate per leaf area	Physiology
+TRY	Leaf photosynthetic A/Ci curve: stomata conductance per leaf area	Physiology
+TRY	Leaf photosynthetic A/Ci curve: transpiration rate per leaf area	Physiology
+TRY	Leaf porosity	
+TRY	Leaf potassium (K) content per leaf	Physiology
+TRY	Leaf potassium (K) content per leaf area	Physiology
+TRY	Leaf potassium (K) content per leaf dry mass	Physiology
+TRY	Leaf presence	
+TRY	Leaf protein content per leaf dry mass	
+TRY	Leaf relative water content (leaf water content fresh / leaf water content saturated; RWC)	
+TRY	Leaf respiration coefficient: growth	Physiology
+TRY	Leaf respiration coefficient: maintenance	Physiology
+TRY	Leaf respiration intercellular CO2 concentration at nighttime	Physiology
+TRY	Leaf respiration rate in light per dry mass	Physiology
+TRY	Leaf respiration rate in light per leaf area	Physiology
+TRY	Leaf respiration rate in light per leaf respiration rate in the dark	Physiology
+TRY	Leaf respiration rate in the dark as fraction of photosynthetic carboxylation capacity (Vcmax)	Physiology
+TRY	Leaf respiration rate in the dark minus respiration in light, mass based	Physiology
+TRY	Leaf respiration rate in the dark per leaf area	Physiology
+TRY	Leaf respiration rate in the dark per leaf dry mass	Physiology
+TRY	Leaf respiration rate in the dark per leaf nitrogen (N) content	Physiology
+TRY	Leaf respiration rate in the dark temperature dependence	Physiology
+TRY	Leaf revolute or involute	
+TRY	Leaf rhachis area per dry mass (specific leaf area (SLA) of leaf rhachis)	
+TRY	Leaf rhachis dry mass	
+TRY	Leaf rhachis dry mass per leaf rhachis fresh mass (leaf rhachis dry matter content; LRDMC)	
+TRY	Leaf rhachis fresh mass	
+TRY	Leaf rhachis length	
+TRY	Leaf rhachis projected area	
+TRY	Leaf rubidium (Rb) content per leaf dry mass	
+TRY	Leaf Rubisco content per leaf area	
+TRY	Leaf samarium (Sm) content per leaf dry mass	
+TRY	Leaf scandium (Sc) content per leaf dry mass	
+TRY	Leaf sclerified tissue per leaf lamina tissue	
+TRY	Leaf sclerified tissue per leaf midrib	
+TRY	Leaf secondary compound types	
+TRY	Leaf selenium (Se) content per leaf dry mass	
+TRY	Leaf shape	
+TRY	Leaf shape index: lamina length / lamina width	
+TRY	Leaf sheath area	
+TRY	Leaf sheath area per sheath dry mass (sheath SLA)	
+TRY	Leaf sheath dry mass	
+TRY	Leaf sheath length	
+TRY	Leaf shrinkage	
+TRY	Leaf silicon (Si) content per leaf dry mass	
+TRY	Leaf silver (Ag) content per leaf dry mass	
+TRY	Leaf sodium (Na) content per leaf dry mass	Physiology
+TRY	Leaf solid volume per leaf volume	
+TRY	Leaf soluble components content per leaf dry mass	
+TRY	Leaf soluble phenols content per leaf dry mass	Physiology
+TRY	Leaf starch content per leaf dry mass	
+TRY	Leaf strontium (Sr) content per leaf dry mass	
+TRY	Leaf structural dry matter per leaf dry mass	
+TRY	Leaf structural dry matter per leaf volume	
+TRY	Leaf sugar content per leaf dry mass	
+TRY	Leaf sugar/starch ratio	
+TRY	Leaf sulfur (S) content per leaf dry mass	Physiology
+TRY	Leaf sulphate (SO4) content per dry mass	
+TRY	Leaf surface area of chloroplasts exposed to intercellular airspace per leaf area	
+TRY	Leaf surface area of mesophyll cells per leaf area	
+TRY	Leaf surface pattern type	
+TRY	Leaf surface waxiness	
+TRY	Leaf tannin content per leaf dry mass	
+TRY	Leaf tantalum (Ta) content per leaf dry mass	
+TRY	Leaf terbium (Tb) content per leaf dry mass	
+TRY	Leaf terminal section length	
+TRY	Leaf terminal section projected area	
+TRY	Leaf texture (sclerophylly, physical strength, toughness)	
+TRY	Leaf thickness	
+TRY	Leaf thorium (Th) content per leaf dry mass	
+TRY	Leaf titanium (Ti) content per leaf dry mass	
+TRY	Leaf transpiration rate at nighttime	
+TRY	Leaf transpiration rate per leaf area	
+TRY	Leaf transpiration rate per leaf dry mass	
+TRY	Leaf type	
+TRY	Leaf uranium (U) content per leaf dry mass	
+TRY	Leaf vanadium (V) content per leaf dry mass	
+TRY	Leaf vascular bundle cell size (area): phloem	Morphology
+TRY	Leaf vascular bundle cell size (area): sclerenchym	Morphology
+TRY	Leaf vascular bundle cell size (area): xylem	Morphology
+TRY	Leaf vascular bundle volume fraction: phloem	
+TRY	Leaf vascular bundle volume fraction: sclerenchym	
+TRY	Leaf vascular bundle volume fraction: xylem	
+TRY	Leaf vein density	
+TRY	Leaf veins free ending density	
+TRY	Leaf veins number of vein orders	
+TRY	Leaf veins number of veins on first order	
+TRY	Leaf venation index (VEI)	
+TRY	Leaf venation type	
+TRY	Leaf vessel diameter	
+TRY	Leaf volatile organic carbon (VOC): monoterpene emission category	Physiology
+TRY	Leaf volatile organic carbon (VOC): monoterpene emission rate per leaf area	Physiology
+TRY	Leaf volatile organic carbon (VOC): monoterpene emission rate per leaf dry mass	Physiology
+TRY	Leaf volatile organic carbon (VOC): other than monoterpenes emission	Physiology
+TRY	Leaf volume	
+TRY	Leaf volume of chloroplasts	
+TRY	Leaf volume per leaf area	
+TRY	Leaf water & osmotic potential: leaf osmotic potential at full turgor	
+TRY	Leaf water & osmotic potential: leaf osmotic potential at turgor loss	
+TRY	Leaf water & osmotic potential: leaf water potential	
+TRY	Leaf water & osmotic potential: leaf water potential at turgor loss point	
+TRY	Leaf water & osmotic potential: Soil volumetric water content at leaf turgor loss point	
+TRY	Leaf water & osmotic potential: soil water potential at leaf turgor loss point	
+TRY	Leaf water capacitance	
+TRY	Leaf water content apoplastic	
+TRY	Leaf water content at turgor loss point	
+TRY	Leaf water content per leaf dry mass (at saturation)	
+TRY	Leaf water content per leaf dry mass (not saturated)	
+TRY	Leaf water content per leaf dry mass missing to leaf water saturation	
+TRY	Leaf water content total	
+TRY	Leaf water saturation deficit	
+TRY	Leaf water storage capacity (WSC)	
+TRY	Leaf water storage time constant	
+TRY	Leaf water storage transfer resistance	
+TRY	Leaf water transport system type	
+TRY	Leaf water volume per leaf volume	
+TRY	Leaf width	
+TRY	Leaf width per leaf length	
+TRY	Leaf xanthophyll plus carotene content per leaf area	
+TRY	Leaf ytterbium (Yb) content per leaf dry mass	
+TRY	Leaf zinc (Zn) content per leaf dry mass	Physiology
+TRY	Leaflet length	
+TRY	Leaflet number of first order per leaf	
+TRY	Leaflet number of second order per leaf	
+TRY	Leaflet number per leaf	
+TRY	Leaflet width	
+TRY	Litter (cone, strobilus) nitrogen (N) content per dry mass	Physiology
+TRY	Litter (fine root) calcium (Ca) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) carbon (C) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) carbon/nitrogen (C/N) ratio	Physiology
+TRY	Litter (fine root) cellulose content per fine root litter dry mass	
+TRY	Litter (fine root) decomposition per soil surface area (annual)	
+TRY	Litter (fine root) decomposition per soil surface area (monthly)	
+TRY	Litter (fine root) decomposition rate	
+TRY	Litter (fine root) decomposition rate constant	
+TRY	Litter (fine root) decomposition: decomposition rate constant	
+TRY	Litter (fine root) decomposition: fine root dry mass decomposed per soil volume and time	
+TRY	Litter (fine root) decomposition: fine root length decomposed per ground area during exposition	
+TRY	Litter (fine root) decomposition: fraction of fine root dry mass not decomposed to original fine root dry mass	
+TRY	Litter (fine root) decomposition: nitrogen (N) immobilization in decomposing fine roots	Physiology
+TRY	Litter (fine root) hemicellulose content per fine root litter dry mass	
+TRY	Litter (fine root) lignin content per fine root litter dry mass	
+TRY	Litter (fine root) lignin/nitrogen (lignin/N) ratio	Physiology
+TRY	Litter (fine root) magnesium (Mg) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) manganese (Mn) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) nitrogen (N) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) phosphorus (P) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) potassium (K) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) sodium (Na) content per fine root litter dry mass	Physiology
+TRY	Litter (fine root) sulfur (S) content per fine root litter dry mass	Physiology
+TRY	Litter (leaf) calcium (Ca) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) carbon (C) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) carbon/nitrogen (C/N) ratio	Physiology
+TRY	Litter (leaf) cellulose content per leaf litter dry mass	
+TRY	Litter (leaf) copper (Cu) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) decomposition rate	
+TRY	Litter (leaf) decomposition rate constant	
+TRY	Litter (leaf) iron (Fe) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) lignin content per leaf litter dry mass	
+TRY	Litter (leaf) magnesium (Mg) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) manganese (Mn) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) nitrogen (N) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) phenols content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) phosphorus (P) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) potassium (K) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) protein content per leaf litter dry mass	
+TRY	Litter (leaf) sodium (Na) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) sulfur (S) content per leaf litter dry mass	Physiology
+TRY	Litter (leaf) zinc (Zn) content per leaf litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) decomposition rate	
+TRY	Litter (other than leaf: twigs, bark, flowers...) decomposition rate constant	
+TRY	Litter (other than leaf: twigs, bark, flowers...) density	
+TRY	Litter (other than leaf: twigs, bark, flowers...) iron (Fe) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) lignin content per litter dry mass	
+TRY	Litter (other than leaf: twigs, bark, flowers...) lignin/nitrogen (N) ratio	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) magnesium (Mg) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) manganese (Mn) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) nitrogen (N) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) phenols content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) potassium (K) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) protein content per litter dry mass	
+TRY	Litter (other than leaf: twigs, bark, flowers...) rot type	
+TRY	Litter (other than leaf: twigs, bark, flowers...) sodium (Na) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) sulfur (S) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowers...) water content per litter dry mass	
+TRY	Litter (other than leaf: twigs, bark, flowersà) aluminium (Al) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowersà) C/N ratio	
+TRY	Litter (other than leaf: twigs, bark, flowersà) calcium (Ca) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowersà) carbon (C) content per litter dry mass	Physiology
+TRY	Litter (other than leaf: twigs, bark, flowersà) cellulose content per litter dry mass	
+TRY	Litter aluminium (Al ) content per litter dry mass	Physiology
+TRY	Litter antimony (Sb) content per litter dry mass	
+TRY	Litter arsenic (As) content per litter dry mass	
+TRY	Litter ash content per litter dry mass	
+TRY	Litter cadmium (Cd) content per litter dry mass	Physiology
+TRY	Litter calcium (Ca) content per litter dry mass	Physiology
+TRY	Litter carbon (C) content per litter dry mass	Physiology
+TRY	Litter carbon (C) isotope signature (delta 13C)	Physiology
+TRY	Litter carbon/nitrogen (C/N) ratio	Physiology
+TRY	Litter cellulose content per litter dry mass	
+TRY	Litter chromium (Cr) content per litter dry mass	Physiology
+TRY	Litter copper (Cu) content per litter dry mass	Physiology
+TRY	Litter decomposition rate	
+TRY	Litter decomposition rate constant	
+TRY	Litter iron (Fe) content per litter dry mass	Physiology
+TRY	Litter labile compound content per litter dry mass	
+TRY	Litter lead (Pb) content per litter dry mass	Physiology
+TRY	Litter lignin content per litter dry mass	
+TRY	Litter magnesium (Mg) content per litter dry mass	Physiology
+TRY	Litter mercury (Hg) content per litter dry mass	Physiology
+TRY	Litter molybdenium (Mo) content per litter dry mass	
+TRY	Litter nickel (Ni) content per litter dry mass	Physiology
+TRY	Litter nitrogen (N) content per litter dry mass	Physiology
+TRY	Litter nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Litter other than leaf phosphorus (P) content per litter dry mass	Physiology
+TRY	Litter phenols content per litter dry mass	Physiology
+TRY	Litter phosphorus (P) content per litter dry mass	Physiology
+TRY	Litter potassium (K) content per litter dry mass	Physiology
+TRY	Litter SLA (leaf area per leaf dry mass, specific leaf area, 1/LMA of leaf litter)	
+TRY	Litter sodium (Na) content per litter dry mass	Physiology
+TRY	Litter sulfur (S) content per litter dry mass	Physiology
+TRY	Litter tannin content per litter dry mass	
+TRY	Litter titanium (Ti) content per litter dry mass	
+TRY	Litter twig nitrogen (N) content per twig dry mass	Physiology
+TRY	Litter water soluble carbon (C) content per litter dry mass	Physiology
+TRY	Litter zinc (Zn) content per litter dry mass	Physiology
+TRY	Litterfall per ground area	
+TRY	Moss (bryophyta) and ferns: spore ornamentation	
+TRY	Moss and fern spore length	
+TRY	Moss and fern spore mass	
+TRY	Moss and fern spore volume	
+TRY	Moss and fern spore width	
+TRY	Moss: arrangement of antheridia and archegonia on gametohytes	
+TRY	Moss: arrangement of antheridia and archegonia on monoicous gametohytes	
+TRY	Moss: capsule with peristome or not	
+TRY	Moss: fruiting frequency	
+TRY	Moss: fruiting season	
+TRY	Moss: life strategy according to During (1979)	
+TRY	Moss: plant growth form (morphological)	
+TRY	Moss: plant life form	
+TRY	Moss: position of the capsule on the seta	
+TRY	Moss: potential to dominate vegetation cover	
+TRY	Moss: potentially hyaline hairpoint	
+TRY	Moss: protonema persistence	
+TRY	Moss: seta length	
+TRY	Moss: shoot length	
+TRY	Moss: stem growth direction	
+TRY	Moss: vegetative regeneration	
+TRY	Mycoheterotrophy	Interaction
+TRY	Mycorhizza: soil ergosterol content per soil dry mass or growth medium dry mass	Interaction
+TRY	Mycorrhiza fungi: concentration of arbuscular mycorrhizal spores in soil	Interaction
+TRY	Mycorrhiza status and microbial interactions	Interaction
+TRY	Mycorrhiza type	Interaction
+TRY	Mycorrhiza: dry mass of external ectomycorrhizal mycelium (EEM) in soil per ground area	Interaction
+TRY	Mycorrhiza: fraction of mycorrhizae on roots that are of the contact exploration type	Interaction
+TRY	Mycorrhiza: fraction of mycorrhizae on roots that are of the long-distance exploration type	Interaction
+TRY	Mycorrhiza: fraction of mycorrhizae on roots that are of the medium-distance exploration type	Interaction
+TRY	Mycorrhiza: fraction of mycorrhizae on roots that are of the short-distance exploration type	Interaction
+TRY	Mycorrhiza: fraction of mycorrhizal tips that are living	Interaction
+TRY	Mycorrhiza: length of arbuscular mycorrhizal (AM) hyphae per soil dry mass	Interaction
+TRY	Mycorrhiza: PLFA proxy for mycorrhizal hyphal carbon (C) per soil mass	Physiology
+TRY	Mycorrhizal colonization AM: fraction of root length that contains arbuscular mycorrhizal structures	Interaction
+TRY	Mycorrhizal colonization EM: fraction of root length colonized by ectomycorrhizal structure	Interaction
+TRY	Mycorrhizal colonization: classified fractions of root length that contain mycorrhizae	Interaction
+TRY	Mycorrhizal colonization: fraction of root length that contains hyphae	Interaction
+TRY	Mycorrhizal colonization: fraction of root length with mycorrhizla hyphae, arbuscules, or vesicles	Interaction
+TRY	Mycorrhizal colonization: fraction of root tips that contain mycorrhizal structures	Interaction
+TRY	Mycorrhizal colonization: number of colonized root tips per root branch length	Interaction
+TRY	Mycorrhizal infection intensity	Interaction
+TRY	Paleo trait: leaf area	
+TRY	Paleo trait: leaf mass per area	
+TRY	Paleo trait: leaf petiole width	
+TRY	Plant above ground hydraulic conductance	
+TRY	Plant aboveground woody biomass per ground area	
+TRY	Plant belowground relative growth rate	
+TRY	Plant bifurcation ratio	
+TRY	Plant biomass and allometry: Bark cross-sectional area at breast height	
+TRY	Plant biomass and allometry: Bark mass per plant	
+TRY	Plant biomass and allometry: Belowground plant organ dry mass per plant	
+TRY	Plant biomass and allometry: Belowground plant organ mass fraction (fraction of belowground plant organ dry mass to whole plant dry mass)	
+TRY	Plant biomass and allometry: Branch dry mass (alive, dead) per plant	
+TRY	Plant biomass and allometry: branch dry mass per plant dry mass	
+TRY	Plant biomass and allometry: Branch mass per plant	
+TRY	Plant biomass and allometry: Branch nitrogen (N) content per plant	Physiology
+TRY	Plant biomass and allometry: Ccone (strobilus) dry mass per plant	
+TRY	Plant biomass and allometry: Coarse root dry mass per plant	
+TRY	Plant biomass and allometry: Coarse root dry mass per plant dry mass	
+TRY	Plant biomass and allometry: Coarse root mass fraction (fraction of coarse root dry mass per whole plant dry mass)	
+TRY	Plant biomass and allometry: Coarse root mass per plant	
+TRY	Plant biomass and allometry: Crown (canopy) area per plant	
+TRY	Plant biomass and allometry: Crown (canopy) area: projected as seen from above	
+TRY	Plant biomass and allometry: Crown (canopy) volume per plant	
+TRY	Plant biomass and allometry: Fine root (absorptive) dry mass per plant	
+TRY	Plant biomass and allometry: Fine root (absorptive) exudation rate per plant	
+TRY	Plant biomass and allometry: Fine root (absorptive) length per plant	
+TRY	Plant biomass and allometry: Fine root (absorptive) mass fraction (fraction of absorptive fine root dry mass to whole plant dry mass)	
+TRY	Plant biomass and allometry: Fine root (transport) dry mass per plant	
+TRY	Plant biomass and allometry: Fine root (transport) length per plant	
+TRY	Plant biomass and allometry: Fine root dry mass per plant	
+TRY	Plant biomass and allometry: Fine root dry mass per plant dry mass	
+TRY	Plant biomass and allometry: Fine root length per plant	
+TRY	Plant biomass and allometry: Fine root length ratio (RLR): fine root length per plant dry mass	
+TRY	Plant biomass and allometry: Fine root mass fraction (fraction of fine root dry mass to whole plant dry mass)	
+TRY	Plant biomass and allometry: Fine root mass per plant	
+TRY	Plant biomass and allometry: Fine root nitrogen (N) content per plant	Physiology
+TRY	Plant biomass and allometry: Inflorescences per plant	
+TRY	Plant biomass and allometry: Leaf dry mass (cotyledons) per plant	
+TRY	Plant biomass and allometry: Leaf dry mass (paracotyledons) per plant	
+TRY	Plant biomass and allometry: Leaf dry mass per plant	
+TRY	Plant biomass and allometry: Leaf dry mass per plant dry mass (leaf weight ratio, LWR)	
+TRY	Plant biomass and allometry: Leaf dry mass production rate per plant	
+TRY	Plant biomass and allometry: Leaf fresh mass per plant	
+TRY	Plant biomass and allometry: Leaf mass (dry or fresh) per plant	
+TRY	Plant biomass and allometry: Leaf nitrogen (N) content per plant	Physiology
+TRY	Plant biomass and allometry: Leaf nitrogen (N) content per plant nitrogen (N) content	Physiology
+TRY	Plant biomass and allometry: Leaf number production rate per plant	
+TRY	Plant biomass and allometry: Leaf petiole dry mass per plant	
+TRY	Plant biomass and allometry: Leaves per plant (emergent, mature, senescent)	
+TRY	Plant biomass and allometry: Litter (leaf) dry mass (dead leaves) per plant	
+TRY	Plant biomass and allometry: Litter (leaf) number of dead leaves per plant	
+TRY	Plant biomass and allometry: Plant dry mass	
+TRY	Plant biomass and allometry: Plant dry mass per plant fresh mass	
+TRY	Plant biomass and allometry: Plant dry mass per plant volume	
+TRY	Plant biomass and allometry: Plant mass	
+TRY	Plant biomass and allometry: Plant surface area per plant dry mass of all green parts	
+TRY	Plant biomass and allometry: Reproductive dry mass per plant	
+TRY	Plant biomass and allometry: Reproductive dry mass per plant dry mass (reproductive weight fraction)	
+TRY	Plant biomass and allometry: Reproductive organs per plant	
+TRY	Plant biomass and allometry: Rhizome dry mass per plant dry mass (rhizome weight fraction)	
+TRY	Plant biomass and allometry: Root dry mass per plant	
+TRY	Plant biomass and allometry: Root fresh mass per plant	
+TRY	Plant biomass and allometry: Root length of primary roots per plant	
+TRY	Plant biomass and allometry: Root length per plant	
+TRY	Plant biomass and allometry: Root mass fraction (fraction of root dry mass per whole plant dry mass)	
+TRY	Plant biomass and allometry: Root mass per plant	
+TRY	Plant biomass and allometry: Root nitrogen (N) content per plant nitrogen (N) content	Physiology
+TRY	Plant biomass and allometry: Root surface area per plant	
+TRY	Plant biomass and allometry: Root tips per plant	
+TRY	Plant biomass and allometry: Root volume per plant	
+TRY	Plant biomass and allometry: Seed mass per plant	
+TRY	Plant biomass and allometry: Seed number per plant	
+TRY	Plant biomass and allometry: Shoot dry mass (plant aboveground dry mass) per plant	
+TRY	Plant biomass and allometry: Shoot nitrogen (N) content per plant	Physiology
+TRY	Plant biomass and allometry: Shoots per plant	
+TRY	Plant biomass and allometry: Stem cross-sectional area at base of the crown	
+TRY	Plant biomass and allometry: Stem cross-sectional area at base of the plant	
+TRY	Plant biomass and allometry: Stem cross-sectional area at breast height	
+TRY	Plant biomass and allometry: Stem dry mass per plant	
+TRY	Plant biomass and allometry: Stem dry mass per plant dry mass per plant	
+TRY	Plant biomass and allometry: Stem mass (including branches) per plant	
+TRY	Plant biomass and allometry: Stem nitrogen (N) content per plant	Physiology
+TRY	Plant biomass and allometry: Stem nitrogen (N) content per plant nitrogen (N) content	Physiology
+TRY	Plant biomass and allometry: Stems per plant	
+TRY	Plant biomass and allometry: Supportive structure (stem, twig, leaf petiole, leaf sheeth) dry mass per plant	
+TRY	Plant biomass and allometry: Whole plant aboveground mass	
+TRY	Plant biomass and allometry: Wood (heartwood) cross-sectional area at base	
+TRY	Plant biomass and allometry: Wood (heartwood) cross-sectional area at base of crown	
+TRY	Plant biomass and allometry: Wood (heartwood) cross-sectional area at breast height	
+TRY	Plant biomass and allometry: Wood (heartwood) mass per plant	
+TRY	Plant biomass and allometry: Wood (sapwood) cross-sectional area at base	
+TRY	Plant biomass and allometry: Wood (sapwood) cross-sectional area at base of crown	
+TRY	Plant biomass and allometry: Wood (sapwood) cross-sectional area at breast height	
+TRY	Plant biomass and allometry: Wood (sapwood) mass per plant	
+TRY	Plant biomass and allometry: Wood dry mass per plant	
+TRY	Plant biomass and allometry: Wood dry mass per plant dry mass	
+TRY	Plant canopy anthocyanin content per ground area (anthocyanin mass per leaf area * LAI)	
+TRY	Plant canopy carotenoid content per ground area (carotenoid mass per leaf area * LAI)	
+TRY	Plant canopy chlorophyll content per ground area (chlorophyll mass per leaf area * LAI)	
+TRY	Plant canopy dry mass per ground area (leaf mass per area * LAI)	
+TRY	Plant canopy water content per ground area (leaf water content * LAI)	
+TRY	Plant carbon (C) allocation to root, stem, leaves	Physiology
+TRY	Plant carbon (C) allocation: aboveground/belowground net primary production (NPP) ratio	Physiology
+TRY	Plant carbon (C) content per plant dry mass	Physiology
+TRY	Plant carbon/nitrogen (C/N) ratio	Physiology
+TRY	Plant clonal growth form	
+TRY	Plant containing salt glands	
+TRY	Plant dead organ retainment: leaves, branches, flowers	
+TRY	Plant defence mechanisms: chemical	
+TRY	Plant defence mechanisms: physical	
+TRY	Plant diameter of leaf rosette	
+TRY	Plant dry mass height distribution	
+TRY	Plant exposure	
+TRY	Plant fragmentation	
+TRY	Plant fresh mass	
+TRY	Plant functional type (PFT)	
+TRY	Plant growth form	
+TRY	Plant growth form detailed consolidated	
+TRY	Plant growth form simple consolidated	
+TRY	Plant growth rate	
+TRY	Plant growth rate relative (plant relative growth rate, RGR)	
+TRY	Plant harvest index: diametral quotient	
+TRY	Plant height generative	
+TRY	Plant height growth relative to diameter growth	
+TRY	Plant height of lowest branch	
+TRY	Plant height of lowest branch versus total plant height (furcation index)	
+TRY	Plant height of lowest flower	
+TRY	Plant height to plant dry mass ratio	
+TRY	Plant height vegetative	
+TRY	Plant height versus plant width relationship	
+TRY	Plant height: %trees > 6m	
+TRY	Plant height: coefficient of variation of plant height	
+TRY	Plant height: erectness ratio of not elongated to elongated height	
+TRY	Plant horizontal length of a bent / trailing organism	
+TRY	Plant human usage types	
+TRY	Plant hydraulic conductance	
+TRY	Plant life form (Raunkiaer life form)	
+TRY	Plant lifespan (longevity)	
+TRY	Plant light requirement	
+TRY	Plant mating system	
+TRY	Plant moisture use type	
+TRY	Plant mono/poly carpic	
+TRY	Plant morphological adaptations: root metamorphoses	
+TRY	Plant morphological adaptations: seed or dispersal unit metamorphoses	
+TRY	Plant morphological adaptations: shoot metamorphoses	
+TRY	Plant morphological adaptations: storage organs	
+TRY	Plant mortality rate	
+TRY	Plant nitrogen (N) content per plant dry mass	Physiology
+TRY	Plant nitrogen (N) uptake efficiency (plant nitrogen acquired per nitrogen available)	Physiology
+TRY	Plant nitrogen(N) fixation capacity	Physiology
+TRY	Plant number of branches per tree	
+TRY	Plant number of offspring shoots per parent shoot per year	
+TRY	Plant nutrition mode (heterotrophy)	
+TRY	Plant ontogeny: age of maturity (first flowering)	
+TRY	Plant ontogeny: time to emergence	
+TRY	Plant ontogeny: time to first leaf	
+TRY	Plant palatability	
+TRY	Plant phosphorus (P) content per plant dry mass	Physiology
+TRY	Plant propagation type	
+TRY	Plant recruitment efficiency	
+TRY	Plant relationship of stem mass, height and diameter	
+TRY	Plant reproductive phenology timing	
+TRY	Plant respiration rate per plant nitrogen (N) content	Physiology
+TRY	Plant resprouting capacity	
+TRY	Plant secondary compounds	
+TRY	Plant species use for bioremediation	
+TRY	Plant tree allometry model parameters	
+TRY	Plant vegetative phenology (leaf phenology)	
+TRY	Plant vegetative regeneration capacity	
+TRY	Plant vegetative regeneration species offspring size relative to parent	
+TRY	Plant vegetative reproduction: clonal growth organ	
+TRY	Plant vegetative reproduction: clonality of ramets	
+TRY	Plant vegetative reproduction: distance between ramets	
+TRY	Plant vegetative reproduction: lateral spread	
+TRY	Plant vegetative reproduction: number of ramets	
+TRY	Plant vegetative reproduction: pattern forming	
+TRY	Plant vegetative reproduction: persistence of connection between clonal growth organs	
+TRY	Plant vegetative reproduction: role of clonal growth organ in plant growth	
+TRY	Plant vegetative reproduction: spread rate	
+TRY	Plant vegetativeáreproduction: spreadádistanceá	
+TRY	Plant vital attributes of persistence and establishment	
+TRY	Plant water loss on drying	
+TRY	Plant wet biomass	
+TRY	Plant woodiness	
+TRY	Pollen diameter	
+TRY	Pollen heteromorphy	
+TRY	Pollen viability	
+TRY	Pollination syndrome	
+TRY	Reproductive structures nitrogen (N) content per reproductive structures dry mass	Physiology
+TRY	Reproductive structures nitrogen/phosphorus (N/P) ratio	Physiology
+TRY	Reproductive structures phosphorus (P) content per reproductive structures dry mass	Physiology
+TRY	Rhizome (presence / absence)	
+TRY	Root alcohol dehydrogenase (ADH) activity	
+TRY	Root aluminium (Al) content per root dry mass	Physiology
+TRY	Root ammonium (NH4+) uptake rate per root fresh mass	
+TRY	Root antimony (Sb) content per root dry mass	
+TRY	Root arsenic (As) content per root dry mass	
+TRY	Root ash carbon (C) content per root carbon (C) content	Physiology
+TRY	Root ash content per root dry mass	
+TRY	Root boron (B) content per root dry mass	
+TRY	Root branching intensity 3: number of root tips per total root length	
+TRY	Root branching intensity: number of root branches per root length	
+TRY	Root cadmium (Cd) content per root dry mass	Physiology
+TRY	Root calcium (Ca) content per root dry mass	Physiology
+TRY	Root carbon (C) content not hydrolyzable in acid extractives per root carbon (C) content	Physiology
+TRY	Root carbon (C) content per ground area	Physiology
+TRY	Root carbon (C) content per root dry mass	Physiology
+TRY	Root carbon (C) isotope signature (delta 13C)	Physiology
+TRY	Root carbon/nitrogen (C/N) ratio	Physiology
+TRY	Root cellulose carbon (C) per root carbon (C) content	Physiology
+TRY	Root cellulose content per root dry mass	
+TRY	Root chromium (Cr) content per root dry mass	Physiology
+TRY	Root conduit diameter	
+TRY	Root copper (Cu) content per root dry mass	Physiology
+TRY	Root cross-sectional area	
+TRY	Root cross-sectional area of root stele	
+TRY	Root cross-sectional area of vessel	
+TRY	Root cross-sectional area ratio of stele to cortex	
+TRY	Root cross-sectional fraction of stele area to root area	
+TRY	Root cross-sectional xylem area	
+TRY	Root debris decomposition rate constant	
+TRY	Root decomposition: fraction of carbon (C) remaining	Physiology
+TRY	Root decomposition: fraction of nitrogen (N) remaining	Physiology
+TRY	Root decomposition: fraction of root dry mass not decomposed to original root dry mass	
+TRY	Root diameter	
+TRY	Root dry mass fraction in respective root diameter class	
+TRY	Root dry mass fraction in respective root order	
+TRY	Root dry mass per ground area	
+TRY	Root dry mass per root fresh mass (root dry matter content; RDMC)	
+TRY	Root dry mass per root volume (root density, root tissue density)	
+TRY	Root dry mass per soil layer	
+TRY	Root dry mass to leaf dry mass ratio	
+TRY	Root dry mass turnover	
+TRY	Root dry mass turnover rate	
+TRY	Root evenness of dry mass vertical distribution	
+TRY	Root evenness of length vertical distribution	
+TRY	Root evenness of surface area vertical distribution	
+TRY	Root exudate content per soil dry mass: soil concentration of root exudates	
+TRY	Root exudation rate	
+TRY	Root exudation rate per root surface area	
+TRY	Root exudation: carbon (C) exudation as fraction of root carbon (C) growth	Physiology
+TRY	Root exudation: carbon (C) exudation as fraction of root dry mass	Physiology
+TRY	Root fraction of metaxylem cell wall thickness to vessel diameter	
+TRY	Root fraction of protoxylem cell wall thickness to vessel diameter	
+TRY	Root growth rate: fine root dry mass production per day per coarse root length	
+TRY	Root growth rate: fine root length production per day per coarse root length	
+TRY	Root growth: amplitude of monthly net root production	
+TRY	Root growth: probability that monthly net root production is greater than 0	
+TRY	Root growth: root carbon (C) production per ground area and time	Physiology
+TRY	Root growth: root dry mass production per ground area per day	
+TRY	Root growth: root dry mass production per ground area per duration of exposition	
+TRY	Root growth: root dry mass production per ground area per month	
+TRY	Root growth: root dry mass production per ground area per year	
+TRY	Root growth: root length production per ground area per exposition period	
+TRY	Root growth: root length production per ground area per year	
+TRY	Root growth: root surface area produced per ground area per exposition period	
+TRY	Root growth: root surface area produced per ground area per year	
+TRY	Root hemicellulose carbon (C) per root carbon (C) content	Physiology
+TRY	Root hemicellulose content per root dry mass	
+TRY	Root hydraulic conductivity	
+TRY	Root iron (Fe) content per root dry mass	Physiology
+TRY	Root lead (Pb) content per root dry mass	Physiology
+TRY	Root length	
+TRY	Root length density (RLD): root length per ground area	
+TRY	Root length fraction belonging to species	
+TRY	Root length fraction in respective root diameter class (e.g. fine root length per total root length; fine root / root length ratio)	
+TRY	Root length per length of higher order root (root branching architecture)	
+TRY	Root length per minirhizotron screen area	
+TRY	Root length per root dry mass (specific root length, SRL)	
+TRY	Root length per soil layer	
+TRY	Root length per soil volume	
+TRY	Root length relative growth rate	
+TRY	Root length: distance from root base to tip	
+TRY	Root Li uptake of molar Li per root length	
+TRY	Root lifespan: fraction of root tips that survive after one year	
+TRY	Root lifespan: fraction of roots that live to the age in ôroot ageö	
+TRY	Root lignin carbon (C) content per root carbon (C) content	Physiology
+TRY	Root lignin content per root dry mass	
+TRY	Root link length (segments between two nodes or a node and a tip)	
+TRY	Root links per root branch	
+TRY	Root lipid content per root dry mass	
+TRY	Root magnesium (Mg) content per root dry mass	Physiology
+TRY	Root manganese (Mn) content per root dry mass	Physiology
+TRY	Root mercury (Hg) content per root dry mass	Physiology
+TRY	Root metaxylem cell wall thickness	
+TRY	Root metaxylem vessel diameter	
+TRY	Root microbial relations: nodule dry mass on dead roots per ground area	
+TRY	Root microbial relations: nodule dry mass on living roots per ground area	
+TRY	Root microbial relations: ratio of fungal rRNA gene copy number to bacterial rRNA gene copy number	
+TRY	Root microbial relations: ratio of root fungal carbon (C) to root bacterial carbon	Physiology
+TRY	Root microbial relations: root bacterial biomass carbon (C) content per root dry mass	Physiology
+TRY	Root microbial relations: root fungal biomass carbon (C) content per root dry mass	Physiology
+TRY	Root microbial relations: root glucosamine content per root dry mass	
+TRY	Root microbial relations: root microbial biomass carbon (C) content per root dry mass	Physiology
+TRY	Root microbial relations: root microbial biomass nitrogen (N) content per root dry mass	Physiology
+TRY	Root molybdenum (Mo) content per root dry mass	
+TRY	Root morphological adaptations: aerenchyma	
+TRY	Root mortality: root dry mass mortality per ground area and time	
+TRY	Root muramic acid content per root dry mass	Physiology
+TRY	Root necromass (dead dry mass) per ground area for specified soil depth increment	
+TRY	Root necromass to biomass ratio	
+TRY	Root nickel (Ni) content per root dry mass	Physiology
+TRY	Root nitrogen (N) content per root dry mass	Physiology
+TRY	Root nitrogen (N) content per root dry mass versus leaf nitrogen (N) content per leaf dry mass	Physiology
+TRY	Root nitrogen (N) content per root length	Physiology
+TRY	Root nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Root nitrogen (N) per ground area	Physiology
+TRY	Root nitrogen (N) uptake per ground area per year	Physiology
+TRY	Root nitrogen (N) uptake preference: ammonium (NH4+), nitrate (NO3-), organic nitrogen (N)	Physiology
+TRY	Root nitrogen (N) uptake rate	Physiology
+TRY	Root nitrogen (N) uptake rate per NPP	Physiology
+TRY	Root nitrogen/phosphorus (N/P) ratio	Physiology
+TRY	Root non-structural carbon (C) content per root carbon (C) content	Physiology
+TRY	Root number of tracheary elements per crossection	
+TRY	Root number of vessels per cross-section	
+TRY	Root organic nitrogen (N) content per root dry mass	Physiology
+TRY	Root persistence (lifespan, longevity)	
+TRY	Root phenols content per root dry mass	Physiology
+TRY	Root phosphorus (P) content per root dry mass	Physiology
+TRY	Root phosphorus (P) uptake rate per root dry mass	Physiology
+TRY	Root polyphenol content per root dry mass	
+TRY	Root porosity (fraction of root aerenchyma air space)	
+TRY	Root position along clonal growth organ	
+TRY	Root potassium (K) content per root dry mass	Physiology
+TRY	Root protoxylem cell wall thickness	
+TRY	Root protoxylem vessel diameter	
+TRY	Root radial oxygen loss	
+TRY	Root ratio of lignin to nitrogen (N)	Physiology
+TRY	Root ratio of organic nitrogen (N) to total N	Physiology
+TRY	Root ratio of polyphenol to nitrogen (N)	Physiology
+TRY	Root respiration rate per root dry mass	Physiology
+TRY	Root respiration rate per root nitrogen (N) content	Physiology
+TRY	Root respiration rate per root surface area	Physiology
+TRY	Root respiration temperature dependence	Physiology
+TRY	Root root hair length	
+TRY	Root root hair presence	
+TRY	Root rooting depth	
+TRY	Root rooting depth: fraction of root dry mass contained in depth interval	
+TRY	Root silica (SiO2) content per root dry mass	
+TRY	Root silicon (Si) content per root dry mass	
+TRY	Root sodium (Na) content per root dry mass	Physiology
+TRY	Root soluble components content per root dry mass	
+TRY	Root species abundance: fraction of total root dry mass composed of respective species	
+TRY	Root starch content per dry mass	
+TRY	Root stele diameter	
+TRY	Root stele fraction: stele diameter divided by root diameter	
+TRY	Root structural carbon (C) content per root carbon (C) content	Physiology
+TRY	Root sugar content per root dry mass	
+TRY	Root sulfur (S) content per root dry mass	Physiology
+TRY	Root surface area fraction in respective root order	
+TRY	Root surface area per root dry mass (specific root area)	
+TRY	Root surface area per soil layer	
+TRY	Root tannin content per root dry mass	
+TRY	Root tip fraction in diameter class	
+TRY	Root tips per absorptive fine root dry mass (specific absorptive fine root tip abundance, SRTA)	
+TRY	Root tips per fine root dry mass (specific fine root tip abundance, SRTA)	
+TRY	Root tips per ground area	
+TRY	Root tips per root dry mass (specific root tip abundance, SRTA)	
+TRY	Root tips per soil volume	
+TRY	Root tissue density (root dry mass per root volume)	
+TRY	Root titanium (Ti) content per root dry mass	
+TRY	Root total non-structural carbon (TNC) content per root dry mass	Physiology
+TRY	Root type, root architecture	
+TRY	Root vessel diameter	
+TRY	Root volume per root dry mass	
+TRY	Root water uptake rate per root length	
+TRY	Root water uptake rate per soil volume per hour	
+TRY	Root xylem vessel density in stele: number of xylem vessels per square millimeter of root stele	
+TRY	Root zinc (Zn) content per root dry mass	Physiology
+TRY	Root/shoot ratio	
+TRY	Seed (seedbank) longevity	
+TRY	Seed / ovule ratio	
+TRY	Seed area	
+TRY	Seed carbon (C) content per dry mass (or diaspore)	Physiology
+TRY	Seed curvature	
+TRY	Seed dry mass	
+TRY	Seed germinability group	
+TRY	Seed germination lag time	
+TRY	Seed germination rate (germination efficiency)	
+TRY	Seed germination rate per day (maximum)	
+TRY	Seed germination requirement	
+TRY	Seed germination stimulation	
+TRY	Seed germination temperature	
+TRY	Seed germination type	
+TRY	Seed heteromorphy	
+TRY	Seed length	
+TRY	Seed lift-off velocity	
+TRY	Seed mass per inflorescence	
+TRY	Seed morphology type	
+TRY	Seed mucilaginous	
+TRY	Seed nitrogen (N) content per dry mass (or diaspore)	Physiology
+TRY	Seed nitrogen (N) content per seed	Physiology
+TRY	Seed number per dispersal unit	
+TRY	Seed number per flower	
+TRY	Seed number per inflorescence (total, fertile, infertile)	
+TRY	Seed number per ramet	
+TRY	Seed number per reproducton unit	
+TRY	Seed number per square meter	
+TRY	Seed number per stem	
+TRY	Seed number per unknown unit	
+TRY	Seed oil content per seed mass	
+TRY	Seed or fruit biomass per ground area	
+TRY	Seed phosphorus (P) content per dry mass (or diaspore)	Physiology
+TRY	Seed phosphorus (P) content per seed	Physiology
+TRY	Seed presence or absence	
+TRY	Seed projected perimeter	
+TRY	Seed protein content per seed mass	
+TRY	Seed releasing height	
+TRY	Seed shape	
+TRY	Seed spread rate	
+TRY	Seed storage behaviour	
+TRY	Seed structure type	
+TRY	Seed surface area	
+TRY	Seed terminal velocity	
+TRY	Seed thickness	
+TRY	Seed viability	
+TRY	Seed volume	
+TRY	Seed width	
+TRY	Seed width to length ratio	
+TRY	Seedbank density	
+TRY	Seedbank duration	
+TRY	Seedbank number of layers	
+TRY	Seedbank thickness of top layer	
+TRY	Seedbank type	
+TRY	Seeding frequency	
+TRY	Seedling vigor	
+TRY	Shoot aluminium (Al) content per shoot dry mass	Physiology
+TRY	Shoot branch length	
+TRY	Shoot branching density	
+TRY	Shoot branching distance	
+TRY	Shoot branching number	
+TRY	Shoot branching type; shoot branching architecture	
+TRY	Shoot calcium (Ca) content per shoot dry mass	Physiology
+TRY	Shoot carbon (C) content per shoot dry mass	Physiology
+TRY	Shoot carbon (C) isotope signature (delta 13C)	Physiology
+TRY	Shoot carbon/nitrogen (C/N) ratio	Physiology
+TRY	Shoot cellulose content per shoot dry mass	
+TRY	Shoot copper (Cu) content per shoot dry mass	Physiology
+TRY	Shoot cyclicity	
+TRY	Shoot emergences (pubescence, hairs, spines, thorns)	
+TRY	Shoot fresh mass	
+TRY	Shoot fresh mass per shoot dry mass	
+TRY	Shoot hemicellulose content per shoot dry mass	
+TRY	Shoot iron (Fe) content per shoot dry mass	Physiology
+TRY	Shoot length to first flower	
+TRY	Shoot lignin content per shoot dry mass	
+TRY	Shoot magnesium (Mg) content per shoot dry mass	Physiology
+TRY	Shoot manganese (Mn) content per shoot dry mass	Physiology
+TRY	Shoot necromass	
+TRY	Shoot nickel (Ni) content per shoot dry mass	Physiology
+TRY	Shoot nitrogen (N) content per shoot dry mass	Physiology
+TRY	Shoot nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Shoot number of leaves	
+TRY	Shoot organic nitrogen (N) content per shoot dry mass	Physiology
+TRY	Shoot phosphorus (P) content per shoot dry mass	Physiology
+TRY	Shoot potassium (K) content per shoot dry mass	Physiology
+TRY	Shoot sodium (Na) content per shoot dry mass	Physiology
+TRY	Shoot sulfur (S) content per shoot dry mass	Physiology
+TRY	Shoot zinc (Zn) content per shoot dry mass	Physiology
+TRY	Species environmental indicator value according to Ellenberg: continentality	Physiology
+TRY	Species environmental indicator value according to Ellenberg: light	Physiology
+TRY	Species environmental indicator value according to Ellenberg: moisture	Physiology
+TRY	Species environmental indicator value according to Ellenberg: nitrogen	Physiology
+TRY	Species environmental indicator value according to Ellenberg: pH	Physiology
+TRY	Species environmental indicator value according to Ellenberg: salt tolerance	Physiology
+TRY	Species environmental indicator value according to Ellenberg: temperature	Physiology
+TRY	Species generation overlap	
+TRY	Species genotype: chromosome base number	
+TRY	Species genotype: chromosome cDNA content	
+TRY	Species genotype: chromosome number	
+TRY	Species genotype: chromosome number gametophytic	
+TRY	Species genotype: chromosome number sporophytic	
+TRY	Species genotype: chromosome ploidy	
+TRY	Species genotype: genome size	
+TRY	Species genotype: genotypic heterogametic	
+TRY	Species genotype: karyotype homoporphic/heteromorphic	
+TRY	Species genotype: molecular basis Y / W dominance	
+TRY	Species habitat characterisation / Plant requirement: precipitation	Habitat
+TRY	Species habitat characterisation / Plant requirement: soil pH	Habitat
+TRY	Species habitat characterisation / Plant requirement: soil texture	Habitat
+TRY	Species habitat characterisation / Plant requirement: soil type	Habitat
+TRY	Species habitat characterization: aridity index	Habitat
+TRY	Species habitat characterization: general description	Habitat
+TRY	Species habitat characterization: potential evapotranspiration	Habitat
+TRY	Species habitat characterization: precipitation	Habitat
+TRY	Species habitat characterization: soil hydrology	Habitat
+TRY	Species habitat characterization: substrate requirement	Habitat
+TRY	Species habitat characterization: vegetation type	Habitat
+TRY	Species important species diagnostic traits	
+TRY	Species invasion introduction year	
+TRY	Species nutrient requirements	
+TRY	Species occurrence rang: typical abundance where naturally occurring	
+TRY	Species occurrence range characteristics	
+TRY	Species occurrence range: altitude of origin	
+TRY	Species occurrence range: climate type	
+TRY	Species occurrence range: continentality	
+TRY	Species occurrence range: ecological occurrence range	
+TRY	Species occurrence range: elevation range	
+TRY	Species occurrence range: endemism	
+TRY	Species occurrence range: invasiveness	
+TRY	Species occurrence range: mode of introduction	
+TRY	Species occurrence range: native vs invasive	
+TRY	Species occurrence range: neophyt status	
+TRY	Species occurrence range: number of floristic zones	
+TRY	Species occurrence range: origin zonal	
+TRY	Species phyto-sociological group	
+TRY	Species potential allelopathy	
+TRY	Species range: Highland or lowland vicariant of a genus	
+TRY	Species reproduction type	
+TRY	Species sex: monoecious or dioecious	
+TRY	Species soil moisture requirements	
+TRY	Species soil pH requirement	
+TRY	Species start of CGO formation versus reproduction	
+TRY	Species status (nativity at growth location)	
+TRY	Species strategy type according to Grime	
+TRY	Species tolerance to CaCO3	
+TRY	Species tolerance to drought	
+TRY	Species tolerance to fire	
+TRY	Species tolerance to frost	
+TRY	Species tolerance to grazing	
+TRY	Species tolerance to heavy metals	
+TRY	Species tolerance to hedges	
+TRY	Species tolerance to human impact	
+TRY	Species tolerance to mowing	
+TRY	Species tolerance to nitrogen inputs	Physiology
+TRY	Species tolerance to planting density	
+TRY	Species tolerance to salt	
+TRY	Species tolerance to shade	
+TRY	Species tolerance to soil aluminium concentration	Physiology
+TRY	Species tolerance to temperature	
+TRY	Species tolerance to trampling	
+TRY	Species tolerance to waterlogging	
+TRY	Species tolerance to windthrow	
+TRY	Species understory/overstory	
+TRY	Species US Federal T/E Status	
+TRY	Species US Wetland Indicator	
+TRY	Species yield power class	
+TRY	Stem aluminium (Al) content per stem dry mass	Physiology
+TRY	Stem antimony (Sb) content per stem dry mass	
+TRY	Stem arsenic (As) content per stem dry mass	
+TRY	Stem cadmium (Cd) content per stem dry mass	Physiology
+TRY	Stem calcium (Ca) content per dry mass	Physiology
+TRY	Stem calcium (Ca) content per stem dry mass	Physiology
+TRY	Stem carbon (C) content per stem dry mass	Physiology
+TRY	Stem carbon/nitrogen (C/N) ratio	Physiology
+TRY	Stem chromium (Cr) content per stem dry mass	Physiology
+TRY	Stem circumference	
+TRY	Stem color	
+TRY	Stem conduit cross-sectional area (vessels and tracheids)	
+TRY	Stem conduit density (vessels and tracheids)	
+TRY	Stem conduit diameter (vessels, tracheids)	
+TRY	Stem conduit length	
+TRY	Stem conduit lumen cross-sectional area (vessels and tracheids) per stem sapwood cross-sectional area	
+TRY	Stem construction type	
+TRY	Stem copper (Cu) content per stem dry mass	Physiology
+TRY	Stem cross-sectional area	
+TRY	Stem cross-sectional area at base	
+TRY	Stem cross-sectional area tissue types: pith, xylem, others	
+TRY	Stem cross-sectional area: fraction of cell wall	
+TRY	Stem cross-sectional area: fraction of collenchyma cell wall	
+TRY	Stem cross-sectional area: fraction of tissue other than pith or xylem	
+TRY	Stem cross-sectional area: fraction of xylem	
+TRY	Stem cross-sectional area: fraction of xylem cell wall	
+TRY	Stem cross-sectional area: fraction pith cell wall	
+TRY	Stem diameter	
+TRY	Stem dry mass per ground area	
+TRY	Stem dry mass per stem fresh mass (stem dry matter content, StDMC)	
+TRY	Stem dry mass per stem fresh volume (stem specific density, SSD, wood density) branch	
+TRY	Stem dry mass per stem fresh volume (stem specific density, SSD, wood density) sapwood	
+TRY	Stem dry mass per stem fresh volume (stem specific density, SSD, Wood density) Twigs and branches smaller 2cm sapwood	
+TRY	Stem emergences (pubescence, hairs, spines, thorns)	
+TRY	Stem form (stem cross-sectional type)	
+TRY	Stem fraction of cell wall in collenchym	
+TRY	Stem fraction of cell wall in pith	
+TRY	Stem fraction of cell wall in xylem	
+TRY	Stem fraction of collenchym	
+TRY	Stem fraction of pith	
+TRY	Stem heartwood biomass per ground area	
+TRY	Stem image	
+TRY	Stem internode area	
+TRY	Stem internode cross-sectional area per leaf surface area	
+TRY	Stem internode length	
+TRY	Stem internode mass per stem metamer mass	
+TRY	Stem iron (Fe) content per stem dry mass	Physiology
+TRY	Stem latex production	
+TRY	Stem lead (Pb) content per stem dry mass	Physiology
+TRY	Stem length	
+TRY	Stem longevity	
+TRY	Stem magnesium (Mg) content per stem dry mass	Physiology
+TRY	Stem manganese (Mn) (manganese) content per dry mass	Physiology
+TRY	Stem manganese (Mn) content per dry mass	Physiology
+TRY	Stem mercury (Hg) content per stem dry mass	Physiology
+TRY	Stem molybdenum (Mo) content per stem dry mass	
+TRY	Stem Na (sodium) content per dry mass	Physiology
+TRY	Stem nickel (Ni) content per stem dry mass	Physiology
+TRY	Stem nitrogen (N) content per stem dry mass	Physiology
+TRY	Stem nitrogen (N) content per stem dry mass vs leaf nitrogen (N) content per leaf dry mass	Physiology
+TRY	Stem nitrogen (N) content per unit ground area	Physiology
+TRY	Stem nitrogen/phosphorus (N/P) ratio	Physiology
+TRY	Stem phosphorus (P) content per stem dry mass	Physiology
+TRY	Stem pith type	
+TRY	Stem potassium (K) content per stem dry mass	Physiology
+TRY	Stem presence	
+TRY	Stem respiration growth coefficient	Physiology
+TRY	Stem respiration rate per stem dry mass	Physiology
+TRY	Stem respiration rate per stem nitrogen (N) content	Physiology
+TRY	Stem respiration rate per stem surface area	Physiology
+TRY	Stem respiration rate per stem volume	Physiology
+TRY	Stem respiration temperature dependence	Physiology
+TRY	Stem sapwood carbon (C) content: empirical form factor for calculation	Physiology
+TRY	Stem sapwood cross-sectional area per supported leaf surface area (Huber value)	
+TRY	Stem sapwood volume per stem volume	
+TRY	Stem self-supporting	
+TRY	Stem slenderness (plant height per diameter at breast height (dbh))	
+TRY	Stem sodium (Na) content per stem dry mass	Physiology
+TRY	Stem specific density (SSD) or wood density (stem dry mass per stem fresh volume)	
+TRY	Stem specific density (SSD): Wood density (heartwood)	
+TRY	Stem specific internode mass	
+TRY	Stem sulfur (S) content per stem dry mass	Physiology
+TRY	Stem surface area per stem dry mass	
+TRY	Stem surface area per stem volume	
+TRY	Stem surface patterning	
+TRY	Stem thallium (Ti) content per stem dry mass	
+TRY	Stem total non-structural carbon (TNC) content per stem dry mass	Physiology
+TRY	Stem volatile carbon (VOC) content per dry mass	Physiology
+TRY	Stem volume	
+TRY	Stem zinc (Zn) content per stem dry mass	Physiology
+TRY	Stomata area per leaf area	
+TRY	Stomata conductance at nighttime	
+TRY	Stomata conductance model parameter (Ball-Berry, Jarvis, Leuning)	
+TRY	Stomata conductance per leaf area	
+TRY	Stomata conductance per leaf area at turgor loss point	
+TRY	Stomata conductance per leaf dry mass	
+TRY	Stomata conductance: leaf water potential at final reduction	
+TRY	Stomata conductance: leaf water potential at initial reduction	
+TRY	Stomata conductance: vapor pressure deficit at final reduction	
+TRY	Stomata conductance: vapor pressure deficit at initial reduction	
+TRY	Stomata cross-sectional area	
+TRY	Stomata density	
+TRY	Stomata distribution to ab- and adaxial leaf surfaces	
+TRY	Stomata guard cell size	
+TRY	Stomata index (number of stomata per epidermis cells)	
+TRY	Stomata length	
+TRY	Stomata pore area per leaf surface area (abaxial, adaxial, total)	
+TRY	Stomata pore length	
+TRY	Stomata surface area	
+TRY	Stomata width	
+TRY	Tiller density: number of tiller per ground area	
+TRY	Tillering type	
+TRY	Tree mortality factor	
+TRY	Tree ring width	
+TRY	Twig (branch smaller 2cm) calcium (Ca) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) copper (Cu) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) dry mass	
+TRY	Twig (branch smaller 2cm) iron (Fe) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) magnesium (Mg) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) manganese (Mn) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) number of leaves per twig	
+TRY	Twig (branch smaller 2cm) potassium (K) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) sulfur (S) content per dry mass	Physiology
+TRY	Twig (branch smaller 2cm) zinc (Zn) content per dry mass	Physiology
+TRY	Twig (fine branch smaller 2mm) carbon (C) content per twig dry mass	Physiology
+TRY	Twig (fine branch smaller 2mm) carbon/nitrogen (C/N) ratio	Physiology
+TRY	Twig (fine branch smaller 2mm) dry mass per twig fresh mass (twig dry matter content, TDMC)	
+TRY	Twig (fine branch smaller 2mm) lignin content per twig dry mass	
+TRY	Twig (fine branch smaller 2mm) loss of xylem hydraulic conductivity	
+TRY	Twig (fine branch smaller 2mm) nitrogen (N) content per twig dry mass	Physiology
+TRY	Twig (fine branch smaller 2mm) pH	
+TRY	Twig (fine branch smaller 2mm) phosporus (P) content per twig dry mass	
+TRY	Twig diameter	
+TRY	Twig length	
+TRY	Vessel cell wall thickness per vessel diameter	
+TRY	Vessel grouping index	
+TRY	Whole plant time until death	
+TRY	Wood (heartwood) carbon (C) content per heartwood dry mass	Physiology
+TRY	Wood (heartwood) nitrogen (N) content per heartwood dry mass	Physiology
+TRY	Wood (sapwood) biomass per ground area	
+TRY	Wood (sapwood) carbon (C) content per dry mass	Physiology
+TRY	Wood (sapwood) carbon (C) isotope signature (delta13C)	Physiology
+TRY	Wood (sapwood) cross-sectional area	
+TRY	Wood (sapwood) cross-sectional fraction of axial parenchyma area	
+TRY	Wood (sapwood) cross-sectional fraction of fibre area	
+TRY	Wood (sapwood) cross-sectional fraction of Vessel (conduit) area	
+TRY	Wood (sapwood) cross-sectional fraction of wod ray area	
+TRY	Wood (sapwood) nitrogen content per dry mass	Physiology
+TRY	Wood (sapwood) specific conductivity (stem specific conductivity)	
+TRY	Wood (sapwood) water content	
+TRY	Wood (sapwood) water storage capacity	
+TRY	Wood aromatic	
+TRY	Wood axial parenchyma types	
+TRY	Wood burning splinter test	
+TRY	Wood cambium type (cambial variant)	
+TRY	Wood canals types	
+TRY	Wood carbon (C) isotope signature (delta 13C)	Physiology
+TRY	Wood carbon/nitrogen (C/N) ratio	Physiology
+TRY	Wood cellular composition of rays	
+TRY	Wood chrome Azurol-S test	
+TRY	Wood conduit pit fraction	
+TRY	Wood conduit pit membrane thickness	
+TRY	Wood crystal types	
+TRY	Wood density of wood fresh mass	
+TRY	Wood fiber cell wall thickness	
+TRY	Wood fiber lengths	
+TRY	Wood fiber septate fibers present	
+TRY	Wood fiber tension wood present	
+TRY	Wood fiber wall thickness	
+TRY	Wood fiber-band types	
+TRY	Wood fiber-pits types	
+TRY	Wood fibers absent	
+TRY	Wood fibers absent in the center, present at the periphery of the stem	
+TRY	Wood fibers not lignified	
+TRY	Wood fibre types	
+TRY	Wood froth test	
+TRY	Wood growth ring distinction	
+TRY	Wood heartwood color	
+TRY	Wood heartwood fluorescent	
+TRY	Wood intercellular canals	
+TRY	Wood intervessel contact fraction	
+TRY	Wood intervessel or intertracheid cell wall thickness	
+TRY	Wood mechanical property: flexual stiffness, elasticity, rupture	
+TRY	Wood nitrogen (N) content per wood dry mass	Physiology
+TRY	Wood nitrogen (N) isotope signature (delta 15N)	Physiology
+TRY	Wood oil and mucilage cells presence	
+TRY	Wood outer pit aperture diameter	
+TRY	Wood outer pit aperture diameter / interconduit pit size	
+TRY	Wood parenchyma characteristics	
+TRY	Wood ray cells perforated	
+TRY	Wood ray types	
+TRY	Wood ray width	
+TRY	Wood rayless	
+TRY	Wood rays per millimetre	
+TRY	Wood secretory elements	
+TRY	Wood septate fibres and parenchyma-like fibre bands	
+TRY	Wood sheath cells	
+TRY	Wood silica (SiO2) bodies	
+TRY	Wood silica content per wood dry mass	
+TRY	Wood storied structure	
+TRY	Wood storied tissue types	
+TRY	Wood tile cells	
+TRY	Wood total interconduit pit (membrane) surface area	
+TRY	Wood tracheids and fibres	
+TRY	Wood tubes	
+TRY	Wood vessel arrangement	
+TRY	Wood vessel cell-wall thickness	
+TRY	Wood vessel density	
+TRY	Wood vessel diameter	
+TRY	Wood vessel distribution	
+TRY	Wood vessel element length; stem conduit (vessel and tracheids) element length	
+TRY	Wood vessel grouping	
+TRY	Wood vessel helical thickenings	
+TRY	Wood vessel intervessel pits	
+TRY	Wood vessel outline	
+TRY	Wood vessel perforation plates	
+TRY	Wood vessel pits characteristics (vestured pits)	
+TRY	Wood vessel scalariform perforations	
+TRY	Wood vessel tyloses and deposits	
+TRY	Wood vessel tyloses with thin walls	
+TRY	Wood vessel vestured pits	
+TRY	Wood vessel: dark staining substances in vessels and/or fibers (gum, tannins)	
+TRY	Wood vesselless (vessels absent)	
+TRY	Wood vessel-ray pits	
+TRY	Wood vessels surrounded by tracheids (vasicentric tracheids)	
+TRY	Wood vessel-walls not lignified	
+TRY	Wood vestures presence	
+TRY	Wood water & ethanol extracts: fluorescence & color	
+TRY	Wood with disjunctive ray parenchyma cell walls	
+TRY	Wood xylem torus diameter	
+TRY	Wood xylem torus diameter per outer pit apertuer diameter	
+TRY	Wood xylem torus thickness	
+TRY	Wood: bars per vessel perforation plate	
+TRY	Woody area index (woody stem area per ground area)	
+TRY	Xylem hydraulic vulnerability curve (P20, P50, P80)	
+TRY	Xylem hydraulic vulnerability, xylem cavitation vulnerability, embolism vulnerability, (P20, P50, P80)	
+Chinaroots	LeafArea.cm2.	Morphology
+Chinaroots	LeafAspectRatio	Morphology
+Chinaroots	LeafCircularity	Morphology
+Chinaroots	LeafHeight.cm.	Morphology
+Chinaroots	LeafMass.g.	Morphology
+Chinaroots	LeafPermiter.cm.	Morphology
+Chinaroots	LeafRoundness	Morphology
+Chinaroots	LeafThickness.mm.	Morphology
+Chinaroots	LeafWidth.cm.	Morphology
+Chinaroots	SLA.m2.Kg.	Morphology

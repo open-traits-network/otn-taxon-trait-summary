@@ -9,3 +9,5 @@ Gemfile.lock
 .Rproj.user
 .Rhistory
 otn-taxon-trait-summary.Rproj
+tmp/
+.nomer
