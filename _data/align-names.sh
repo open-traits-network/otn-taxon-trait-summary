@@ -14,6 +14,7 @@ set -xe
 
 WORKDIR="tmp"
 CONFIGDIR="config"
+OUTDIR=".."
 
 mkdir -p "$WORKDIR"
 
@@ -87,23 +88,23 @@ function align-traits {
   > "$WORKDIR/_all_taxon_traits_aligned.tsv.gz"
 
   cat "$WORKDIR/_all_taxon_traits_aligned.tsv.gz"\
-  > "R/traits.tsv.gz"
+  > "$OUTDIR/traits.tsv.gz"
 
-  cat "R/traits.tsv.gz"\
+  cat "$OUTDIR/traits.tsv.gz"\
   | gunzip\
   | head -n101\
-  > "R/traits-sample.tsv"
+  > "$OUTDIR/traits-sample.tsv"
 
-  cat "R/traits.tsv.gz"\
+  cat "$OUTDIR/traits.tsv.gz"\
   | gunzip\
   | mlr --itsvlite --ocsv cat\
   | gzip\
-  > "R/traits.csv.gz"
+  > "$OUTDIR/traits.csv.gz"
 
-  cat "R/traits.csv.gz"\
+  cat "$OUTDIR/traits.csv.gz"\
   | gunzip\
   | head -n101\
-  > "R/traits-sample.csv"
+  > "$OUTDIR/traits-sample.csv"
 }
 
 
