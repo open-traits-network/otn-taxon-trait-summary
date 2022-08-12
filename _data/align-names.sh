@@ -28,7 +28,7 @@ function align-names {
   cat "$WORKDIR/_all.dkvp.gz"\
    | gunzip\
    | mlr --ocsv unsparsify\
-   | mlr --csv reorder -f "$(cat R/summaries/template-summary-table.csv | head -n1)"\
+   | mlr --csv reorder -f "$(cat R/summaries/template-summary-table.csv.gz | gunzip | head -n1)"\
    | mlr --icsv --otsvlite cat\
    | cut -f1-17\
    | gzip\
