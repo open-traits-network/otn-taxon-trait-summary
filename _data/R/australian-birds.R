@@ -48,10 +48,13 @@
     ausbirds[which(as.numeric(sapply(X = ausbirds$scientificNameVerbatim,
         FUN = function(x){length(strsplit(x = x,
                               split = " ")[[1]])}))==2),]
-  
+
+# add comment about issue with file
+
  ausbirds$comment <- "'malformed entries in database perhaps due to comma placement issue'"
 
 #write output
+
   write.csv(x = ausbirds,
             file = "_data/R/temp/australian-birds.csv",
             row.names = FALSE)
