@@ -173,7 +173,7 @@ dataset <- "amp"
   species <- getDEB.species()  
   deb_pars <- NULL
   
-  #trait_sample<- read.csv("traits-sample.csv")
+  trait_sample<- read.csv("traits-sample.csv")
   colnames(trait_sample)
   
   for(i in 1:length(unique(species$species))){
