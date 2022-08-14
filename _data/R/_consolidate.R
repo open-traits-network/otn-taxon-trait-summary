@@ -34,5 +34,5 @@ for (z in 1:length(names(all.data))){
   
 tail(headerTable)
 write.csv(file="_data/R/summaries/_all.csv",headerTable, row.names = F)
-gzip("_data/R/summaries/_all.csv",destname="_data/R/_all.csv.gz",overwrite=T)
+R.utils::gzip("_data/R/summaries/_all.csv",destname="_data/R/_all.csv.gz",overwrite=T)
 unlink("_data/R/summaries/*.csv")
