@@ -40,7 +40,7 @@ library(rdryad)
                  names_to = "traitNameVerbatim",
                  values_to = "traitValue")%>%
     filter(!is.na(traitValue)) %>%
-    mutate(datasetId = dataset,
+    mutate(datasetId = dataset_url,
            curator = curator,
            accessDate = Sys.Date()
            ) %>%

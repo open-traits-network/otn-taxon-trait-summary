@@ -30,7 +30,7 @@
                      colnames(trait_sample))) %>%
     group_by(family, scientificNameVerbatim,traitNameVerbatim)%>%
     summarise(numberOfRecords = n()) %>%
-    mutate(datasetId = dataset,
+    mutate(datasetId = dataset_url,
            curator = curator,
            accessDate = Sys.Date(),
            comment = "'Also available within TRY'") -> traits

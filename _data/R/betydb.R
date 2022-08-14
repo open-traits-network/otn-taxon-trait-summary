@@ -3,25 +3,28 @@
 library(traits)
 
 # create output directory
+
   if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
   if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
 
 # set variables
+
   curator <- "https://opentraits.org/members/brian-s-maitner"
   dataset_url <- "https://opentraits.org/datasets/betydb"
   dataset <- "betydb"
 
-# Get required metadata sample  
+# Get required metadata sample
+
   trait_sample <- read.csv("traits-sample.csv")
   colnames(trait_sample)
 
 
 # Download files
+
   traits <- betydb_query()
 
 # reformat
-  
-  
+
   traits %>%
     rename(taxonIdVerbatim = species_id,
            scientificNameVerbatim = scientificname,
@@ -30,7 +33,7 @@ library(traits)
                      colnames(trait_sample))) %>%
     group_by(scientificNameVerbatim, taxonIdVerbatim, traitNameVerbatim) %>%
     summarise(numberOfRecords = n()) %>%
-    mutate(datasetId = dataset,
+    mutate(datasetId = dataset_url,
            curator = curator,
            accessDate = Sys.Date()) -> traits
   
@@ -40,6 +43,8 @@ library(traits)
            !is.na(traitNameVerbatim),
            traitNameVerbatim != "") -> traits
 
+  if(!all(colnames(traits) %in%   colnames(trait_sample))){stop("column name problem")}
+  
   traits_summary <- traits
   
   #write output
