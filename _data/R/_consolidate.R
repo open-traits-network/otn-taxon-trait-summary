@@ -11,8 +11,8 @@ setwd("_data/R/summaries/")
 all.data <- list()
 
 for (i in 1:length(list.zip)){
-  gunzip(list.zip[i], overwrite=T, remove=F)
-  all.data[[gsub(".csv.gz","",list.zip[i])]]<-read.table(paste("./",gsub("csv.gz","csv",list.zip[i]),sep=""), sep=",", header=T)
+  R.utils::gunzip(list.zip[i], overwrite=T, remove=F)
+  all.data[[gsub(".csv.gz","",list.zip[i])]] <- read.table(paste("./",gsub("csv.gz","csv",list.zip[i]),sep=""), sep=",", header=T)
 }
 
 setwd(root.dir)
