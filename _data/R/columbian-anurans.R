@@ -59,6 +59,7 @@ colnames(trait_sample)
                 overwrite = TRUE)
   
   unlink(file.path("_data/R/summaries/",paste(dataset,".csv",sep="")))
+  unlink(file.path("_data/R/temp/"),recursive = TRUE)
   
   
   
