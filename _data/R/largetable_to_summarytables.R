@@ -1,50 +1,57 @@
 #### Aggregate species x traits tables to produce summary tables ###
-#TODO: revise with final column names, rediscuss final structure of tables, 
+#TODO: rediscuss final structure of tables, 
 #save tables in a given place
 
+#load libraries
 require(data.table)
 
-#to be replaced by link to Brian & Alex table once it's somewhere
-dat <- fread("C:/Users/Caterina/Dropbox/Workshops/sDevTraits/sDevTraits2022/sample_largetable.csv")
-
+#functions
 funsum <- function(x)sum(!is.na(x))
 
+# Read in file
+dat <-  fread("https://github.com/open-traits-network/otn-taxon-trait-summary/raw/main/traits.csv.gz")
+
 ## Overall summary for intro text
-tot_record <- sum(dat$NumberOfRecords, na.rm = T)
-tot_species <- length(unique(dat$resolvedTaxonName))
-tot_trait <- length(unique(dat$traitNameVerbatim))
-tot_dataset <- length(unique(dat$OTNdatasetID))
-
-
+totals <- data.frame("tot_record" = sum(dat$numberOfRecords, na.rm = T),
+                     "tot_species" = length(unique(dat$resolvedName)),
+                     "tot_trait" = length(unique(dat$traitNameVerbatim)),
+                     "tot_dataset" = length(unique(dat$datasetId)))
 
 ## Summary by trait (second table)
-trait_summary <- dat[, c(lapply(.SD[, .(resolvedTaxonName)], funsum), 
-                         lapply(.SD[, .(NumberOfRecords)], function(x)sum(x, na.rm=T))), 
-                     by = c("bucketName", "OTNdatasetID")]
+trait_summary <- dat[, c(lapply(.SD[, .(resolvedName)], funsum), 
+                         lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T))), 
+                     by = c("bucketName", "datasetId")]
 
 
 ## Summary by taxa (third table)
 taxon_summary <- dat[, c(lapply(.SD[, .(traitNameVerbatim)], funsum), 
-                         lapply(.SD[, .(NumberOfRecords)], function(x)sum(x, na.rm=T))), 
-                     by = c("phylum", "bucketName")]
+                         lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T))), 
+                     by = c("resolvedPhylumName", "bucketName")]
 
 
 ## Summary of trait summary (first table)
-trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedTaxonName)], funsum), 
-                                       lapply(.SD[, .(OTNdatasetID)], list)), 
+trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedName)], funsum), 
+                                       lapply(.SD[, .(datasetId)], list)), 
                                    by = "bucketName"]
 #clean list column
-trait_sum_summary$OTNdatasetID <- gsub(",", " | ", trait_sum_summary$OTNdatasetID)
-trait_sum_summary$OTNdatasetID <- gsub("\"", "", trait_sum_summary$OTNdatasetID)
-trait_sum_summary$OTNdatasetID <- gsub("c(", "", trait_sum_summary$OTNdatasetID, fixed=TRUE)
-trait_sum_summary$OTNdatasetID <- gsub(")", "", trait_sum_summary$OTNdatasetID, fixed=TRUE)
+trait_sum_summary$datasetId <- gsub(",", " | ", trait_sum_summary$datasetId)
+trait_sum_summary$datasetId <- gsub("\"", "", trait_sum_summary$datasetId)
+trait_sum_summary$datasetId <- gsub("c(", "", trait_sum_summary$datasetId, fixed=TRUE)
+trait_sum_summary$datasetId <- gsub(")", "", trait_sum_summary$datasetId, fixed=TRUE)
 
 ## Summary of traits and taxa
-taxon_trait_summary <- dat[, c(lapply(.SD[, .(NumberOfRecords)], function(x)sum(x, na.rm=T)), 
+taxon_trait_summary <- dat[, c(lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T)), 
                                lapply(.SD[, .(traitNameVerbatim)], list)), 
-                           by = c("phylum", "bucketName")]
+                           by = c("resolvedPhylumName", "bucketName")]
 #clean list column
-taxon_trait_summary$traitNameVerbatim <- gsub(",", " | ", taxon_trait_summary$traitNameVerbatim)
+taxon_trait_summary$traitNameVerbatim <- gsub(",", " | ", taxon_trait_summary$traitNameVerbatim, perl = T)
 taxon_trait_summary$traitNameVerbatim <- gsub("\"", "", taxon_trait_summary$traitNameVerbatim)
 taxon_trait_summary$traitNameVerbatim <- gsub("c(", "", taxon_trait_summary$traitNameVerbatim, fixed=TRUE)
 taxon_trait_summary$traitNameVerbatim <- gsub(")", "", taxon_trait_summary$traitNameVerbatim, fixed=TRUE)
+
+#save tables
+fwrite(totals, file = "overall_totals.csv", sep = ";")
+fwrite(trait_summary, file = "trait_summary.csv", sep = ";")
+fwrite(taxon_summary, file = "taxon_summary.csv", sep = ";")
+fwrite(trait_sum_summary, file = "trait_sum_summary.csv", sep = ";")
+fwrite(taxon_trait_summary, file = "taxon_trait_summary.csv", sep = ";")
