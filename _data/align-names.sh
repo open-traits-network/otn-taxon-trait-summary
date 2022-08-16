@@ -105,6 +105,18 @@ function align-traits {
   | gunzip\
   | head -n101\
   > "$OUTDIR/traits-sample.csv"
+
+  cat "$OUTDIR/trait.tsv.gz"\
+  | gunzip\
+  | mlr --itsvlite --ojson cat\
+  | gzip\
+  > "$OUTDIR/traits.json.gz"
+
+  cat "$OUTDIR/trait.json.gz"\
+  | gunzip\
+  | head -n100\
+  > "$OUTDIR/traits-sample.json"
+
 }
 
 
