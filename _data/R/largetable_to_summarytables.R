@@ -1,6 +1,5 @@
 #### Aggregate species x traits tables to produce summary tables ###
-#TODO: rediscuss final structure of tables, 
-#save tables in a given place
+#TODO: rediscuss final structure of tables, where to save tables
 
 #load libraries
 require(data.table)
@@ -20,19 +19,19 @@ totals <- data.frame("tot_record" = sum(dat$numberOfRecords, na.rm = T),
 ## Summary by trait (second table)
 trait_summary <- dat[, c(lapply(.SD[, .(resolvedName)], funsum), 
                          lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T))), 
-                     by = c("bucketName", "datasetId")]
+                     by = c("resolvedTraitName", "datasetId")]
 
 
 ## Summary by taxa (third table)
 taxon_summary <- dat[, c(lapply(.SD[, .(traitNameVerbatim)], funsum), 
                          lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T))), 
-                     by = c("resolvedPhylumName", "bucketName")]
+                     by = c("resolvedPhylumName", "resolvedTraitName")]
 
 
 ## Summary of trait summary (first table)
 trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedName)], funsum), 
                                        lapply(.SD[, .(datasetId)], list)), 
-                                   by = "bucketName"]
+                                   by = "resolvedTraitName"]
 #clean list column
 trait_sum_summary$datasetId <- gsub(",", " | ", trait_sum_summary$datasetId)
 trait_sum_summary$datasetId <- gsub("\"", "", trait_sum_summary$datasetId)
@@ -42,7 +41,7 @@ trait_sum_summary$datasetId <- gsub(")", "", trait_sum_summary$datasetId, fixed=
 ## Summary of traits and taxa
 taxon_trait_summary <- dat[, c(lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T)), 
                                lapply(.SD[, .(traitNameVerbatim)], list)), 
-                           by = c("resolvedPhylumName", "bucketName")]
+                           by = c("resolvedPhylumName", "resolvedTraitName")]
 #clean list column
 taxon_trait_summary$traitNameVerbatim <- gsub(",", " | ", taxon_trait_summary$traitNameVerbatim, perl = T)
 taxon_trait_summary$traitNameVerbatim <- gsub("\"", "", taxon_trait_summary$traitNameVerbatim)
