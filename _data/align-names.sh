@@ -47,7 +47,11 @@ function align-names {
 }
 
 function update-trait-map {
-  curl -L "https://docs.google.com/spreadsheets/u/0/d/18VAULEfbpmGd8cW5Uis-CFYmUkrjnAYZ/export?format=tsv" > R/sDevTraits_TraitNameVerbatim_Buckets_Mapping.tsv
+  # https://kb.iu.edu/d/acux
+  # remove dos carriage returns using "tr"
+  curl -L "https://docs.google.com/spreadsheets/u/0/d/18VAULEfbpmGd8cW5Uis-CFYmUkrjnAYZ/export?format=tsv"\
+  | tr -d '\15\32' \
+  > R/sDevTraits_TraitNameVerbatim_Buckets_Mapping.tsv
 }
 
 function build-trait-map {
@@ -106,21 +110,32 @@ function align-traits {
   | head -n101\
   > "$OUTDIR/traits-sample.csv"
 
-  cat "$OUTDIR/trait.tsv.gz"\
+  cat "$OUTDIR/traits.tsv.gz"\
   | gunzip\
   | mlr --itsvlite --ojson cat\
   | gzip\
   > "$OUTDIR/traits.json.gz"
 
-  cat "$OUTDIR/trait.json.gz"\
+  cat "$OUTDIR/traits.json.gz"\
   | gunzip\
   | head -n100\
   > "$OUTDIR/traits-sample.json"
 
+  # print list of distinct traits
+  cat\
+  <(echo "datasetId,traitNameVerbatim")\
+  <(cat "$OUTDIR/traits.csv.gz"\
+  | gunzip\
+  | mlr --csv cut -f datasetId,traitNameVerbatim\
+  | mlr --headerless-csv-output --csv reorder -f datasetId,traitNameVerbatim\
+  | sort\
+  | uniq)\
+  > "$OUTDIR/trait-name-verbatim-distinct.csv"
+
 }
 
 
-#update-trait-map
+update-trait-map
 build-trait-map
 
 align-names
