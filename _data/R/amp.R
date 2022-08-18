@@ -213,7 +213,7 @@ dataset <- "amp"
     summarise(numberOfRecords = n()) -> deb_pars
   
   deb_pars %>%
-    mutate(datasetId = dataset,
+    mutate(datasetId = dataset_url,
            curator = curator,
            accessDate = Sys.Date()) -> deb_pars
 
