@@ -121,6 +121,17 @@ function align-traits {
   | head -n100\
   > "$OUTDIR/traits-sample.json"
 
+  # print list of distinct traits
+  cat\
+  <(echo "datasetId,traitNameVerbatim")\
+  <(cat "$OUTDIR/traits.csv.gz"\
+  | gunzip\
+  | mlr --csv cut -f datasetId,traitNameVerbatim\
+  | mlr --headerless-csv-output --csv reorder -f datasetId,traitNameVerbatim\
+  | sort\
+  | uniq)\
+  > "$OUTDIR/trait-name-verbatim-distinct.csv"
+
 }
 
 
