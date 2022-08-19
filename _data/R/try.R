@@ -2,12 +2,9 @@
 
   library(tidyverse)
 
-# create temporary directory
+# create temporary directories
 
   if(!dir.exists("_data/R/temp")){dir.create("_data/R/temp")}
-
-# create output directory
-
   if(!dir.exists("_data/R/summaries")){dir.create("_data/R/summaries")}  
   
 # set variables
@@ -37,12 +34,13 @@
     mutate(accessDate = Sys.Date(),
            datasetId = dataset,
            curator = curator
-           )-> try
+           ) -> try
   
 # write as csv
 
   write.csv(x = try,
-            file = "_data/R/temp/try.csv")
+            file = "_data/R/temp/try.csv",
+            row.names = FALSE)
   
 #zip file
 
