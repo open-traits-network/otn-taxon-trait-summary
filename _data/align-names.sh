@@ -138,5 +138,5 @@ function align-traits {
 update-trait-map
 build-trait-map
 
-#align-names
+align-names
 align-traits
