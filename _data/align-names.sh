@@ -55,7 +55,7 @@ function update-trait-map {
 }
 
 function build-trait-map {
-  cat <(echo -e "datasetId\ttraitNameVerbatim\ttraitCategory") <(cat R/sDevTraits_TraitNameVerbatim_Buckets_Mapping.tsv | tail -n+2)\
+  cat <(echo -e "datasetId\ttraitNameVerbatim\ttraitCategory") <(cat R/sDevTraits_TraitNameVerbatim_Buckets_Mapping.tsv | cut -f1-3 | tail -n+2)\
   | mlr --itsvlite --ocsv reorder -f traitNameVerbatim,traitCategory,datasetId\
   | mlr --csv cut -f traitNameVerbatim,traitCategory\
   | sort | uniq\
@@ -138,5 +138,5 @@ function align-traits {
 update-trait-map
 build-trait-map
 
-align-names
+#align-names
 align-traits
