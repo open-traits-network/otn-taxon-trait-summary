@@ -6,6 +6,7 @@ require(data.table)
 
 #functions
 funsum <- function(x)sum(!is.na(x))
+funlist <- function(x)list(unique(x))
 
 # Read in file
 dat <-  fread("https://github.com/open-traits-network/otn-taxon-trait-summary/raw/main/traits.csv.gz")
@@ -30,7 +31,7 @@ taxon_summary <- dat[, c(lapply(.SD[, .(traitNameVerbatim)], funsum),
 
 ## Summary of trait summary (first table)
 trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedName)], funsum), 
-                                       lapply(.SD[, .(datasetId)], list)), 
+                                       lapply(.SD[, .(datasetId)], funlist)), 
                                    by = "resolvedTraitName"]
 #clean list column
 trait_sum_summary$datasetId <- gsub(",", " | ", trait_sum_summary$datasetId)
@@ -40,7 +41,7 @@ trait_sum_summary$datasetId <- gsub(")", "", trait_sum_summary$datasetId, fixed=
 
 ## Summary of traits and taxa
 taxon_trait_summary <- dat[, c(lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T)), 
-                               lapply(.SD[, .(traitNameVerbatim)], list)), 
+                               lapply(.SD[, .(traitNameVerbatim)], funlist)), 
                            by = c("resolvedPhylumName", "resolvedTraitName")]
 #clean list column
 taxon_trait_summary$traitNameVerbatim <- gsub(",", " | ", taxon_trait_summary$traitNameVerbatim, perl = T)
@@ -49,8 +50,8 @@ taxon_trait_summary$traitNameVerbatim <- gsub("c(", "", taxon_trait_summary$trai
 taxon_trait_summary$traitNameVerbatim <- gsub(")", "", taxon_trait_summary$traitNameVerbatim, fixed=TRUE)
 
 #save tables
-fwrite(totals, file = "overall_totals.csv", sep = ";")
-fwrite(trait_summary, file = "trait_summary.csv", sep = ";")
-fwrite(taxon_summary, file = "taxon_summary.csv", sep = ";")
-fwrite(trait_sum_summary, file = "trait_sum_summary.csv", sep = ";")
-fwrite(taxon_trait_summary, file = "taxon_trait_summary.csv", sep = ";")
+fwrite(totals, file = "overall_totals.csv")
+fwrite(trait_summary, file = "trait_summary.csv")
+fwrite(taxon_summary, file = "taxon_summary.csv")
+fwrite(trait_sum_summary, file = "trait_sum_summary.csv")
+fwrite(taxon_trait_summary, file = "taxon_trait_summary.csv")
