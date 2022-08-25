@@ -1,2260 +1,309 @@
 resolvedTraitName,resolvedName,datasetId
-[E_G],1,amp
-[p_M],1,amp
-{F_m},1,amp
-{p_Am},1,amp
-{p_T},1,amp
-allocation fraction to soma,1,amp
-Arrhenius temperature,1,amp
-digestion efficiency of food to reserve,1,amp
-energy conductance,1,amp
-faecation efficiency of food to faeces,1,amp
-Gompertz stress coefficient,1,amp
-maturity at birth,1,amp
-maturity at metamorphosis,1,amp
-maturity at puberty,1,amp
-maturity maint rate coefficient,1,amp
-Reference temperature,1,amp
-reproduction efficiency,1,amp
-scaled functional response,1,amp
-shape coefficient,1,amp
-shape coefficient for egg/larva,1,amp
-Weibull aging acceleration,1,amp
-maturity at metam,1,amp
-scaled functional response for 0-var data,1,amp
-maturity at puberty for males,1,amp
-scaled functional response for tL and tWw data,1,amp
-Weibull aging acceleration for female,1,amp
-zoom factor for male,1,amp
-Arrhenius temp,1,amp
-scaled functional response for tL1 data,1,amp
-scaled functional response for tL_D data,1,amp
-scaled functional response for tL_H data,1,amp
-scaled functional response for tL data,1,amp
-shape coefficient after metam,1,amp
-maturity at fledging,1,amp
-time at start development at T,1,amp
-time between clutches at T,1,amp
-scaled functional response for tW data,1,amp
-shape parameter for ability to maintain target temp,1,amp
-zoom factor for males,1,amp
-scaled functional response for 1-var data,1,amp
-maturity at puberty for female,1,amp
-maturity at puberty for male,1,amp
-scaled functional response for tL and tW data,1,amp
-maturity at weaning,1,amp
-time at start development,1,amp
-maturity at hatch,1,amp
-structural length at 0 in tL and tW data,1,amp
-{F_M},1,amp
-maturity at hatching,1,amp
-maturity at metamorhosis,1,amp
-scaled functional response for 0-var and tW6 data,1,amp
-time at first eye opening,1,amp
-initial length for tL data,1,amp
-scaled functional response for tL,1,amp
-fraction of wet weight that is wet tissue,1,amp
-non-ash fraction for WdWa,1,amp
-scaled functional response at Explorer Cove,1,amp
-scaled functional response at Terra Nova Bay in December,1,amp
-scaled functional response at Terra Nova Bay in January,1,amp
-scaled functional response for respiro data,1,amp
-scaled functional response from experiment Chiantore,1,amp
-shape coefficient guessed,1,amp
-conversion efficient E -> V -> E,1,amp
-maturity at emergence,1,amp
-reproduction buffer density at pupation,1,amp
-shape coefficient for head capsule of larva,1,amp
-scaled functional response for tW data at 00 d,1,amp
-scaled functional response for tW data at 10 d,1,amp
-scaled functional response for tW data at 20 d,1,amp
-scaled functional response for tW data at 50 d,1,amp
-initial shell height for tL data,1,amp
-scaled functional response for LL data,1,amp
-scaled functional response for tW data at 30 d,1,amp
-scaled functional response for tW2 data,1,amp
-scaled functional response for tW3 data,1,amp
-scaled functional response for tW_66 data at 00 d,1,amp
-scaled functional response for tW_66 data at 10 d,1,amp
-scaled functional response for tW_66 data at 20 d,1,amp
-scaled functional response for tW_66 data at 30 d,1,amp
-scaled functional response for tW_67 data at 00 d,1,amp
-scaled functional response for tW_67 data at 10 d,1,amp
-scaled functional response for tW_67 data at 20 d,1,amp
-scaled functional response for tW_67 data at 30 d,1,amp
-scaled functional response for tW data at 05 d,1,amp
-scaled functional response for tW data at 15 d,1,amp
-scaled functional response for tWw data,1,amp
-Arrhenius temperature for T_H,1,amp
-Arrhenius temperature for T_L,1,amp
-intial dry weight for tWd_a data,1,amp
-intial dry weight for tWd_d data,1,amp
-intial dry weight for tWd_p data,1,amp
-intial dry weight for tWd_t data,1,amp
-intial wet weight for tWw_d* data,1,amp
-low boundary temperature,1,amp
-upper boundary temperature,1,amp
-scaled functional response for tL2 data,1,amp
-maturity at S2/S3 transition,1,amp
-period of metamorphosis,1,amp
-specific shrinking rate from s to j,1,amp
-scaled functional response for tL81 data,1,amp
-scaled functional response for tL82 data,1,amp
-maturity at puberty for maless,1,amp
-scaled functional response for OB  data,1,amp
-scaled functional response for SO  data,1,amp
-time at start developmentat T,1,amp
-scaled functional response for tW data at 25 d,1,amp
-scaled functional response for tW1 data at 00 d,1,amp
-scaled functional response for tW1 data at 05 d,1,amp
-scaled functional response for tW1 data at 10 d,1,amp
-scaled functional response for tW1 data at 15 d,1,amp
-scaled functional response for tW1 data at 20 d,1,amp
-scaled functional response for tW1 data at 25 d,1,amp
-scaled functional response for tW1 data at 30 d,1,amp
-shape coefficient for snout-to-vent length,1,amp
-shape coefficient for total length,1,amp
-shape coefficient for males,1,amp
-maturity at puberty for females,1,amp
-shape coefficient for tadpole,1,amp
-shape coefficient for toad,1,amp
-maturity at puberty for P.a.g.,1,amp
-scaled functional response for tW data at 35 d,1,amp
-scaled functional response for tW data at 70 d,1,amp
-del_M,1,amp
-E_Hb,1,amp
-E_Hj,1,amp
-E_Hp,1,amp
-"",2,amp |  https://opentraits.org/datasets/passerine-morphology
-h_a,1,amp
-k_J,1,amp
-kap,1,amp
-kap_P,1,amp
-kap_R,1,amp
-kap_X,1,amp
-s_G,1,amp
-T_A,1,amp
-scaled func. response for 0-var data,1,amp
-scaled funct. response for tL data,1,amp
-scaled functional response for DomiLee1998 data,1,amp
-scaled functional response for DomiLee1999 data,1,amp
-scaled functional response for data1,1,amp
-scaled functional response for data2,1,amp
-scaled functional response for data3,1,amp
-scaled functional response for data4,1,amp
-scaled functional response for GreaGutj2011 data,1,amp
-scaled functional response for Kuhn2001,1,amp
-scaled functional response for McKe1987 food regime 1,1,amp
-scaled functional response for McKe1987 food regime 2,1,amp
-scaled functional response for McKe1987 food regime 3,1,amp
-scaled functional response for McKe1987 food regime 4,1,amp
-scaled functional response for ScarStee2017,1,amp
-shape coefficient in GreaGutj2011; measurement: tip of uropod to tip of antennal scale,1,amp
-length at zero fot tL_f data,1,amp
-length at zero fot tL_m data,1,amp
-maturity at settlement,1,amp
-scaled functional response for tL3 data,1,amp
-scaled functional response for tL4 data,1,amp
-time at start deveopment,1,amp
-Wet weight at t=0 of tW data,1,amp
-maturity at puberty fro males,1,amp
-larval shape coefficient,1,amp
-oral shape coefficient,1,amp
-scaled functional response for LWw data,1,amp
-scaled functional response for Lr data,1,amp
-Arrhenius temperature for lower boundary,1,amp
-Arrhenius temperature for upper boundary,1,amp
-lower boundary temperature,1,amp
-scaled functional response for 1-var tW data,1,amp
-wieght at zero in tW data,1,amp
-Intital weight in tW_m data,1,amp
-weigth at time 0,1,amp
-maturity at puberty form males,1,amp
-scaled functional response for tLj data,1,amp
-shape coefficient for leptocephali,1,amp
-shape coefficient post metam,1,amp
-time since March 1 at settlement,1,amp
-shape coefficient for total weight,1,amp
-shape coefficient for wet flesh,1,amp
-shell ength at first time,1,amp
-high Arrhenius temperature,1,amp
-high temp boundary,1,amp
-low Arrhenius temperature,1,amp
-low temp boundary,1,amp
-scaled functional response for tW1 data,1,amp
-slow/fast parameter for foetal development,1,amp
-scaled functional response for f_tL,1,amp
-time at strat development,1,amp
-shape coefficient for standard length,1,amp
-Standard length at t = 0 in JoneHyne1950 data,1,amp
-scaled functional response for tLr data,1,amp
-maturity at start acceleration,1,amp
-shape coefficient of larval stage,1,amp
-zoom factor before start acceleration,1,amp
-maturity at puberty female,1,amp
-maturity at puberty male,1,amp
-scaled functional response for Flowerdew,1,amp
-scaled functional response for lab data,1,amp
-zoom factor male,1,amp
-scaled functional response for tW data at 000 d,1,amp
-scaled functional response for tW data at 010 d,1,amp
-scaled functional response for tW data at 020 d,1,amp
-scaled functional response for tW data at 030 d,1,amp
-scaled functional response for tW data at 040 d,1,amp
-scaled functional response for tW data at 050 d,1,amp
-scaled functional response for tW data at 060 d,1,amp
-scaled functional response for tW data at 070 d,1,amp
-scaled functional response for tW data at 080 d,1,amp
-scaled functional response for tW data at 090 d,1,amp
-scaled functional response for tW data at 100 d,1,amp
-scaled functional response for tW data at 110 d,1,amp
-scaled functional response for tW data at 120 d,1,amp
-scaled functional response for tW data at 130 d,1,amp
-scaled functional response for tW data at 140 d,1,amp
-scaled functional response for tW data at 150 d,1,amp
-scaled functional response for tW data at 160 d,1,amp
-scaled functional response for tW data at 170 d,1,amp
-scaled functional response for tW data at 180 d,1,amp
-scaled functional response for tLJ data,1,amp
-scaled functional response for tLM data,1,amp
-scaled functional response for tLS data,1,amp
-initial length of tL data,1,amp
-initial length of tL1 data,1,amp
-shape coerrection coefficient,1,amp
-zoom factor,1,amp
-length at 0 for tL_f data,1,amp
-length at 0 for tL_m data,1,amp
-scaled functional response for F3 food condition,1,amp
-shape coefficient for experiment,1,amp
-shape coefficient for field data,1,amp
-zoom factor for males after puberty,1,amp
-zoom factor for males before puberty,1,amp
-shape coerrection factor,1,amp
-scaled functional response for tW data at 40 d,1,amp
-scaled functional response for tW data at 99 d,1,amp
-scaled functional response for tW data at 80 d,1,amp
-scaled functional response for tW data at 60 d,1,amp
-maturity at trochophore larva stage,1,amp
-scaled functional response for 1-var data of olive (fed),1,amp
-scaled functional response for 1-var data of olive (unfed),1,amp
-scaled functional response for de wilde data unfed,1,amp
-scaled functional response for field,1,amp
-shape coefficient for embryo (mean shape coeff. between time at fertilization and time at birth),1,amp
-shape coefficient for trunk length,1,amp
-shape coefficient for trunk length_dewilde,1,amp
-maturity at metam for males,1,amp
-scaled functional response for tL_R data,1,amp
-scaled functional response fortL data,1,amp
-scaled functional response for 1-var data (KR13),1,amp
-scaled functional response for 1-var data (KR15),1,amp
-scaled functional response for 1-var data (oxygen),1,amp
-scaled functional response for 1-var data (reproduction),1,amp
-scaled functional response for 1-var data (Vargas2014),1,amp
-shape coefficient for egg diameter,1,amp
-shape coefficient for embryo,1,amp
-shape coefficient for yolk,1,amp
-time are start development,1,amp
-initial length for tL_2010 data,1,amp
-initial length for tL_2011 data,1,amp
-initial length for tL_2012 data,1,amp
-initial length for tL_2013 data,1,amp
-initial length for tL_spr data,1,amp
-initial length for tL_sum data,1,amp
-scaled functional response for tL_spr data,1,amp
-scaled functional response for tL_sum data,1,amp
-scaled functional response for tL201* data at 000 d,1,amp
-scaled functional response for tL201* data at 100 d,1,amp
-scaled functional response for tL201* data at 200 d,1,amp
-scaled functional response for tL201* data at 300 d,1,amp
-lower Arrhenius temperature,1,amp
-lower boundary for Arrhenius temperature,1,amp
-scaled functional response for 0-var and 1-var data,1,amp
-shrinking stress coefficient,1,amp
-scaled functional response for tL_AL data,1,amp
-scaled functional response for tL_AR data,1,amp
-scaled functional response for tL_OL data,1,amp
-scaled functional response for tL_OO data,1,amp
-scaled functional response for tL_OR data,1,amp
-scaled functional response for LdL data,1,amp
-NO2 stress coefficient,1,amp
-scaled functional response at 120 paramecia/d,1,amp
-scaled functional response at 20 paramecia/d,1,amp
-scaled functional response at 240 paramecia/d,1,amp
-scaled functional response at 30 paramecia/d,1,amp
-scaled functional response at 60 paramecia/d,1,amp
-scaled functional response for advanced hatched,1,amp
-scaled functional response for Medjimurje data,1,amp
-scaled functional response for naturally hatched,1,amp
-scaled functional response for Otocac,1,amp
-shape coefficient for carapace length,1,amp
-shape coefficient for total length at hatching and birth,1,amp
-scaled functional response for LWd data,1,amp
-shape coefficient ar birth,1,amp
-non-ash fraction for WdWd,1,amp
-scaled functional response for LN data,1,amp
-scaled functional response for mar data,1,amp
-scaled functional response for oct data,1,amp
-scaled functional response for TJO data,1,amp
-scaled functional response fortW data,1,amp
-scaled functional response for tL_20 data,1,amp
-time 0 for tL_20_1 data,1,amp
-time 0 for tL_20_2 data,1,amp
-time 0 for tL_20_3 data,1,amp
-time 0 for tL_80_4 data,1,amp
-time 0 for tL_80_5 data,1,amp
-time 0 for tL_80_6 data,1,amp
-vol. length for tL_20_1 data,1,amp
-vol. length for tL_20_2 data,1,amp
-vol. length for tL_20_3 data,1,amp
-vol. length for tL_80_4 data,1,amp
-vol. length for tL_80_5 data,1,amp
-vol. length for tL_80_6 data,1,amp
-arm length at time zero in tL data,1,amp
-zoom factor for cave morph,1,amp
-scaled functional response for tW data at 0 d,1,amp
-scaled functional response for tW data at 3 d,1,amp
-scaled functional response for tW data at 5.5 d,1,amp
-initial length in tL data,1,amp
-scaled functional response for tW data at <10 d,1,amp
-scaled functional response for tW data at >50 d,1,amp
-intial length for tL_f data,1,amp
-intial length for tL_m data,1,amp
-scaled functional response for tL_16,1,amp
-scaled functional response for tL_22,1,amp
-intial length for tL_15 and tL_25 data,1,amp
-intial length for tL_fld data,1,amp
-scaled functional response for tL_15 data,1,amp
-scaled functional response for tL_25 data,1,amp
-scaled functional response for tL_fld data,1,amp
-Arrhenius temperature at upper boundary,1,amp
-scaled functional response for tL_16 data,1,amp
-scaled functional response for tL_24 data,1,amp
-scaled functional response for tL_28 data,1,amp
-shape coefficient at settlement,1,amp
-time at start development at T_ref,1,amp
-lower boundary,1,amp
-reproduction buffer density at emergence,1,amp
-shape coefficient for imago,1,amp
-shape coefficient for nymph,1,amp
-time since birth at time zero,1,amp
-minus(!) time at start development,1,amp
-scaled functional response from birth to weaning,1,amp
-shape coefficient at birth,1,amp
-energy conductance post birth,1,amp
-energy conductance pre birth,1,amp
-maturity at puberty from  males,1,amp
-wet weight for TJO data,1,amp
-dry - ash free dry weight ratio,1,amp
-scaled functional response for tLA data,1,amp
-scaled functional response for tLC data,1,amp
-initial weight of tW_fK data,1,amp
-initial weight of tW_fO data,1,amp
-scaled functional response for tW_*K data,1,amp
-scaled functional response for tW_*O data,1,amp
-scaled functional response for tW_*C data,1,amp
-scaled functional response for tW_*F data,1,amp
-scaled functional response for tL0 data,1,amp
-initial length for tL_f1 data,1,amp
-initial length for tL_f2 data,1,amp
-initial length for tL_m1 data,1,amp
-initial length for tL_m2 data,1,amp
-scaled functional response for tL_f1 data,1,amp
-scaled functional response for tL_f2 data,1,amp
-scaled functional response for tL_m1 data,1,amp
-scaled functional response for tL_m2 data,1,amp
-scaled functional response for south coast,1,amp
-scaled functional response for west coast,1,amp
-scaled functional response for tL17 data,1,amp
-scaled functional response for tL24 data,1,amp
-shape coefficient for juveniles (tentaculate stage + transitional stage),1,amp
-initial length for tL_1973 data,1,amp
-initial length for tL_1974 data,1,amp
-scaled functional response for tL_1973 data,1,amp
-scaled functional response for tL_1974 data,1,amp
-scaled reproduction buffer density,1,amp
-spec decay rate of larval structure in pupa,1,amp
-stress at instar 1: L_1^2/ L_b^2,1,amp
-stress at instar 2: L_2^2/ L_1^2,1,amp
-stress at instar 3: L_3^2/ L_2^2,1,amp
-stress at instar 4: L_3^2/ L_2^2,1,amp
-yield of silk on larval structure,1,amp
-Arrhenius temperature  at upper boundary,1,amp
-Arrhenius temperature at lower boundary,1,amp
-embryo shape coefficient,1,amp
-Lower boundary temperature,1,amp
-sc. func. res.,1,amp
-sc. func. res. BoucMoll2016,1,amp
-sc. func. res. HopGrah1995,1,amp
-shape coefficient total length,1,amp
-Upper boundary temperature,1,amp
-yolk shape coefficient,1,amp
-digestion efficiency of milk,1,amp
-scaled functional response for tL_f3 data,1,amp
-scaled functional response for tL_m data,1,amp
-shape coefficient for late juvenile/adult,1,amp
-number of zooids at time 0,1,amp
-scaled functional response for Tt2 data,1,amp
-scaled functional response for tL_92 data,1,amp
-scaled functional response for tL_93 data,1,amp
-scaled functional response for tL_94 data,1,amp
-scaled functional response for tLe_22 data,1,amp
-scaled functional response for tLe_30 data,1,amp
-scaled functional response for tW data at 08 d,1,amp
-scaled functional response for tW data at 16 d,1,amp
-scaled functional response for tW data at 24 d,1,amp
-scaled functional response for tW data at 32 d,1,amp
-scaled functional response for tW4 data,1,amp
-lower temperature boundary,1,amp
-upper temperature boundary,1,amp
-initial length  for tL and tWw data,1,amp
-scaled functional response for tL1 and tWw1 data,1,amp
-scaled functional response for tW data at 13 d,1,amp
-scaled functional response for tW data at 06 d,1,amp
-scaled functional response for tW data at 55 d,1,amp
-Arrhenius temperature for fast development,1,amp
-scaled functional response for tL_20,1,amp
-scaled functional response for tL_25,1,amp
-shape coefficient for SVL,1,amp
-scaled functional response for tL_C data,1,amp
-scaled functional response for tL_K data,1,amp
-scaled functional response for tL_P data,1,amp
-scaled functional response for tW_m and tW_f data,1,amp
-max spec searching rate,1,amp
-spec cost for structure,1,amp
-surf-spec somatic maint,1,amp
-vol-spec somatic maint,1,amp
-scaled functional response for tW data at 45 d,1,amp
-scaled functional response for tW data at 65 d,1,amp
-scaled functional response for tW data at 015 d,1,amp
-scaled functional response for tWd larval data,1,amp
-weight at time zero,1,amp
-scaled functional response for tW data at <20 d,1,amp
-scaled functional response for tW data at >60 d,1,amp
-maturity at puberty for race B,1,amp
-maturity at puberty for race CS,1,amp
-maturity at puberty for race CT,1,amp
-maturity at puberty for race E,1,amp
-maturity at puberty for race G,1,amp
-maturity at puberty for race I,1,amp
-maturity at puberty for race L,1,amp
-maturity at puberty for race M,1,amp
-maturity at puberty for race N,1,amp
-maturity at puberty for race P,1,amp
-maturity at puberty for race S,1,amp
-maturity at puberty for race SB,1,amp
-zoom factor for race B,1,amp
-zoom factor for race CS,1,amp
-zoom factor for race CT,1,amp
-zoom factor for race G,1,amp
-zoom factor for race I,1,amp
-zoom factor for race L,1,amp
-zoom factor for race M,1,amp
-zoom factor for race N,1,amp
-zoom factor for race P,1,amp
-zoom factor for race S,1,amp
-zoom factor for race SB,1,amp
-scaled functional response for tW data at 0000 d,1,amp
-scaled functional response for tW data at 1000 d,1,amp
-scaled functional response for tW data at 2000 d,1,amp
-scaled functional response for tW data at 3000 d,1,amp
-scaled functional response for tW data at 4000 d,1,amp
-scaled functional response for tW data at 5000 d,1,amp
-shape coefficient for head length,1,amp
-scaled functional response for tL1 and tW1 data,1,amp
-CCL shape coefficient of adults,1,amp
-scaled functional response for 1-var data for captive reared,1,amp
-SCL shape coefficient,1,amp
-SCL shape coefficient of adults,1,amp
-shape coefficient for Park1926 and HildHats1927,1,amp
-time growth phase starts for embryo data,1,amp
-shape coefficient for for curved carapace length,1,amp
-shape coefficient for straight  carapace length,1,amp
-zoom factor of NA population!,1,amp
-initial energy in egg,1,amp
-time at age zero for egg data,1,amp
-time at start of development,1,amp
-scaled functional response for tdW data,1,amp
-scaled functional response for tL_Bosque data,1,amp
-scaled functional response for tL_Pedro data,1,amp
-scaled functional response for tW_P83 data,1,amp
-scaled functional response for tW_PC81 data,1,amp
-scaled functional response for tW_PC82 data,1,amp
-scaled functional response for tW_PC83 data,1,amp
-scaled functional response for tW data after puberty,1,amp
-scaled functional response for tW data till puberty,1,amp
-scaled functional response for tWw_d data,1,amp
-scaled functional response for tWw_f data,1,amp
-scaled functional response for tWw_m data at 2500 d,1,amp
-scaled functional response for tWw_m data till 1400 d,1,amp
-fraction that is lardar carcas weight of total weight,1,amp
-initial lardar carcas weight for female,1,amp
-initial lardar carcas weight for male,1,amp
-tarra for total wet weight for conversion to larder carcass weight,1,amp
-factor for foetal development,1,amp
-scaled functional response for tW data at <30 d,1,amp
-initial weight for tW data,1,amp
-conversion efficiency E -> V -> E,1,amp
-conversion efficiency from larval reserve to larval structure,1,amp
-initial time for tW-data,1,amp
-scaled functional response for tL-data,1,amp
-shape coefficient for total lenth,1,amp
-shape coefficient for females,1,amp
-scaled functional response for tL and LWw data,1,amp
-scaled functional response for clutch B,1,amp
-scaled functional response for clutch F,1,amp
-scaled functional response for clutch H,1,amp
-scaled functional response for clutch X,1,amp
-scaled functional response for Li_ref data,1,amp
-scaled functional response for Ningaloo juvenile and adult data,1,amp
-shape coefficient CCL,1,amp
-shape coefficient SCL,1,amp
-yolk dry to wet mass ratio,1,amp
-scaled functional response for Tull data,1,amp
-scaled functional response for Tung data,1,amp
-shape coeffient,1,amp
-zoom factor; for male,1,amp
-background hazard rate coefficient,1,amp
-sc. funct. res.  0.1 mg tetramin per ind,1,amp
-sc. funct. res.  0.2 mg tetramin per ind,1,amp
-sc. funct. res.  0.3 mg tetramin per ind,1,amp
-sc. funct. res.  0.4 mg tetramin per ind,1,amp
-scaled functional response for 0-var and ad libitum data,1,amp
-scaled functional response for respiration data,1,amp
-shape coefficient for larva length,1,amp
-upper boundary,1,amp
-scaled functional response for tW data at 14 d,1,amp
-scaled functional response for tW data at 19 d,1,amp
-scaled functional response for tL & tW data at 15 m deep,1,amp
-scaled functional response for tL & tW data at 30 m deep,1,amp
-shell height at first data point for grp 1,1,amp
-shell height at first data point for grp 2,1,amp
-scaled functional response for tW1 data at 03 d,1,amp
-scaled functional response for tW1 data at 08 d,1,amp
-scaled functional response for tW1 data at 35 d,1,amp
-Arrhenius temperature 5th instar and higher,1,amp
-Arrhenius temperature at upper boundary 5th instar and higher,1,amp
-Arrhenius temperature at upper boundary egg,1,amp
-Arrhenius temperature egg,1,amp
-time of start development at 20 C,1,amp
-upper boundary 5th instar and higher,1,amp
-upper boundary egg,1,amp
-T_AH,1,amp
-T_AL,1,amp
-T_H,1,amp
-T_L,1,amp
-scaled functional response for tL_2 data,1,amp
-scaled functional response for tL_5 data,1,amp
-scaled functional response for tW data at 75 d,1,amp
-scaled functional response for tW data at 90 d,1,amp
-mol C per algal cell,1,amp
-scaled functional response for WdJO data,1,amp
-spec contribution of tunic to dry weight,1,amp
-shape coefficient for operculum,1,amp
-shape coefficient for shell diameter,1,amp
-background hazard rate (Wage2015),1,amp
-initial length tL (gaia2016,1,amp
-initial length tL_c (gaia2016,1,amp
-initial length tL_w (gaia2016,1,amp
-initial length tS (Wage2015),1,amp
-lower boundary  temperature,1,amp
-scaled functional response (Wage2015),1,amp
-scaled functional response for Cian1979 data,1,amp
-scaled functional response for gaia2019 data,1,amp
-scaled functional response for GuptMich1993 data,1,amp
-scaled functional response for Swee2018 data,1,amp
-scaled functional response for tL data (gaia2016 semifield summer),1,amp
-scaled functional response for tL data (gaia2016 semifield winter,1,amp
-scaled functional response for tL data (gaia2016),1,amp
-shape coefficient for (sub)imago,1,amp
-shape coefficient for egg,1,amp
-shape coefficient for wing length,1,amp
-stress at instar 4: L_4^2/ L_3^2,1,amp
-stress at instar 5: L_5^2/ L_4^2,1,amp
-stress at instar 6: L_6^2/ L_5^2,1,amp
-stress at instar 7 (N1): L_7^2/ L_6^2,1,amp
-stress at instar 8 (N2): L_8^2/ L_7^2,1,amp
-time since birth at start of experiment (Cian1979),1,amp
-time since birth at start of experiment (gaia2019),1,amp
-time since birth at time zero (gaia2016),1,amp
-scaled functional response for LW data,1,amp
-scaled functional response for tL_N data,1,amp
-scaled functional response for tL2000 data,1,amp
-scaled functional response for tL2001 data,1,amp
-scaled functional response for tL2002 data,1,amp
-rate of egg production,1,amp
-scaled func res,1,amp
-scaled functional response for juv Lyon1962,1,amp
-scaled functional response for NewsBeak,1,amp
-total length at time 0,1,amp
-scaled functional response for ChanDeSi1981,1,amp
-scaled functional response for Hlop2011 wild fish,1,amp
-scaled functional response for temperature experiment,1,amp
-scaled functional response for WeylHech1998,1,amp
-shape coefficient for larvae,1,amp
-total length at time zero,1,amp
-time since birt at zero,1,amp
-digestion efficiency for growth selected cohort,1,amp
-defecation efficiency,1,amp
-scaled functional response for tW data at 07 d,1,amp
-scaled functional response for 0-var and tL data,1,amp
-shape coefficient for fork length,1,amp
-scaled functional response for tL_f data,1,amp
-scaled functional response for tWdata,1,amp
-Arrhenius temperature high boundary,1,amp
-scaled functional response for uni-vars data,1,amp
-time since birth to start experiment,1,amp
-Upper temperature boundary for optimal growth,1,amp
-del_Mb,1,amp
-del_Mj,1,amp
-maximum surface-specific ingestion rate,1,amp
-scaled functional response for CasaLape2011 data,1,amp
-scaled functional response for HopkMack1953 data,1,amp
-scaled functional response for MannSout2009 data,1,amp
-scaled functional response for PaynPoli2010 data,1,amp
-shell length for ingestion,1,amp
-energy content per cell Phaeodactylum tricornutum,1,amp
-scaled functional response for flux data,1,amp
-specific density W_shell = d_s (del_M L)^3,1,amp
-allocation fraction to soma before h and after j,1,amp
-allocation fraction to soma beteen b and j,1,amp
-measured initial energy of egg,1,amp
-scaled functional response between b and j,1,amp
-scaled functional response between j and m,1,amp
-allocation fraction to soma at birth till metam,1,amp
-allocation fraction to soma at hatch and after metam,1,amp
-initial reserve,1,amp
-scaled functional response for L0Lt data,1,amp
-scaled functional response for egg data,1,amp
-shape coefficient for headlength,1,amp
-scaled functional response for WX data,1,amp
-scaled functional response for LdL_a data,1,amp
-scaled functional response for LdL_b data,1,amp
-scaled functional response for 0-var (wild) data,1,amp
-scaled functional response for wild 1-var data,1,amp
-scaled functional response for tW_As data,1,amp
-scaled functional response for tW_Er data,1,amp
-scaled functional response for tW_Ma data,1,amp
-scaled functional response for tW_Pm data,1,amp
-scaled functional response for Ta data,1,amp
-scaled functional response for Tae data,1,amp
-scaled functional response for Tte data,1,amp
-Weibull aging acceleration for males,1,amp
-scaled functional response for tW data col 2,1,amp
-scaled functional response for tW data col 3,1,amp
-scaled functional response for tW data col 4,1,amp
-time since birth at time zero of tL data,1,amp
-shape parameter for digestion efficiency,1,amp
-scaled functional response for WdW data,1,amp
-maturity at release of oozoid,1,amp
-scaled functional response for tWw data form 0 to 90 d,1,amp
-scaled functional response for tWw data form 90 to 135 d,1,amp
-scaled functional response for tL_f and tL_m data,1,amp
-scaled functional response for CripHemm2009,1,amp
-scaled functional response for CripHemm2009 Brine shrimp food,1,amp
-scaled functional response for CripHemm2009 combination Brine shrimp and Flake food,1,amp
-scaled functional response for CripHemm2009 Flake food,1,amp
-scaled functional response for ParrDyar1978,1,amp
-intial weight for tWw data,1,amp
-slow/fast parameter of foetal development,1,amp
-initial energy in the repro buffer,1,amp
-rejuvenation stress coefficient,1,amp
-sc. func. resp.,1,amp
-scaled functional response of BagaPels2001 data,1,amp
-scaled functional response of BestAdat2010 data,1,amp
-scaled functional response of EatoFarl1974b data,1,amp
-scaled functional response of LawrEber2002_high data,1,amp
-scaled functional response of LawrEber2002_low data,1,amp
-scaled functional response of Schi2002 data,1,amp
-shape coefficient for adult,1,amp
-shrinking threshold,1,amp
-temp in culture,1,amp
-chem coeff for Carb in reserve,1,amp
-chem coeff for Carb in structure,1,amp
-chem coeff for Glyc in reserve,1,amp
-chem coeff for Glyc in structure,1,amp
-chem coeff for Lipi in reserve,1,amp
-chem coeff for Lipi in structure,1,amp
-chem coeff for Prot in reserve,1,amp
-chem coeff for Prot in structure,1,amp
-chem coeff for Trig in reserve,1,amp
-chem coeff for Trig in structure,1,amp
-conversion of mg carbon to J for algal food (Desmodesmus subspicatus),1,amp
-eR at start starvation,1,amp
-Gompertz stress coefficient for female,1,amp
-Gompertz stress coefficient for male,1,amp
-increase in filtration rate at low food density,1,amp
-initial size for Coors data,1,amp
-scaled functional response for LJO data,1,amp
-scaled functional response for Tap data,1,amp
-scaled functional response for tL_f,1,amp
-scaled functional response for tL_SK1,1,amp
-scaled functional response for tL_SK2,1,amp
-scaled functional response for tL_SK3,1,amp
-scaled functional response for tL5 data,1,amp
-scaled functional response for tN data,1,amp
-time for egg production at 20<U+FFFD>C,1,amp
-scaled functional response for tW data at 23 d,1,amp
-scaled functional for tL data,1,amp
-shape coefficient for disc width,1,amp
-energy conductance for embryo,1,amp
-scaled functional response for tW data at 250 d,1,amp
-scaled functional response for tW data at 12 d,1,amp
-scaled functional response for tL_BB data,1,amp
-scaled functional response for tL_CI data,1,amp
-scaled functional response for tL_CS data,1,amp
-scaled functional response for tL_KS data,1,amp
-scaled functional response for tL_T data,1,amp
-lower boundary tolerance range,1,amp
-scaled functional response for farm data,1,amp
-scaled functional response for feeding data,1,amp
-scaled functional response for TAN data,1,amp
-upper boundary tolerance range,1,amp
-time at start egg development,1,amp
-time between broods at T_ref,1,amp
-scaled functional response for tW data at 300 d,1,amp
-maturity at birth asexual stage,1,amp
-maturity at birth sexual stage,1,amp
-maturity at puberty asexual stage,1,amp
-initial TL in tL data,1,amp
-scaled functional response for tL_A data,1,amp
-Weibull aging acceleration for male,1,amp
-scaled functional response for tL_A and tWw_A data,1,amp
-scaled functional response for tL_H and tWw_H data,1,amp
-scaled functional response for tL_I and tWw_I data,1,amp
-scaled functional response for tL_K and tWw_K data,1,amp
-scaled functional response for tL_S and tWw_S data,1,amp
-scaled functional response for tL_T and tWw_T data,1,amp
-scaled functional response for tW data at t=0 d,1,amp
-scaled functional response for tW data at t=40 d,1,amp
-shape coefficient for TL,1,amp
-scaled functional response for tL data at 000 d,1,amp
-scaled functional response for tL data at 100 d,1,amp
-Gunadi,1,amp
-ind10exp1,1,amp
-ind11exp1,1,amp
-ind12exp1,1,amp
-ind13exp1,1,amp
-ind14exp1,1,amp
-ind15exp1,1,amp
-ind16exp1,1,amp
-ind17exp1,1,amp
-ind18exp1,1,amp
-ind19exp1,1,amp
-ind1exp1,1,amp
-ind20exp1,1,amp
-ind21exp1,1,amp
-ind22exp1,1,amp
-ind23exp1,1,amp
-ind24exp1,1,amp
-ind25exp1,1,amp
-ind26exp1,1,amp
-ind27exp1,1,amp
-ind28exp1,1,amp
-ind29exp1,1,amp
-ind2exp1,1,amp
-ind30exp1,1,amp
-ind31exp1,1,amp
-ind32exp1,1,amp
-ind33exp1,1,amp
-ind34exp1,1,amp
-ind35exp1,1,amp
-ind36exp1,1,amp
-ind37exp1,1,amp
-ind3exp1,1,amp
-ind4exp1,1,amp
-ind5exp1,1,amp
-ind6exp1,1,amp
-ind7exp1,1,amp
-ind8exp1,1,amp
-ind9exp1,1,amp
-Neuhauser cow manure,1,amp
-Neuhauser horse manure,1,amp
-Neuhauser sludge,1,amp
-scaled functional response for tW and tL data,1,amp
-scaled functional response for tL  data,1,amp
-scaled functional response for LdL1 data,1,amp
-scaled functional response for LdL2 data,1,amp
-scaled functional response for LdL3 data,1,amp
-time at start development at 20 C,1,amp
-initial length in tL and tW data,1,amp
-scaled functional response for tL_F data,1,amp
-scaled functional response for tL_M data,1,amp
-time at birth,1,amp
-scaled functional response for tL data at 0 d,1,amp
-scaled functional response for tL data at 8000 d,1,amp
-time since birth at origin,1,amp
-initial length tL data Sand1981,1,amp
-scaled functional response for length - dry weight data Beck2011,1,amp
-scaled functional response for length - dry weight data Haue2011,1,amp
-scaled functional response for time length data Sand1981,1,amp
-shape coefficient forewing length,1,amp
-shape coefficient larvae,1,amp
-energy conductance for males,1,amp
-shape coefficient for otolith rarius,1,amp
-initial struct length for tWw data,1,amp
-scaled functional response for tL data > 365 d,1,amp
-weight after hybernation,1,amp
-scaled functional response for tW,1,amp
-Arrhenius temp at upper boundary,1,amp
-Temperature at upper boundary,1,amp
-scaled functional response for tL_BC data,1,amp
-scaled functional response for tL_FC data,1,amp
-initial length for tL_f data,1,amp
-initial length for tL_m data,1,amp
-scaled functional response for tL and tWdata,1,amp
-scaled functional response for tL1 and tWl data,1,amp
-shape coefficient for veliger,1,amp
-scaled functional response for Brazil data,1,amp
-scaled functional response for Uruguay data,1,amp
-contribution of gonads in weight for tW-data,1,amp
-dryweight at t = 0 in tW-data,1,amp
-length at t = 0 in tL-data,1,amp
-scaled functional response for tL_f1,1,amp
-scaled functional response for tL_f2,1,amp
-scaled functional response for tL_f3,1,amp
-scaled functional response for tL_T*,1,amp
-scaled functional response for TJO1 data,1,amp
-scaled functional response for TJO2 data,1,amp
-wet weight for TJO1 data,1,amp
-wet weight for TJO2 data,1,amp
-scaled functional response for tW  data,1,amp
-scaled functional response for tW5 data,1,amp
-scaled function response,1,amp
-time at start eggs development,1,amp
-ash-free dry - dry weight ratio,1,amp
-fraction of eggs in gonads that is resorbed,1,amp
-reduction factor for yolk absorption,1,amp
-scaled functional response for BjorStei2007 data,1,amp
-scaled functional response for McCoGeub2006 data,1,amp
-scaled functional response for OtteNyha1999 data,1,amp
-scaled functional response for tL_Ez data,1,amp
-scaled functional response for tL_Gu data,1,amp
-scaled functional response for tL_ME data,1,amp
-scaled functional response for tL_Mo data,1,amp
-scaled functional response for tL_MW data,1,amp
-digestion efficiency of food to reserve for tW2 data,1,amp
-energy in food for tW2 data,1,amp
-maturity at fledching,1,amp
-scaled functional response for tWw_* data,1,amp
-time between clutches,1,amp
-total length at zero for tL_f data,1,amp
-total length at zero for tL_m data,1,amp
-maturity at birth for males,1,amp
-scaled functional response for LN_0 data,1,amp
-scaled functional response for LN_11 data,1,amp
-scaled functional response for LN_112 data,1,amp
-scaled functional response for LN_12 data,1,amp
-scaled functional response for LN_13 data,1,amp
-scaled functional response for LN_16 data,1,amp
-scaled functional response for LN_18 data,1,amp
-scaled functional response for LN_19 data,1,amp
-scaled functional response for LN_3 data,1,amp
-scaled functional response for LN_6 data,1,amp
-initial  length for tL2 data,1,amp
-initial  length for tL3 data,1,amp
-initial  length for tL4 data,1,amp
-initial  length for tL5 data,1,amp
-initial  length for tL6 data,1,amp
-initial  length for tL7 data,1,amp
-scaled functional response for JoneHyne1950 data,1,amp
-scaled functional response for WrigWoot2004 data,1,amp
-scaled functional response for tW_f,1,amp
-feacation efficiency of food to feaces,1,amp
-scaled functional response for tW and tW1 data,1,amp
-scaled functional response for tW2 and tW1 data,1,amp
-scaled functional response in north austral zone,1,amp
-scaled functional response in south austral zone,1,amp
-initial length for tL_1 data,1,amp
-initial length for tL_2 data,1,amp
-fraction of yr that for accumulation in first spawn,1,amp
-scaled functional response for tWw data for 15 d,1,amp
-scaled functional response for tWw data from 0-10 d,1,amp
-scaled functional response for tW  data at 17 d,1,amp
-scaled functional response for tW  data from 0-8 d,1,amp
-scaled functional response for tW1 data at 17 d,1,amp
-scaled functional response for tW1 data from 0-8 d,1,amp
-scaled functional response for tW2 data at 17 d,1,amp
-scaled functional response for tW2 data from 0-8 d,1,amp
-scaled functional response for tW3 data  from 0-6 d,1,amp
-scaled functional response for tW3 data at 9 d,1,amp
-initial shell height at for tL0 data,1,amp
-initial shell height at for tL1 data,1,amp
-initial shell height at for tL2 data,1,amp
-initial length for tL_2 and tL_3 data,1,amp
-scaled functional response for tL_1 data,1,amp
-scaled functional response for tL_2 and tL_3 data,1,amp
-shape coefficient for female,1,amp
-shape coefficient for male,1,amp
-offset for tL data,1,amp
-time offset in T(t) data,1,amp
-scaled functional response for t-L and t-W data,1,amp
-volume at first time in tV data,1,amp
-body length at 0 in tL_f data,1,amp
-body length at 0 in tL_m data,1,amp
-scaled functional response for Nesto fed ad libitum with 28 percent protein,1,amp
-scaled functional response for Nesto fed ad libitum with 66 percent protein,1,amp
-scaled functional response for Nesto fed ad libitum with 9.5,1,amp
-shape coefficient for abj,1,amp
-offset for T(t) in tL data,1,amp
-Arrhenius temperature at lower boundary temperature,1,amp
-reprod buffer/structure at pupation as fraction of max,1,amp
-shape coefficient for FL,1,amp
-scaling coeff for hind-foot length,1,amp
-Arrhenius temperature  at high temp boundary,1,amp
-Arrhenius temperature  at low temp boundary,1,amp
-Arrhenius temperature 1st instar,1,amp
-Arrhenius temperature 2nd instar,1,amp
-Arrhenius temperature 3rd instar,1,amp
-Arrhenius temperature 4th instar,1,amp
-Arrhenius temperature 5th instar,1,amp
-Arrhenius temperature pupa,1,amp
-high boundary temperature,1,amp
-high boundary temperature egg,1,amp
-high boundary temperature pupa,1,amp
-scaled functional response for imago,1,amp
-scaled functional response for tL_c data,1,amp
-initial struct length for tL and tWw data,1,amp
-scaled functional response for tL and tWw data for d 000,1,amp
-scaled functional response for tL and tWw data for d 090,1,amp
-scaled functional response for tL and tWw data for d 150,1,amp
-scaled functional response for tL and tWw data for d 175,1,amp
-time at birth for tL_0 and tWw_0 data,1,amp
-scaled functional response for tW data at 09 d,1,amp
-zoom factor (male),1,amp
-maturity at birth for females,1,amp
-scaled functional response for tW data after t_W0,1,amp
-scaled functional response for tW data after t_W1,1,amp
-time in tW data before after puberty,1,amp
-time in tW data before before puberty,1,amp
-scaled functional response for tfW1 data,1,amp
-scaled functional response for tfW10 data,1,amp
-scaled functional response for tfW120 data,1,amp
-scaled functional response for tfW20 data,1,amp
-scaled functional response for tfW40 data,1,amp
-scaled functional response for tfW5 data,1,amp
-scaled functional response for tfW80 data,1,amp
-zoom factor for tadpole,1,amp
-scaled functional response for f_tW data,1,amp
-scaled functional response for f_tW1 data,1,amp
-coupler ingested energy - faecal pellet number,1,amp
-scaled functional response for Gonz2002 0-var data,1,amp
-scaled functional response of Borg1989,1,amp
-scaled functional response of Inge1998,1,amp
-scaled functional response of Lind1982,1,amp
-scaled functional response of Math1971,1,amp
-scaled functional response of OthmPasc2001,1,amp
-scaled functional response of Pede2013,1,amp
-scaled functional response Pery2005 0.04 mg,1,amp
-scaled functional response Pery2005 0.06 mg,1,amp
-scaled functional response Pery2005 0.1 mg,1,amp
-scaled functional response Pery2005 0.2 mg,1,amp
-scaled functional response Pery2005 0.3 mg,1,amp
-shape coefficient of body length,1,amp
-shape coefficient of head length,1,amp
-scaled functional response for tL1 and tN data,1,amp
-scaled functional response for tL_h data,1,amp
-scaled functional response for tL_l data,1,amp
-scaled functional response in summer for tL data,1,amp
-scaled functional response in summer for tL1 data,1,amp
-scaled functional response in winter for tL data,1,amp
-scaled functional response in winter for tL1 data,1,amp
-scaled functional response for Early James,1,amp
-scaled functional response for Latest James,1,amp
-shape coefficient for larvae and adults,1,amp
-growth period for TdW data,1,amp
-scaled functional response for fish fed 2 perc/d,1,amp
-scaled functional response for fish fed 4 perc/d,1,amp
-scaled functional response for fish fed 6 perc/d,1,amp
-time till start of development,1,amp
-wet weight for TdW data,1,amp
-mantle length at zero for tL_f data,1,amp
-mantle length at zero for tL_m data,1,amp
-maturity at  for males,1,amp
-scaled functional response for tL20 data,1,amp
-scaled functional response for tL25 data,1,amp
-scaled functional response for tL30 data,1,amp
-scaled functional response for tL35 data,1,amp
-maturity at end acceleration,1,amp
-scaled functional response for tL  data at t=0,1,amp
-scaled functional response for tL  data at t=1000,1,amp
-scaled functional response for tL data  at t=2000 d,1,amp
-scaled functional response for tL data at t=5000 d,1,amp
-scaled functional response for tL_0 data,1,amp
-scaled functional response for tW14 data,1,amp
-scaled functional response for tW20 data,1,amp
-scaled functional response for tW8 data,1,amp
-scaled functional response for tLe data,1,amp
-scaled functional response at Khuchni,1,amp
-scaled functional response at Kostek,1,amp
-scaled functional response at Kuli,1,amp
-scaled functional response at Sergokala,1,amp
-scaled functional response at Termenlik,1,amp
-mean temperature for tT data,1,amp
-temperature amplitude for tT data,1,amp
-time offset for temperature in tL data,1,amp
-time offset for tT data,1,amp
-scaled functional response for tL data at 200 d,1,amp
-scaled functional response for tL data at 300 d,1,amp
-scaled functional response for tL data at 400 d,1,amp
-scaled functional response for tL data at 500 d,1,amp
-scaled functional response for tL data at 600 d,1,amp
-scaled functional response for tL data at 700 d,1,amp
-scaled functional response for tL-4 data,1,amp
-scaled functional response for tW data at 02 d,1,amp
-scaled functional response for tW data at 04 d,1,amp
-allocation fraction of milk (vs fetus),1,amp
-milk production efficiency,1,amp
-weight at capture,1,amp
-scaled functional response for LL and WwWw data,1,amp
-scaled functional response for tL_E data,1,amp
-scaled functional response for tL_W data,1,amp
-scaled functional response for LLm data,1,amp
-scaled functional response for LLs data,1,amp
-scaled functional response for Clinch River data,1,amp
-scaled functional response for Duck River data,1,amp
-scaled functional response for tW9 data,1,amp
-scaled functional response for tWi data,1,amp
-shape coefficient for neonate,1,amp
-time since birth at infection,1,amp
-scaled functional response for tW_f data,1,amp
-shape coefficient for embryo length,1,amp
-shape coefficient for head-rump length,1,amp
-scaled functional response for WwR data,1,amp
-time offset in temperature in tL data,1,amp
-SVL at zero for tL data,1,amp
-initial abdomial length for tL data,1,amp
-initial weight for tW1 data,1,amp
-initial dry weight at for tW0T data,1,amp
-initial dry weight at for tW1T data,1,amp
-initial dry weight at for tW2T data,1,amp
-initial shell height at for tL0T data,1,amp
-initial shell height at for tL1T data,1,amp
-initial shell height at for tL3 data,1,amp
-initial shell height at for tL4 data,1,amp
-scaled functional response for tL and tW data at Trevor,1,amp
-scaled functional response for tL data at Craig-yr-Wylfa,1,amp
-total length at t=0 in tL and tW data,1,amp
-time since birth at start growth experiment,1,amp
-scaled functional response for tLb data,1,amp
-radius at time 0 in tL,1,amp
-scaled functional response for dWd,1,amp
-conversion of g soil to J for cast production,1,amp
-scaled functional response for Butt1993 data,1,amp
-time since birth at t=0 of tW data,1,amp
-scaled functional response for tL_MR data,1,amp
-scaled functional response for tL_SC data,1,amp
-shape coefficient for LWw data,1,amp
-contibution of shell in tWd_A till tWd_D data,1,amp
-initial cumulative # of eggs in tN_100 data,1,amp
-initial cumulative # of eggs in tN_25 data,1,amp
-initial cumulative # of eggs in tN_50 data,1,amp
-initial cumulative # of eggs in tN_A till tN_D data,1,amp
-initial structural length in A till D data,1,amp
-initial structural length in D data,1,amp
-initial structural length in tL_100,1,amp
-initial structural length in tL_FLE data,1,amp
-scaled functional response for tL_100 data,1,amp
-scaled functional response for tL_50 data,1,amp
-scaled functional response for tL_B data,1,amp
-scaled functional response for tL_BohlJoos1982 data,1,amp
-scaled functional response for tL_FLE data,1,amp
-scaled functional response for tW1 data at 000 d,1,amp
-scaled functional response for tW1 data at 070 d,1,amp
-scaled functional response for tW1 data at 110 d,1,amp
-weight at zero in tW data,1,amp
-digestion efficiency for milk,1,amp
-energy content of a Skeletonema cell,1,amp
-fraction of wet weight that is measured as a result of removing all body fluids,1,amp
-length at 15 d for FabiHuve2005 data,1,amp
-length at start of experiment,1,amp
-length at start of experiment for tWw data,1,amp
-mol per cell of micro-algae in Rico-data,1,amp
-scaled functional response for FabiHuve2005 data,1,amp
-scaled functional response for GoulWolo2004 data,1,amp
-scaled functional response for Mark2011 data,1,amp
-scaled functional response for Rico-data,1,amp
-scaled res density at start of experiment,1,amp
-shape coefficient before metam,1,amp
-shape coefficient shell in wet weight,1,amp
-volume per cell of Sketetonema,1,amp
-scaled functional response for tW_T33 data,1,amp
-scaled functional response for tW_T34 data,1,amp
-scaled functional response for tW_T43 data,1,amp
-delay for onset of growth in tW data,1,amp
-fraction of imago structure energy that is converted to eggs,1,amp
-scaled functional response for tWw1,1,amp
-scaled functional response for tWw2,1,amp
-shape coeff. for total length,1,amp
-scaled functional response for tWp data at 00 d,1,amp
-scaled functional response for tWp data at 05 d,1,amp
-scaled functional response for tWp data at 10 d,1,amp
-scaled functional response for tWp data at 15 d,1,amp
-scaled functional response for tWp data at 20 d,1,amp
-time since birth at emergence in tW data,1,amp
-maturity at puberty for  males,1,amp
-initial weight in tWw data,1,amp
-Lower temperature boundary,1,amp
-time delay in T(t) data,1,amp
-initial length for tL_1-tL_4 data,1,amp
-initial length for tL_5-tL_6 data,1,amp
-scaled functional response for tL data at t = 1050 d,1,amp
-scaled functional response for tL data at t = 1200 d,1,amp
-scaled functional response for tL data at t = 150 d,1,amp
-scaled functional response for tL data at t = 300 d,1,amp
-scaled functional response for tL data at t = 450 d,1,amp
-scaled functional response for tL data at t = 600 d,1,amp
-scaled functional response for tL data at t = 750 d,1,amp
-scaled functional response for tL data at t = 900 d,1,amp
-scaled functional response for tL_3 data,1,amp
-scaled functional response for tL_4 data,1,amp
-scaled functional response for tL_6 data,1,amp
-scaled functional response for tL_1425 data,1,amp
-scaled functional response for tL_1995 data,1,amp
-initial shell height at for tL data,1,amp
-scaled functional response for tW data at 26 d,1,amp
-Arrhenius temperature above the upper boundary,1,amp
-Arrhenius temperature below the lower boundary,1,amp
-scaled functional response for CharShri2004 data,1,amp
-scaled functional response for RiceHick1989 data,1,amp
-scaled functional response for RigwRich2011 data,1,amp
-shape coefficient for embryo and larvae,1,amp
-shape coefficient for juvenile and adult,1,amp
-scaled functional response for tW data at 27 d,1,amp
-time since birth at t=0 in tA-data,1,amp
-shape coefficient for body length,1,amp
-shape coefficient for tibia length,1,amp
-scaled functional response for tW data at 18 d,1,amp
-scaled functional response for growth,1,amp
-shape coeff for body length,1,amp
-zoom factor for female for male,1,amp
-scaled functional response for LL135 data,1,amp
-scaled functional response for LL79 data,1,amp
-initial shell height for tL1 data,1,amp
-initial shell height for tL3 data,1,amp
-initial shell height for tL5 data,1,amp
-scaled functional response for tL3 and tL5 data,1,amp
-shape coefficient for oral-aboral length,1,amp
-scaled functional response for tL1,1,amp
-scaled functional response for tL2,1,amp
-scaled functional response for tL3,1,amp
-scaled functional response for tL4,1,amp
-scaled functional response for tL5,1,amp
-scaled functional response for tL6,1,amp
-scaled functional response for tL7,1,amp
-length at time 0,1,amp
-scaled functional response for tW data at 03 d,1,amp
-time at start development at T given v,1,amp
-scaled functional response for tW_f and tW_m data,1,amp
-scaled functional response for tW1 data at 02 d,1,amp
-scaled functional response for tW1 data at 04 d,1,amp
-scaled functional response for tW1 data at 06 d,1,amp
-scaled functional response for tW2 data at 00 d,1,amp
-scaled functional response for tW2 data at 02 d,1,amp
-scaled functional response for tW2 data at 04 d,1,amp
-scaled functional response for tW2 data at 06 d,1,amp
-scaled functional response for tW2 data at 08 d,1,amp
-yield of DNA on structure (g/g),1,amp
-yield of N on biomass (g/g),1,amp
-yield of RNA on biomass (g/g),1,amp
-zoom  for males,1,amp
-scaled functional response for tL_S data,1,amp
-hazard rate for background mortality,1,amp
-scaled funct. res. low food level,1,amp
-scaled funct. res. medium food level,1,amp
-scaled funct. res. tW2,1,amp
-scaled funct. res. tW3,1,amp
-scaled functional response for tW0 data,1,amp
-scaled functional response for tW data at 7 d,1,amp
-scaled functional response for tW data at 9 d,1,amp
-time since birth at t=0,1,amp
-half sat constant for inorg matter,1,amp
-initial scaled functional response for tdL data,1,amp
-mol Chlorophyll per Cmol food,1,amp
-Arrh. temp for lower boundary,1,amp
-Arrh. temp for upper boundary,1,amp
-Lower temp boundary,1,amp
-scaled functional response for f data,1,amp
-scaled functional response for fsubtidal data,1,amp
-Upper temp boundary,1,amp
-body length at time zero,1,amp
-scaled functional response for LWd_sygny data,1,amp
-scaled functional response for Shabica,1,amp
-shape coefficient for total length for intertidal population,1,amp
-shape coefficient for total length for subtidal population,1,amp
-scaled functional response for 1-var data birth onwards,1,amp
-scaled functional response for 1-var data Clutch 1 embryo,1,amp
-scaled functional response for 1-var data Clutch 2 embryo,1,amp
-scaled functional response for 1-var data Clutch 3 embryo,1,amp
-scaled functional response for 1-var data Clutch 4 embryo,1,amp
-scaled functional response for 1-var data Clutch 5 embryo,1,amp
-scaled functional response for 1-var data Clutch 6 embryo,1,amp
-scaled functional response for data from Eighty Mile Beach,1,amp
-scaled functional response for data from Thevenard Island,1,amp
-time growth phase starts for embryo assuming a similar growth pattern to C. mydas,1,amp
-scaled functional response for 0.06 ration,1,amp
-scaled functional response for 0.12 ration,1,amp
-scaled functional response for 0.25 ration,1,amp
-scaled functional response for 0.5 ration,1,amp
-initial carapace width for tL data,1,amp
-time at start development in ab,1,amp
-scaled functional response for tL_FFS data,1,amp
-scaled functional response for tL_KUR data,1,amp
-scaled functional response for tL_LAY data,1,amp
-scaled functional response for tL_LISdata,1,amp
-scaled functional response for tL_MDY data,1,amp
-scaled functional response for tL_MHI data,1,amp
-scaled functional response for tL_PHR data,1,amp
-shape coefficient pre-metamorphosis,1,amp
-half-saturation coeffcient,1,amp
-scaled functional response for Tah,1,amp
-time at start development (since egg sack has been spotted),1,amp
-scaled functional response for NF221 data,1,amp
-scaled functional response for NF222 data,1,amp
-scaled functional response for NK430 data,1,amp
-scaled functional response for NK91 data,1,amp
-background hazard rate,1,amp
-scaled functional response for weight data,1,amp
-zoom factor males,1,amp
-scaled functional response for tW data at 36 d,1,amp
-time between Naef stage 4 and 15 at T_ref,1,amp
-scaled functional response for tL_B data at t=000 d,1,amp
-scaled functional response for tL_B data at t=060 d,1,amp
-scaled functional response for tL_B data at t=120 d,1,amp
-scaled functional response for tL_B data at t=140 d,1,amp
-scaled functional response for tL_B data at t=220 d,1,amp
-scaled functional response for tL_B data at t=240 d,1,amp
-scaled functional response for tL_B data at t=300 d,1,amp
-scaled functional response for tL_E data at t=000 d,1,amp
-scaled functional response for tL_E data at t=060 d,1,amp
-scaled functional response for tL_E data at t=120 d,1,amp
-scaled functional response for tL_E data at t=180 d,1,amp
-scaled functional response for tL_E data at t=240 d,1,amp
-scaled functional response for tL_E data at t=300 d,1,amp
-scaled functional response for tL_I data at t=000 d,1,amp
-scaled functional response for tL_I data at t=060 d,1,amp
-scaled functional response for tL_I data at t=120 d,1,amp
-scaled functional response for tL_I data at t=180 d,1,amp
-scaled functional response for tL_I data at t=240 d,1,amp
-scaled functional response for tL_I data at t=300 d,1,amp
-scaled functional response for tL_e and tW_e data,1,amp
-scaled functional response for tW_BH data,1,amp
-scaled functional response for tW_SD data,1,amp
-shape coefficient for larva,1,amp
-contribution of reprod buffer to total trunc length,1,amp
-maturity at puberty of female,1,amp
-maturity at puberty of male,1,amp
-scaled functional response for tL_Bormida data,1,amp
-scaled functional response for tL_Stura data,1,amp
-shape coefficient of imago,1,amp
-shape coefficient of nymph,1,amp
-scaled functional response for tdL data,1,amp
-scaled functional response for 1-LN data,1,amp
-scld. fctl. res.  DaviKenn2014 (first part of experiment),1,amp
-scld. fctl. res.  DaviKenn2014 (second part of experiment),1,amp
-scld. fctl. res. u13 - 3,1,amp
-scld. fctl. res. u13 - ad libitum,1,amp
-scld. fctl. res. univar-10 F - 3-3wk 7,1,amp
-scld. fctl. res. YaniHisa2002,1,amp
-shape coef (forked length),1,amp
-L at start AlleHass1985,1,amp
-L at start ShelClar1995,1,amp
-scaled functional response for AlleHass1985 data,1,amp
-scaled functional response for BeacMurr1993 data,1,amp
-scaled functional response for OrsiJaen1996 data,1,amp
-scaled functional response for ShelClar1995 data,1,amp
-shape coefficient for spawners,1,amp
-scaled functional response for 0-var and tW data,1,amp
-CTmax for Arrhenius temperature_Hemmings PhD data,1,amp
-CTmin for Arrhenius temperature_Dodgy data,1,amp
-High Boundary Arrhenius temperature,1,amp
-Low Boundary Arrhenius temperature,1,amp
-scaled functional response for instar 4 data,1,amp
-initial length of 1973 cohort,1,amp
-initial length of 1974 cohort,1,amp
-initial length of 1975 cohort,1,amp
-initial length of 1976 cohort,1,amp
-initial length of 1977 cohort,1,amp
-initial length of 1978 cohort,1,amp
-initial wet weight for tW data,1,amp
-scaled functional response for tW_B data,1,amp
-scaled functional response for tW_Y data,1,amp
-scaled functional response pre-weaning for tW_B data,1,amp
-scaled functional response pre-weaning for tW_Y data,1,amp
-zoom factor  for males,1,amp
-scaled functional response for tL2 and tW2 data,1,amp
-scaled functional response for tL4 and tW4 data,1,amp
-determines energy allocation to pups,1,amp
-energy in repro buffer at the beginning of pregnancy,1,amp
-f for pregnant females 0154,1,amp
-f for pregnant females 0192,1,amp
-f for pregnant females 0203,1,amp
-f for pregnant females 0397,1,amp
-f for pregnant females 1085,1,amp
-foetus energy conductance,1,amp
-foetus max surf-spec assimilation rate,1,amp
-half-saturation coeff for the pup saturation curve,1,amp
-milk production efficiency of the mother,1,amp
-scaled functional response embryo data  ZaikDom2013,1,amp
-scaled functional response for tW data from BergChaz1976,1,amp
-scaled functional response for tW data from Mahm2013 FEMALES double lactation,1,amp
-scaled functional response for tW data from Mahm2013 FEMALES single lactation,1,amp
-scaled functional response for tW data from Mahm2013 MALES double lactation,1,amp
-scaled functional response for tW data from Mahm2013 MALES single lactation,1,amp
-scaled functional response for tW data from MasoShap1986 FEMALES,1,amp
-scaled functional response for tW data from MasoShap1986 MALES,1,amp
-shape coefficient crown-rump length,1,amp
-shape coefficient nose-tibia length,1,amp
-initial energy in reproduction buffer,1,amp
-initial structural length,1,amp
-sc. func. resp. GonzCarb2016,1,amp
-sc. func. resp. HaseKand2016,1,amp
-ssc. func. resp. TehHint1998,1,amp
-maturity at release,1,amp
-Arrhenius temperature at high boundary,1,amp
-Arrhenius temperature at low boundary,1,amp
-High boundary temperature,1,amp
-initial maturity in tL_Wils and tWd_Wils data,1,amp
-initial reprod buffer in tWd_Mann data,1,amp
-initial struct length in tL_Saur data,1,amp
-initial struct length in tL_Wils and tWd_Wils data,1,amp
-initial struct length in tWd_Mann data,1,amp
-Low boundary temperature,1,amp
-scaled function respons,1,amp
-scaled functional response for tL_adult1 data,1,amp
-scaled functional response for tL_Robe data,1,amp
-scaled functional response for tL_spat data,1,amp
-scaled functional response for tL_Wils and tWd_Wils data,1,amp
-scaled functional response for tWd_Laba data,1,amp
-scaled functional response for tWd_Mann data,1,amp
-silt half saturation constant,1,amp
-scaled functional response for Gonz2010,1,amp
-scaled functional response for KozaBuri2009 data,1,amp
-scaled functional response for oligotrophic lake in Finland,1,amp
-wet weight at time zero in tW data,1,amp
-scaled functional response for LN_N data,1,amp
-scaled functional response for tL_UK and LN_UK data,1,amp
-initial wet weigth in tWW data,1,amp
-scaled functional response for tL/tW data for females and males,1,amp
-scaled functional response for tL_A,1,amp
-scaled functional response for tL_B,1,amp
-scaled functional response for tW2,1,amp
-initial weight in tWw_f data,1,amp
-initial weight in tWw_m data,1,amp
-sc func res bay of brest,1,amp
-sc func res Celtic sea,1,amp
-sc func res Traena,1,amp
-scaled functional response between b and x,1,amp
-carbon density of structure,1,amp
-dry weight for TJO and TJN data,1,amp
-initial wet weight for tWwA data,1,amp
-initial wet weight for tWwB data,1,amp
-initial wet weight for tWwC data,1,amp
-nitrogen density of structure,1,amp
-scaled functional response for tWwA data,1,amp
-scaled functional response for tWwB data,1,amp
-scaled functional response for tWwC data,1,amp
-shape coefficient for bell diameter lappet to lappet,1,amp
-shape coefficient for bell diameter rhopalia to rhopalia,1,amp
-scaled functional response for f_tL data,1,amp
-scaled functional response for tL_f3 and tL_m3 data,1,amp
-scaled functional response for tL_f8 and tL_m8 data,1,amp
-weight at time 0,1,amp
-scaled functional response for tL in Guzhenkou Bay,1,amp
-scaled functional response for tL in Laoshan Bay,1,amp
-age at switch from zooplankton to fish,1,amp
-scaled functional response for tL data at site 1,1,amp
-scaled functional response for tL data at site 2,1,amp
-time at birth in tL,1,amp
-scaled functional response for tE data at 00 d,1,amp
-scaled functional response for tE data at 05 d,1,amp
-scaled functional response for tE data at 10 d,1,amp
-allocation fraction of milk (vs foetus),1,amp
-wet weight at t = 0,1,amp
-scaled functional response for Frost1943,1,amp
-scaled functional response for Hees1984,1,amp
-scaled functional response for Kill2014,1,amp
-scaled functional response for MillElor1985,1,amp
-scaled functional response for MuseBorg2002,1,amp
-scaled functional response for SchoSchw2000,1,amp
-shape coefficient fork length,1,amp
-shape coefficient standard length,1,amp
-scaled functional response for tW data at 350 d,1,amp
-length at zero,1,amp
-intitial structural length in tL,1,amp
-initial f for Soho,1,amp
-scaled functional response for Aerl2004,1,amp
-scaled functional response for BoroTaly2015,1,amp
-scaled functional response for ParrBala2017,1,amp
-scaled functional response for Soho,1,amp
-scaled functional response for u5 control,1,amp
-{F_mb},1,amp
-max spec ingestion rate,1,amp
-scaled functional response for S. Pouvreau in situ data,1,amp
-scaled functional response for tLC1 data,1,amp
-scaled functional response for tLC2 data,1,amp
-scaled functional response for tLC3 data,1,amp
-scaled functional response for tLC4 data,1,amp
-scaled functional response for WdJO1 data,1,amp
-shape coefficient for shell heigth,1,amp
-shape coefficient shell diamaeter,1,amp
-reference scaled functional response,1,amp
-scaled functional response for LdL,1,amp
-scaled functional response for tL_T datasets,1,amp
-shape coefficient adult,1,amp
-shape coefficient larva,1,amp
-scaled functional response for tWh data at 00 d,1,amp
-scaled functional response for tWh data at 10 d,1,amp
-scaled functional response for tWh data at 20 d,1,amp
-scaled functional response for tWh data at 30 d,1,amp
-scaled functional response for tWh data at 40 d,1,amp
-scaled functional response for tWh data at 50 d,1,amp
-scaled functional response for tWh data at 60 d,1,amp
-scaled functional response for tWl data at 00 d,1,amp
-scaled functional response for tWl data at 10 d,1,amp
-scaled functional response for tWl data at 20 d,1,amp
-scaled functional response for tWl data at 30 d,1,amp
-scaled functional response for tWl data at 40 d,1,amp
-scaled functional response for tWl data at 50 d,1,amp
-scaled functional response for tWl data at 60 d,1,amp
-scaled functional response for tWe_1978 data,1,amp
-scaled functional response for tWe_1979 data,1,amp
-time at start development for 1978 data,1,amp
-time at start development for 1979 data,1,amp
-reduction factor of structure and reserve mass at j,1,amp
-scaled functional response for tW/tL data,1,amp
-dry weight for TJO data,1,amp
-scaled functional response for tL data at 10 m deep in Newfoundland,1,amp
-scaled functional response for tL data at 31 m deep in Newfoundland,1,amp
-scaled functional response for tL data in the Gulf of Saint-Lawrence,1,amp
-scaled functional response for WJO data at 1 <U+FFFD>C,1,amp
-scaled functional response for WJO data at 10 <U+FFFD>C,1,amp
-scaled functional response for WJO data at 19 <U+FFFD>C,1,amp
-scaled functional response for WJO data at 3 <U+FFFD>C,1,amp
-scaled functional response for WJO data at 6 <U+FFFD>C,1,amp
-scaled functional response for WJO data at 8 <U+FFFD>C,1,amp
-scaled functional response for WJO data from GranCran1991,1,amp
-shape coefficient before metamorphosis,1,amp
-scaled functional response for tLT data,1,amp
-scaled functional response for LL and WW data,1,amp
-shape coefficient for diameter,1,amp
-shape coefficient for polar length,1,amp
-scaled functional response for tL_Ch data,1,amp
-scaled functional response for tL_It data,1,amp
-scaled functional response for tL_La data,1,amp
-shape coefficient for early juvenile,1,amp
-shape coefficient for embryo carapace length,1,amp
-shape coefficient for embryo crown-rump length,1,amp
-scaled functional response for food restriction,1,amp
-scaled functional response for Ursi1967 data,1,amp
-scaled functional response at high food,1,amp
-scaled functional response at low food,1,amp
-digestion efficiency of food to reserve at low food,1,amp
-digestion efficiency of food to reserve low food,1,amp
-maturity at fledge/weaning,1,amp
-period between broods,1,amp
-scaled functional response for tL_1200 data,1,amp
-scaled functional response for tL_Bri data,1,amp
-scaled functional response for tL_Cha data,1,amp
-scaled functional response for tL_Der data,1,amp
-scaled functional response for tL_Eig data,1,amp
-scaled functional response for tL_Fit data,1,amp
-scaled functional response for tL_Fli data,1,amp
-scaled functional response for tL_Mar data,1,amp
-scaled functional response for tL_Roe data,1,amp
-scaled functional response for tL_Rop data,1,amp
-scaled functional response for tL_Spr data,1,amp
-scaled functional response for tL and tWw and LWw data,1,amp
-time since Jan 1 at start development,1,amp
-scaled functional response for LWw_f data,1,amp
-initial length tL2,1,amp
-initial length tL3,1,amp
-zoom factor fro Amur subspecies,1,amp
-zoom factor for P.a.a.,1,amp
-Arrhenius temperature for high end of range,1,amp
-Arrhenius temperature for low end of range,1,amp
-scaled functional response for SeitVilp2005 data,1,amp
-scaled functional response for t-L data,1,amp
-scaled functional response for t-Ww data,1,amp
-shape coefficient at hatching,1,amp
-temperature for high end of range,1,amp
-temperature for low end of range,1,amp
-shape coefficient for foetus,1,amp
-scaled functional response for tW1 data at 65 d,1,amp
-scaled functional response for tW1 data at 99 d,1,amp
-scaled functional response for tW data at 200 d,1,amp
-scaled functional response for WW data,1,amp
-wet weight zt zero in tW and tW1 data,1,amp
-s_M,1,amp
-s_Megg,1,amp
-s_MO2,1,amp
-initial weight in tW data,1,amp
-initial weight in tW1 data,1,amp
-maturity at metam for females,1,amp
-zoom factor for gray males,1,amp
-zoom factor for yellow males,1,amp
-scaled functional response for tL_fA,1,amp
-scaled functional response for tL_fNZ,1,amp
-scaled functional response for tL_J data,1,amp
-scaled functional response for tL_SA data,1,amp
-scaled functional response for tL data at 25e3 d,1,amp
-scaled functional response for tL data till 1e3 d,1,amp
-scaled functional response for tW data at 105 d,1,amp
-initial length in tL1 data,1,amp
-time at strat development at T,1,amp
-temperature coefficient,1,amp
-scaled functional response for tW data at 075 d,1,amp
-scaled functional response for tW data at 065 d,1,amp
-scaled functional response for tW data at <5 d,1,amp
-standard length at t = 0,1,amp
-scaled functional response for Itenez basina,1,amp
-scaled functional response for Mamore basina,1,amp
-scaling exponent for LW data,1,amp
-total length at zero,1,amp
-digestion efficiency of 01,1,amp
-digestion efficiency of 03,1,amp
-digestion efficiency of 04,1,amp
-digestion efficiency of 05,1,amp
-digestion efficiency of 07,1,amp
-initial structural length of 01,1,amp
-initial structural length of 02,1,amp
-initial structural length of 03,1,amp
-initial structural length of 04,1,amp
-initial structural length of 05,1,amp
-initial structural length of 06,1,amp
-initial structural length of 07,1,amp
-initial structural length of 08,1,amp
-initial structural length of 13,1,amp
-scaled reserve density of 01,1,amp
-scaled reserve density of 02,1,amp
-scaled reserve density of 03,1,amp
-scaled reserve density of 04,1,amp
-scaled reserve density of 05,1,amp
-scaled reserve density of 06,1,amp
-scaled reserve density of 07,1,amp
-scaled reserve density of 08,1,amp
-scaled reserve density of 13,1,amp
-shape coefficient for frog,1,amp
-scaled functional response for tW100 data,1,amp
-scaled functional response for tW45 data,1,amp
-scaled functional response for tW75 data,1,amp
-energy conductance-embryos,1,amp
-f for males 0392 data,1,amp
-f for males 2598 data,1,amp
-f for pregnant females 0392,1,amp
-f for pregnant females 2598,1,amp
-fetus max surf-spec assimilation rate,1,amp
-max number of pups for upregulation,1,amp
-reproduction efficiency of the mother,1,amp
-scaled functional response for ctrl in Elli1980,1,amp
-scaled functional response for ctrl in Zhan2010,1,amp
-scaled functional response for deprivation group in Wood1996,1,amp
-scaled functional response for FR50 in Zhan2010,1,amp
-scaled functional response for length-weight data of DonaHata1911,1,amp
-scaled functional response for males in Baye2005,1,amp
-scaled functional response for pups,1,amp
-scaled functional response for time - length data of GhezCamb2012,1,amp
-scaled functional response for time - weight data of control female NO 41,1,amp
-scaled functional response for time - weight data of control female NO 44,1,amp
-scaled functional response for time - weight data of control female NO 46,1,amp
-scaled functional response for time - weight data of control female NO 47,1,amp
-scaled functional response for time - weight data of control female NO 49,1,amp
-scaled functional response for time - weight data of control female NO 50,1,amp
-scaled functional response for time - weight data of control females,1,amp
-scaled functional response for time - weight data of RoeLee1995 females,1,amp
-scaled functional response for univar data Angu1932; not used if embryo data calculated by dget_EVH_AF,1,amp
-scaled functional response for Wood1996,1,amp
-temperature acceleration coefficient,1,amp
-zoom factor for male toad,1,amp
-scaled functional response for tJO data,1,amp
-shape coefficient SVL,1,amp
-shape coefficient total length of tadpole,1,amp
-time since birth at start development,1,amp
-scaled functional response for tL data at 00 d,1,amp
-scaled functional response for tL data at 10 d,1,amp
-scaled functional response for tL data at 20 d,1,amp
-scaled functional response for tL data at 30 d,1,amp
-scaled functional response for tL data at 40 d,1,amp
-scaled functional response for 0-var data on yeast,1,amp
-scaled functional response for tW data on filter paper,1,amp
-bell diameter of ephedra neonate,1,amp
-maturity at strobulation,1,amp
-zoom factor for polyps,1,amp
-scaled functional response for tL and LW  data,1,amp
-time at birth in tL-data,1,amp
-defacation efficiency,1,amp
-digestion efficiency,1,amp
-maturity maintenance ratio,1,amp
-Weibull ageing acceleration,1,amp
-scaled functional response for tW data at 21 d,1,amp
-scaled functional response for tW data at 28 d,1,amp
-scaled functional response for tL_e data,1,amp
-scaled functional response for tL_w data,1,amp
-weight at t = 0,1,amp
-scaled functional response for tL_PR data,1,amp
-scaled functional response for tL_SB data,1,amp
-scaled functional response for tL_SR data,1,amp
-scaled functional response for tL_L data,1,amp
-scaled functional response for tL_O data,1,amp
-scaled functional response for tL_G data,1,amp
-scaled functional response for tL_t data,1,amp
-scaled functional response for tW data between b and x,1,amp
-scaled functional response for tW data between x and i,1,amp
-scaled functional response for experimental data,1,amp
-scaled functional response for in situ tL data,1,amp
-f_tL,1,amp
-Arrhenius Temperature,1,amp
-conversion factor for RMI,1,amp
-maturity ar birth,1,amp
-maturity maintenance rate coefficient,1,amp
-scaled functional response for tW data at 6 d,1,amp
-temperature at lower boundary,1,amp
-temperature at upper boundary,1,amp
-time since birth at start experiment,1,amp
-initial length for tL1 data,1,amp
-time since metam at zero,1,amp
-scaled functional response for hand reared pups,1,amp
-scaled functional response for maternally reared pups,1,amp
-scaled functional response for WO data,1,amp
-start of development,1,amp
-maturity at puberty of males,1,amp
-sc. funct. res.  Wagn1990,1,amp
-shape coefficient for head-capsule width,1,amp
-scaled functional response for tL and LN data,1,amp
-scaled functional response for 0-var data from the field,1,amp
-scaled functional response for Manchado pers.comm. (aquaculture) data,1,amp
-scaled functional response for PA exp data,1,amp
-scaled functional response for ParrYufe2001 data,1,amp
-scaled functional response for RibeEngr2017 data,1,amp
-scaled functional response for tWd_f1 data,1,amp
-scaled functional response for tWd_f2 data,1,amp
-scaled functional response for tWd_f3 data,1,amp
-scaled functional response for tWd_f4 data,1,amp
-scaled functional response for YufeParr1999 data,1,amp
-shape coefficient after metamorphosis,1,amp
-E_Hh,1,amp
-f for Day (larvae),1,amp
-f for Fonds 1979 (larvae),1,amp
-f for Fonds1977 (ingestion),1,amp
-f for Galois (larvae),1,amp
-f for Lund (larvae),1,amp
-f_ad_lib,1,amp
-f_Deniel & Devauchelle,1,amp
-scaled functional response for LN data WittGree1995,1,amp
-scaled functional response for tL data Teal2011,1,amp
-scaled functional response for tW6 data,1,amp
-amplitude of scaled functional response for tW data,1,amp
-mean scaled functional response for tW data,1,amp
-scaled functional response for tW data at 370 d,1,amp
-structural length at start of experiment,1,amp
-Arrhenius temperature for 1st instar,1,amp
-Arrhenius temperature for larval mortality,1,amp
-background hazard during larval stage,1,amp
-length at t = 0 in tL_1995/6 data,1,amp
-shape coefficient for total length at hatch/birth,1,amp
-scaled functional response for tL data at 0000 d,1,amp
-scaled functional response for tL data at 1000 d,1,amp
-scaled functional response for tL data at 1500 d,1,amp
-scaled functional response for tL data at 2000 d,1,amp
-scaled functional response for tL data at 2600 d,1,amp
-scaled functional response for tW data at 14000 d,1,amp
-scaled functional response for tW data at 6000 d,1,amp
-scaled functional response for tL_f0 data,1,amp
-scaled functional response for tL_fa data,1,amp
-shape coefficient for embryos,1,amp
-shape coefficient pluteus,1,amp
-weight at start experiment,1,amp
-diameter at start experiment,1,amp
-structural length at time 0,1,amp
-time at start develpment,1,amp
-scaled functional response for tL data at 090 d,1,amp
-scaled functional response for tL data at 800 d,1,amp
-scaled functional response for tL data at 999 d,1,amp
-shape coefficient of neonate,1,amp
-initial weight for starvation experiment,1,amp
-scaled functional response for 0-var and tWe data,1,amp
-shape coefficient for tL data,1,amp
-Arrhenius temperature at lower  boundary,1,amp
-conversion length: L_w = L_s^2/ L_M,1,amp
-physical length at start experiment in tL_1 and tL_2 data,1,amp
-physical length at start experiment in tL_4 data,1,amp
-shape coeff to convert L^3 = del_M*L_d^2*L_w,1,amp
-shape coeff to convert L_d = del_s*L_s,1,amp
-shape coefficient of early juvenile,1,amp
-shape coefficient of larva,1,amp
-scaled functional response for tL data for >4000 d,1,amp
-digestion efficiency of food to reserve at high supply,1,amp
-digestion efficiency of food to reserve at low supply,1,amp
-reference for structural length for digestion efficiency,1,amp
-scaled functional response for tW data at <15 d,1,amp
-scaled functional response for tW data at >15 d,1,amp
-scaled functional response for tW0 data at >15 1d,1,amp
-scaled functional response for f_JX,1,amp
-scaled functional response for f_LdL,1,amp
-scaled functional response for f_LF,1,amp
-scaled functional response for f_LN,1,amp
-scaled functional response for LW1 data,1,amp
-scaled functional response for Tah data,1,amp
-scaled functional response for tL_Indals,1,amp
-scaled functional response for tL_Llyn,1,amp
-scaled functional response for tL_Storsjo,1,amp
-scaled functional response for tL_Test,1,amp
-scaled functional response for tL_Anyui,1,amp
-scaled functional response for tL_Limuri,1,amp
-scaled functional response for tW data at 17 d,1,amp
-scaled functional response for tWN data,1,amp
-shape coefficient for embryo/neonate,1,amp
-maturity at puberty for malesE,1,amp
-scaled functional response for tL_7 data,1,amp
-shape coefficient for carinal length,1,amp
-mean scaled functional response for tL_N data,1,amp
-mean scaled functional response for tL_S data,1,amp
-mean temp in North Sea,1,amp
-mean temp in Skagerak,1,amp
-temp-food coupler in tL_N data,1,amp
-temp-food coupler in tL_S data,1,amp
-temp amplitude in North Sea,1,amp
-temp amplitude in Skagerak,1,amp
-time offset for temp oscillations,1,amp
-scaled functional response for tL_a data,1,amp
-time at start development at T given v_e,1,amp
-energy conductance of embryo,1,amp
-time delay for T(t) in tL data,1,amp
-scaled functional response for FBL data,1,amp
-scaled functional response for LMO data,1,amp
-maturity at hatch for male,1,amp
-scaled functional response for tL_Co data,1,amp
-scaled functional response for tL_Ge data,1,amp
-scaled functional response for tL_Ma data,1,amp
-scaled functional response for tL_Mu data,1,amp
-maturity at pre-birth (when embryo starts absorbation),1,amp
-reproduction buffer turnover of imago,1,amp
-scaled functional response for tLI data,1,amp
-scaled functional response for tLK data,1,amp
-scaled functional response for tLN data,1,amp
-scaled functional response for tLP data,1,amp
-ratio of shape coefficient for total length and SVL,1,amp
-scaled functional response for tL0 and tW0 data,1,amp
-time at birth in tL and tW data,1,amp
-time since bith at 0 in tL and tWw data,1,amp
-scaled functional response for tadpole data,1,amp
-scaled functional response for tadpole data set 1,1,amp
-scaled functional response for tadpole data set 2,1,amp
-scaled functional response for tadpole data set 3,1,amp
-scaled functional response for tadpole data set 4,1,amp
-scaled functional response for tadpole data set 5,1,amp
-scaled functional response for tadpole data set 6,1,amp
-shape coefficient for SVL length for tadpole,1,amp
-shape coefficient juvenile/adulte,1,amp
-total length at zero for tL data,1,amp
-scaled functional response at Beagle bed,1,amp
-scaled functional response at Urugay bed,1,amp
-Ter,1,https://opentraits.org/datasets/amphi-bio
-Aqu,1,https://opentraits.org/datasets/amphi-bio
-Arb,1,https://opentraits.org/datasets/amphi-bio
-Noc,1,https://opentraits.org/datasets/amphi-bio
-Body_size_mm,1,https://opentraits.org/datasets/amphi-bio
-Litter_size_min_n,1,https://opentraits.org/datasets/amphi-bio
-Litter_size_max_n,1,https://opentraits.org/datasets/amphi-bio
-Reproductive_output_y,1,https://opentraits.org/datasets/amphi-bio
-Offspring_size_min_mm,1,https://opentraits.org/datasets/amphi-bio
-Offspring_size_max_mm,1,https://opentraits.org/datasets/amphi-bio
-Dir,1,https://opentraits.org/datasets/amphi-bio
-Lar,1,https://opentraits.org/datasets/amphi-bio
-Viv,1,https://opentraits.org/datasets/amphi-bio
-Arthro,1,https://opentraits.org/datasets/amphi-bio
-Diu,1,https://opentraits.org/datasets/amphi-bio
-Wet_cold,1,https://opentraits.org/datasets/amphi-bio
-Body_mass_g,1,https://opentraits.org/datasets/amphi-bio
-Longevity_max_y,1,https://opentraits.org/datasets/amphi-bio
-Age_at_maturity_min_y,1,https://opentraits.org/datasets/amphi-bio
-Age_at_maturity_max_y,1,https://opentraits.org/datasets/amphi-bio
-Size_at_maturity_min_mm,1,https://opentraits.org/datasets/amphi-bio
-Size_at_maturity_max_mm,1,https://opentraits.org/datasets/amphi-bio
-Crepu,1,https://opentraits.org/datasets/amphi-bio
-Wet_warm,1,https://opentraits.org/datasets/amphi-bio
-Dry_warm,1,https://opentraits.org/datasets/amphi-bio
-Fos,1,https://opentraits.org/datasets/amphi-bio
-Vert,1,https://opentraits.org/datasets/amphi-bio
-Dry_cold,1,https://opentraits.org/datasets/amphi-bio
-Fruits,1,https://opentraits.org/datasets/amphi-bio
-Leaves,1,https://opentraits.org/datasets/amphi-bio
-Flowers,1,https://opentraits.org/datasets/amphi-bio
-Seeds,1,https://opentraits.org/datasets/amphi-bio
-Body_Size,1,https://opentraits.org/datasets/arthropod-species-traits
-Dispersal_ability,1,https://opentraits.org/datasets/arthropod-species-traits
-Feeding_guild,1,https://opentraits.org/datasets/arthropod-species-traits
-Feeding_guild_short,1,https://opentraits.org/datasets/arthropod-species-traits
-Feeding_mode,1,https://opentraits.org/datasets/arthropod-species-traits
-Feeding_specialization,1,https://opentraits.org/datasets/arthropod-species-traits
-Feeding_tissue,1,https://opentraits.org/datasets/arthropod-species-traits
-Stratum_use,1,https://opentraits.org/datasets/arthropod-species-traits
-Stratum_use_short,1,https://opentraits.org/datasets/arthropod-species-traits
-Feeding_plant_part,1,https://opentraits.org/datasets/arthropod-species-traits
-Endophagous_lifestyle,1,https://opentraits.org/datasets/arthropod-species-traits
-X100_Body_mass_min_8,1,https://opentraits.org/datasets/australian-birds
-X101_Body_mass_max_8,1,https://opentraits.org/datasets/australian-birds
-X102_Male_body_mass_average_8,1,https://opentraits.org/datasets/australian-birds
-X103_Male_body_mass_min_8,1,https://opentraits.org/datasets/australian-birds
-X104_Male_body_mass_max_8,1,https://opentraits.org/datasets/australian-birds
-X105_Female_body_mass_average_8,1,https://opentraits.org/datasets/australian-birds
-X106_Female_body_mass_min_8,1,https://opentraits.org/datasets/australian-birds
-X107_Female_body_mass_max_8,1,https://opentraits.org/datasets/australian-birds
-X108_Unsexed_body_mass_average_8,1,https://opentraits.org/datasets/australian-birds
-X109_Unsexed_body_mass_min_8,1,https://opentraits.org/datasets/australian-birds
-X110_Unsexed_body_mass_max_8,1,https://opentraits.org/datasets/australian-birds
-X112_Brain_volume_8,1,https://opentraits.org/datasets/australian-birds
-X113_Brain_mass_8,1,https://opentraits.org/datasets/australian-birds
-X114_Brain_mass_residual_8,1,https://opentraits.org/datasets/australian-birds
-X115_Feeding_habitat_Terrestrial_Arid_shrubland_9,1,https://opentraits.org/datasets/australian-birds
-X116_Feeding_habitat_Terrestrial_Chenopod_shrubland_9,1,https://opentraits.org/datasets/australian-birds
-X117_Feeding_habitat_Terrestrial_Heath_9,1,https://opentraits.org/datasets/australian-birds
-X118_Feeding_habitat_Terrestrial_Triodia_hummock_grassland_9,1,https://opentraits.org/datasets/australian-birds
-X119_Feeding_habitat_Terrestrial_Other_grassland_9,1,https://opentraits.org/datasets/australian-birds
-X120_Feeding_habitat_Terrestrial_Mallee_9,1,https://opentraits.org/datasets/australian-birds
-X121_Feeding_habitat_Terrestrial_Tropical_savanna_woodland_9,1,https://opentraits.org/datasets/australian-birds
-X122_Feeding_habitat_Terrestrial_Temperate_dry_sclerophyll_forest_and_woodland_9,1,https://opentraits.org/datasets/australian-birds
-X123_Feeding_habitat_Terrestrial_Temperate_wet_sclerophyll_forest_and_woodland_9,1,https://opentraits.org/datasets/australian-birds
-X124_Feeding_habitat_Terrestrial_Rainforest_9,1,https://opentraits.org/datasets/australian-birds
-X125_Feeding_habitat_Terrestrial_Mangrove_trees_9,1,https://opentraits.org/datasets/australian-birds
-X126_Feeding_habitat_Inland_waters_Rivers_and_streams_9,1,https://opentraits.org/datasets/australian-birds
-X127_Feeding_habitat_Inland_waters_Deep_open_water_9,1,https://opentraits.org/datasets/australian-birds
-X128_Feeding_habitat_Inland_waters_Shallow_open_water_9,1,https://opentraits.org/datasets/australian-birds
-X129_Feeding_habitat_Inland_waters_Reeds_and_tall_wet_grassland_9,1,https://opentraits.org/datasets/australian-birds
-X130_Feeding_habitat_Inland_waters_Low_marshland_and_wet_grassland_9,1,https://opentraits.org/datasets/australian-birds
-X131_Feeding_habitat_Coastal_Sandy_9,1,https://opentraits.org/datasets/australian-birds
-X132_Feeding_habitat_Coastal_Rocky_9,1,https://opentraits.org/datasets/australian-birds
-X133_Feeding_habitat_Coastal_Soft_mud_9,1,https://opentraits.org/datasets/australian-birds
-X134_Feeding_habitat_Coastal_Saltmarsh_9,1,https://opentraits.org/datasets/australian-birds
-X135_Feeding_habitat_Coastal_Mangrove_floor_9,1,https://opentraits.org/datasets/australian-birds
-X136_Feeding_habitat_Marine_Very_cold_pelagic_9,1,https://opentraits.org/datasets/australian-birds
-X137_Feeding_habitat_Marine_Cold_pelagic_9,1,https://opentraits.org/datasets/australian-birds
-X138_Feeding_habitat_Marine_Temperate_pelagic_9,1,https://opentraits.org/datasets/australian-birds
-X139_Feeding_habitat_Marine_Warm_pelagic_9,1,https://opentraits.org/datasets/australian-birds
-X140_Feeding_habitat_Marine_Cold_inshore_9,1,https://opentraits.org/datasets/australian-birds
-X141_Feeding_habitat_Marine_Temperate_inshore_9,1,https://opentraits.org/datasets/australian-birds
-X142_Feeding_habitat_Marine_Warm_inshore_9,1,https://opentraits.org/datasets/australian-birds
-X143_Feeding_habitat_Other_non.Australian_habitat_9,1,https://opentraits.org/datasets/australian-birds
-X144_Feeding_habitat_Agricultural_landscapes_9,1,https://opentraits.org/datasets/australian-birds
-X145_Feeding_habitat_Urban_landscapes_9,1,https://opentraits.org/datasets/australian-birds
-X146_Breeding_habitat_Arid_shrubland_9,1,https://opentraits.org/datasets/australian-birds
-X147_Breeding_habitat_Chenopod_shrubland_9,1,https://opentraits.org/datasets/australian-birds
-X148_Breeding_habitat_Heath_9,1,https://opentraits.org/datasets/australian-birds
-X149_Breeding_habitat_Triodia_hummock_grassland_9,1,https://opentraits.org/datasets/australian-birds
-X150_Breeding_habitat_Other_grassland_9,1,https://opentraits.org/datasets/australian-birds
-X151_Breeding_habitat_Mallee_9,1,https://opentraits.org/datasets/australian-birds
-X152_Breeding_habitat_Tropical_savanna_woodland_9,1,https://opentraits.org/datasets/australian-birds
-X153_Breeding_habitat_Temperate_dry_sclerophyll_forest_and_woodland_9,1,https://opentraits.org/datasets/australian-birds
-X154_Breeding_habitat_Temperate_wet_sclerophyll_forest_and_woodland_9,1,https://opentraits.org/datasets/australian-birds
-X155_Breeding_habitat_Rainforest_9,1,https://opentraits.org/datasets/australian-birds
-X156_Breeding_habitat_Mangrove_9,1,https://opentraits.org/datasets/australian-birds
-X157_Breeding_habitat_inland_wetland_9,1,https://opentraits.org/datasets/australian-birds
-X158_Breeding_habitat_Beaches_and_sand_cays_9,1,https://opentraits.org/datasets/australian-birds
-X159_Breeding_habitat_Rocky_coasts_and_islets_9,1,https://opentraits.org/datasets/australian-birds
-X160_Breeding_habitat_Other_non.Australian_habitats_9,1,https://opentraits.org/datasets/australian-birds
-X161_Breeding_habitat_Agricultural_lands_9,1,https://opentraits.org/datasets/australian-birds
-X162_Breeding_habitat_Urban_9,1,https://opentraits.org/datasets/australian-birds
-X163_Food_Fruit_10,1,https://opentraits.org/datasets/australian-birds
-X164_Food_Nectar_or_pollen_10,1,https://opentraits.org/datasets/australian-birds
-X165_Food_Seeds_10,1,https://opentraits.org/datasets/australian-birds
-X166_Food_Foliage_or_herbs_10,1,https://opentraits.org/datasets/australian-birds
-X167_Food_Corms_or_tubers,1,https://opentraits.org/datasets/australian-birds
-X168_Food_Terrestrial_invertebrates_10,1,https://opentraits.org/datasets/australian-birds
-X169_Food_Terrestrial_vertebrates_10,1,https://opentraits.org/datasets/australian-birds
-X170_Food_Carrion_10,1,https://opentraits.org/datasets/australian-birds
-X171_Food_Intertidal_invertebrates_10,1,https://opentraits.org/datasets/australian-birds
-X172_Food_Fish_or_invertebrates_Marine_10,1,https://opentraits.org/datasets/australian-birds
-X173_Food_fish_or_invertebrates_Inland_waters_10,1,https://opentraits.org/datasets/australian-birds
-X174_Feeding_aggregation_Solitary_11,1,https://opentraits.org/datasets/australian-birds
-X175_Feeding_aggregation_Pairs_11,1,https://opentraits.org/datasets/australian-birds
-X176_Feeding_aggregation_Flocks_11,1,https://opentraits.org/datasets/australian-birds
-X177_Mean_Flight_Initiation_Distance_11,1,https://opentraits.org/datasets/australian-birds
-X178_Clutch_size_average_12,1,https://opentraits.org/datasets/australian-birds
-X179_Clutch_size_min_12,1,https://opentraits.org/datasets/australian-birds
-X180_Clutch_size_max_12,1,https://opentraits.org/datasets/australian-birds
-X181_Egg_length_12,1,https://opentraits.org/datasets/australian-birds
-X182_Egg_diameter_12,1,https://opentraits.org/datasets/australian-birds
-X183_Nest_location_Ground_level_12,1,https://opentraits.org/datasets/australian-birds
-X184_Nest_location_Supported_12,1,https://opentraits.org/datasets/australian-birds
-X185_Nest_location_Hanging_12,1,https://opentraits.org/datasets/australian-birds
-X186_Nest_location_Burrow_12,1,https://opentraits.org/datasets/australian-birds
-X187_Nest_location_Hollow_12,1,https://opentraits.org/datasets/australian-birds
-X188_Nest_location_Floating_12,1,https://opentraits.org/datasets/australian-birds
-X189_Nest_aggregation_Solitary_12,1,https://opentraits.org/datasets/australian-birds
-X190_Nest_aggregation_Colonial_12,1,https://opentraits.org/datasets/australian-birds
-X191_Nest_aggregation_Parasitic_12,1,https://opentraits.org/datasets/australian-birds
-X192_Breeding_system_Cooperative_12,1,https://opentraits.org/datasets/australian-birds
-X96_Body_length_8,1,https://opentraits.org/datasets/australian-birds
-X97_Body_length_min_8,1,https://opentraits.org/datasets/australian-birds
-X98_Body_length_max_8,1,https://opentraits.org/datasets/australian-birds
-X99_Body_mass_average_8,1,https://opentraits.org/datasets/australian-birds
-HWI,1,https://opentraits.org/datasets/avianhwi
-Body.mass..log.,1,https://opentraits.org/datasets/avianhwi
-Range.Size,1,https://opentraits.org/datasets/avianhwi
-Migration.1,1,https://opentraits.org/datasets/avianhwi
-Migration.3,1,https://opentraits.org/datasets/avianhwi
-Territoriality,1,https://opentraits.org/datasets/avianhwi
-Diet,1,https://opentraits.org/datasets/avianhwi
-Wing.Length,1,https://opentraits.org/datasets/avonet
-Beak.Length_Culmen,1,https://opentraits.org/datasets/avonet
-Tarsus.Length,1,https://opentraits.org/datasets/avonet
-Tail.Length,1,https://opentraits.org/datasets/avonet
-Beak.Depth,1,https://opentraits.org/datasets/avonet
-Kipps.Distance,1,https://opentraits.org/datasets/avonet
-Secondary1,1,https://opentraits.org/datasets/avonet
-Hand.wing.Index,1,https://opentraits.org/datasets/avonet
-Beak.Width,1,https://opentraits.org/datasets/avonet
-Beak.Length_Nares,1,https://opentraits.org/datasets/avonet
-Tmax,1,https://opentraits.org/datasets/bennett-2018
-tmin,1,https://opentraits.org/datasets/bennett-2018
-capsule_peris,1,https://opentraits.org/datasets/bernhardt-2018
-capsule_pos,1,https://opentraits.org/datasets/bernhardt-2018
-dist_gamet,1,https://opentraits.org/datasets/bernhardt-2018
-dist_gamet2,1,https://opentraits.org/datasets/bernhardt-2018
-dominants,1,https://opentraits.org/datasets/bernhardt-2018
-forest,1,https://opentraits.org/datasets/bernhardt-2018
-fruit_freq,1,https://opentraits.org/datasets/bernhardt-2018
-fruit_seas,1,https://opentraits.org/datasets/bernhardt-2018
-growth_form,1,https://opentraits.org/datasets/bernhardt-2018
-hemeroby,1,https://opentraits.org/datasets/bernhardt-2018
-hyalin_hairp,1,https://opentraits.org/datasets/bernhardt-2018
-ind_F,1,https://opentraits.org/datasets/bernhardt-2018
-ind_K,1,https://opentraits.org/datasets/bernhardt-2018
-ind_L,1,https://opentraits.org/datasets/bernhardt-2018
-ind_N,1,https://opentraits.org/datasets/bernhardt-2018
-ind_R,1,https://opentraits.org/datasets/bernhardt-2018
-ind_T,1,https://opentraits.org/datasets/bernhardt-2018
-life_form,1,https://opentraits.org/datasets/bernhardt-2018
-life_strat,1,https://opentraits.org/datasets/bernhardt-2018
-ornament,1,https://opentraits.org/datasets/bernhardt-2018
-protonema,1,https://opentraits.org/datasets/bernhardt-2018
-seta_length,1,https://opentraits.org/datasets/bernhardt-2018
-shoot_length,1,https://opentraits.org/datasets/bernhardt-2018
-spores,1,https://opentraits.org/datasets/bernhardt-2018
-stems,1,https://opentraits.org/datasets/bernhardt-2018
-sub_bark,1,https://opentraits.org/datasets/bernhardt-2018
-sub_rock,1,https://opentraits.org/datasets/bernhardt-2018
-sub_soil,1,https://opentraits.org/datasets/bernhardt-2018
-sub_wood,1,https://opentraits.org/datasets/bernhardt-2018
-veg_bran,1,https://opentraits.org/datasets/bernhardt-2018
-veg_bulb,1,https://opentraits.org/datasets/bernhardt-2018
-veg_gem,1,https://opentraits.org/datasets/bernhardt-2018
-veg_leav,1,https://opentraits.org/datasets/bernhardt-2018
-veg_tub,1,https://opentraits.org/datasets/bernhardt-2018
-life_strat2,1,https://opentraits.org/datasets/bernhardt-2018
-fine root carbon to leaf carbon allocation,1,https://opentraits.org/datasets/betydb
-Above ground fraction of structural biomass,1,https://opentraits.org/datasets/betydb
-rate of leaf loss,1,https://opentraits.org/datasets/betydb
-Leaf Percent Nitrogen,1,https://opentraits.org/datasets/betydb
-rate of fine root respiration at reference soil temperature,1,https://opentraits.org/datasets/betydb
-Rd; leaf dark respiration,1,https://opentraits.org/datasets/betydb
-Specific Leaf Area,1,https://opentraits.org/datasets/betydb
-maximum rate of electron transport,1,https://opentraits.org/datasets/betydb
-maximum rubisco carboxylation capacity,1,https://opentraits.org/datasets/betydb
-fine root biomass,1,https://opentraits.org/datasets/betydb
-percent N in belowground live tissue,1,https://opentraits.org/datasets/betydb
-annual aboveground yield,1,https://opentraits.org/datasets/betydb
-diameter at breast height,1,https://opentraits.org/datasets/betydb
-Ball-Berry Model,1,https://opentraits.org/datasets/betydb
-C:N ratio in leaves,1,https://opentraits.org/datasets/betydb
-Leaf Biomass,1,https://opentraits.org/datasets/betydb
-Leaf Percent C,1,https://opentraits.org/datasets/betydb
-Leaf Width,1,https://opentraits.org/datasets/betydb
-light and CO2 saturated maximum photosynthetic rate,1,https://opentraits.org/datasets/betydb
-root biomass of an individual plant,1,https://opentraits.org/datasets/betydb
-surface CO2 efflux,1,https://opentraits.org/datasets/betydb
-Total biomass,1,https://opentraits.org/datasets/betydb
-Total root biomass (all root sizes),1,https://opentraits.org/datasets/betydb
-Total root respiration (all size classes),1,https://opentraits.org/datasets/betydb
-triose phosphate utilization,1,https://opentraits.org/datasets/betydb
-Biomass of leaves per area ground,1,https://opentraits.org/datasets/betydb
-foliar calcium concentration,1,https://opentraits.org/datasets/betydb
-foliar K concentration,1,https://opentraits.org/datasets/betydb
-foliar magnesium concentraion,1,https://opentraits.org/datasets/betydb
-foliar P concentration,1,https://opentraits.org/datasets/betydb
-Intact Roots,1,https://opentraits.org/datasets/betydb
-nitrogen in stem,1,https://opentraits.org/datasets/betydb
-Nitrogen uptake rater per unit dry mass per unit time,1,https://opentraits.org/datasets/betydb
-percent N in senesced leaves,1,https://opentraits.org/datasets/betydb
-rate of stem respiration at reference temperature,1,https://opentraits.org/datasets/betydb
-see Farqhuar model,1,https://opentraits.org/datasets/betydb
-Fraction of storage to seed reproduction,1,https://opentraits.org/datasets/betydb
-Irradiance (photosynthetic photon flux density),1,https://opentraits.org/datasets/betydb
-dry weight of aerial biomass,1,https://opentraits.org/datasets/betydb
-fiber yield,1,https://opentraits.org/datasets/betydb
-total dry biomass per plant,1,https://opentraits.org/datasets/betydb
-leaf length,1,https://opentraits.org/datasets/betydb
-aboveground NPP (C),1,https://opentraits.org/datasets/betydb
-fraction of total biomass in roots (by dry weight),1,https://opentraits.org/datasets/betydb
-leaf mass per area leaf (kg leaf / m2 leaf),1,https://opentraits.org/datasets/betydb
-Stem biomass,1,https://opentraits.org/datasets/betydb
-Biomass of flower,1,https://opentraits.org/datasets/betydb
-belowground root biomass,1,https://opentraits.org/datasets/betydb
-Biomass of living parts of plant (stem+Leaves),1,https://opentraits.org/datasets/betydb
-Leaf Area,1,https://opentraits.org/datasets/betydb
-percent N in flower,1,https://opentraits.org/datasets/betydb
+UNCATEGORIZED_TRAIT,22,"https://opentraits.org/datasets/amp |  https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/arthropod-species-traits |  https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/australian-birds |  https://opentraits.org/datasets/avianhwi |  https://opentraits.org/datasets/avonet |  https://opentraits.org/datasets/bennett-2018 |  https://opentraits.org/datasets/bernhardt-2018 |  https://opentraits.org/datasets/betydb |  https://opentraits.org/datasets/beukhof-2019 |  
+https://opentraits.org/datasets/bien |  https://opentraits.org/datasets/bland-2017 |  https://opentraits.org/datasets/brot |  https://opentraits.org/datasets/catching-crabs |  https://opentraits.org/datasets/columbian-anurans |  https://opentraits.org/datasets/compadre |  https://opentraits.org/datasets/coral-traits |  https://opentraits.org/datasets/jeppsson-2014 |  https://opentraits.org/datasets/passerine-morphology |  https://opentraits.org/datasets/sohlstrom-2018 |  https://opentraits.org/datasets/try
+"
+{p_Am},1,https://opentraits.org/datasets/amp
+Reproduction,8,https://opentraits.org/datasets/amp |  https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/betydb |  https://opentraits.org/datasets/bien |  https://opentraits.org/datasets/catching-crabs |  https://opentraits.org/datasets/columbian-anurans |  https://opentraits.org/datasets/try
+Morphology,9,https://opentraits.org/datasets/amp |  https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/australian-birds |  https://opentraits.org/datasets/avonet |  https://opentraits.org/datasets/bernhardt-2018 |  https://opentraits.org/datasets/beukhof-2019 |  https://opentraits.org/datasets/bien |  https://opentraits.org/datasets/chinaroots |  https://opentraits.org/datasets/try
+Physiology,5,https://opentraits.org/datasets/amp |  https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/betydb |  https://opentraits.org/datasets/bien |  https://opentraits.org/datasets/try
+Phenology? and/or Reproduction/Life cycle?,1,https://opentraits.org/datasets/amp
+scaled functional response for OB  data,1,https://opentraits.org/datasets/amp
+scaled functional response for SO  data,1,https://opentraits.org/datasets/amp
+scaled functional response for f_tL,1,https://opentraits.org/datasets/amp
+scaled functional response for Otocac,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_16,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_22,1,https://opentraits.org/datasets/amp
+maturity at puberty from  males,1,https://opentraits.org/datasets/amp
+Arrhenius temperature  at upper boundary,1,https://opentraits.org/datasets/amp
+sc. func. res. HopGrah1995,1,https://opentraits.org/datasets/amp
+initial length  for tL and tWw data,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_20,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_25,1,https://opentraits.org/datasets/amp
+shape coefficient for straight  carapace length,1,https://opentraits.org/datasets/amp
+conversion efficiency from larval reserve to larval structure,1,https://opentraits.org/datasets/amp
+sc. funct. res.  0.1 mg tetramin per ind,1,https://opentraits.org/datasets/amp
+sc. funct. res.  0.2 mg tetramin per ind,1,https://opentraits.org/datasets/amp
+sc. funct. res.  0.3 mg tetramin per ind,1,https://opentraits.org/datasets/amp
+sc. funct. res.  0.4 mg tetramin per ind,1,https://opentraits.org/datasets/amp
+initial length tL (gaia2016,1,https://opentraits.org/datasets/amp
+initial length tL_c (gaia2016,1,https://opentraits.org/datasets/amp
+initial length tL_w (gaia2016,1,https://opentraits.org/datasets/amp
+lower boundary  temperature,1,https://opentraits.org/datasets/amp
+scaled functional response for tL data (gaia2016 semifield winter,1,https://opentraits.org/datasets/amp
+rate of egg production,1,https://opentraits.org/datasets/amp
+scaled func res,1,https://opentraits.org/datasets/amp
+scaled functional response for tW_a data,1,https://opentraits.org/datasets/amp
+scaled functional response for tW_u data,1,https://opentraits.org/datasets/amp
+initial energy in the repro buffer,1,https://opentraits.org/datasets/amp
+sc. func. resp.,1,https://opentraits.org/datasets/amp
+increase in filtration rate at low food density,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_f,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_SK1,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_SK2,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_SK3,1,https://opentraits.org/datasets/amp
+Interaction,7,https://opentraits.org/datasets/amp |  https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/arthropod-species-traits |  https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/australian-birds |  https://opentraits.org/datasets/beukhof-2019 |  https://opentraits.org/datasets/try
+Reproduction? and/or Phenology?,1,https://opentraits.org/datasets/amp
+scaled functional response for tL  data,1,https://opentraits.org/datasets/amp
+scaled functional response for tW,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_f1,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_f2,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_f3,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_T*,1,https://opentraits.org/datasets/amp
+scaled functional response for tW  data,1,https://opentraits.org/datasets/amp
+initial  length for tL2 data,1,https://opentraits.org/datasets/amp
+initial  length for tL3 data,1,https://opentraits.org/datasets/amp
+initial  length for tL4 data,1,https://opentraits.org/datasets/amp
+initial  length for tL5 data,1,https://opentraits.org/datasets/amp
+initial  length for tL6 data,1,https://opentraits.org/datasets/amp
+initial  length for tL7 data,1,https://opentraits.org/datasets/amp
+scaled functional response for tW_f,1,https://opentraits.org/datasets/amp
+scaled functional response for tW  data at 17 d,1,https://opentraits.org/datasets/amp
+scaled functional response for tW  data from 0-8 d,1,https://opentraits.org/datasets/amp
+scaled functional response for tW3 data  from 0-6 d,1,https://opentraits.org/datasets/amp
+Morphology/Body size?,1,https://opentraits.org/datasets/amp
+Arrhenius temperature  at high temp boundary,1,https://opentraits.org/datasets/amp
+Arrhenius temperature  at low temp boundary,1,https://opentraits.org/datasets/amp
+Morphology? and/or Morphology/Body size?,1,https://opentraits.org/datasets/amp
+maturity at  for males,1,https://opentraits.org/datasets/amp
+scaled functional response for tL  data at t=0,1,https://opentraits.org/datasets/amp
+scaled functional response for tL  data at t=1000,1,https://opentraits.org/datasets/amp
+scaled functional response for tL data  at t=2000 d,1,https://opentraits.org/datasets/amp
+radius at time 0 in tL,1,https://opentraits.org/datasets/amp
+scaled functional response for dWd,1,https://opentraits.org/datasets/amp
+initial structural length in tL_100,1,https://opentraits.org/datasets/amp
+maturity at puberty for  males,1,https://opentraits.org/datasets/amp
+scaled functional response for tL3,1,https://opentraits.org/datasets/amp
+scaled functional response for tL4,1,https://opentraits.org/datasets/amp
+scaled functional response for tL5,1,https://opentraits.org/datasets/amp
+scaled functional response for tL6,1,https://opentraits.org/datasets/amp
+scaled functional response for tL7,1,https://opentraits.org/datasets/amp
+zoom  for males,1,https://opentraits.org/datasets/amp
+scaled functional response for Shabica,1,https://opentraits.org/datasets/amp
+scaled functional response for 1-var data birth onwards,1,https://opentraits.org/datasets/amp
+scaled functional response for Tah,1,https://opentraits.org/datasets/amp
+scld. fctl. res.  DaviKenn2014 (first part of experiment),1,https://opentraits.org/datasets/amp
+scld. fctl. res.  DaviKenn2014 (second part of experiment),1,https://opentraits.org/datasets/amp
+zoom factor  for males,1,https://opentraits.org/datasets/amp
+determines energy allocation to pups,1,https://opentraits.org/datasets/amp
+milk production efficiency of the mother,1,https://opentraits.org/datasets/amp
+scaled functional response embryo data  ZaikDom2013,1,https://opentraits.org/datasets/amp
+initial energy in reproduction buffer,1,https://opentraits.org/datasets/amp
+scaled function respons,1,https://opentraits.org/datasets/amp
+scaled functional response for Gonz2010,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_A,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_B,1,https://opentraits.org/datasets/amp
+scaled functional response for tW2,1,https://opentraits.org/datasets/amp
+Physiology? and/or Morphology?,1,https://opentraits.org/datasets/amp
+time at birth in tL,1,https://opentraits.org/datasets/amp
+intitial structural length in tL,1,https://opentraits.org/datasets/amp
+{F_mb},1,https://opentraits.org/datasets/amp
+scaled functional response for tL_fA,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_fNZ,1,https://opentraits.org/datasets/amp
+reproduction efficiency of the mother,1,https://opentraits.org/datasets/amp
+scaled functional response for pups,1,https://opentraits.org/datasets/amp
+scaled functional response for tL and LW  data,1,https://opentraits.org/datasets/amp
+sc. funct. res.  Wagn1990,1,https://opentraits.org/datasets/amp
+E_Hh,1,https://opentraits.org/datasets/amp
+Arrhenius temperature at lower  boundary,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_Anyui,1,https://opentraits.org/datasets/amp
+scaled functional response for tL_Limuri,1,https://opentraits.org/datasets/amp
+Habitat,5,https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/australian-birds |  https://opentraits.org/datasets/beukhof-2019 |  https://opentraits.org/datasets/bland-2017 |  https://opentraits.org/datasets/try
+Movement?,1,https://opentraits.org/datasets/amphi-bio
+Morphology/Body size,6,https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/arthropod-species-traits |  https://opentraits.org/datasets/australian-birds |  https://opentraits.org/datasets/avonet |  https://opentraits.org/datasets/bien |  https://opentraits.org/datasets/jeppsson-2014
+Reproduction/Life history? and/or Morphology?,1,https://opentraits.org/datasets/amphi-bio
+Reproduction/Life history,4,https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/arthropod-species-traits |  https://opentraits.org/datasets/beukhof-2019 |  https://opentraits.org/datasets/try
+Phenology,4,https://opentraits.org/datasets/amphi-bio |  https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/bien |  https://opentraits.org/datasets/try
+Reproduction? and/or Morphology?,2,https://opentraits.org/datasets/austraits |  https://opentraits.org/datasets/betydb
+Movement,2,https://opentraits.org/datasets/avianhwi |  https://opentraits.org/datasets/try
 belowground rhizome biomass; does not include tubers,1,https://opentraits.org/datasets/betydb
-grams of root per plant,1,https://opentraits.org/datasets/betydb
-ratio of fine root to leaf biomass also 'fine root allocation',1,https://opentraits.org/datasets/betydb
-Nitrogen Productivity,1,https://opentraits.org/datasets/betydb
-percent composition,1,https://opentraits.org/datasets/betydb
-soil organic matter,1,https://opentraits.org/datasets/betydb
-photosynthetic Nitrogen Use Efficiency,1,https://opentraits.org/datasets/betydb
 rate of fine root loss (temperature dependent,1,https://opentraits.org/datasets/betydb
-grams of shoot per plant,1,https://opentraits.org/datasets/betydb
 Includes enlarged stems,1,https://opentraits.org/datasets/betydb
-total aboveground biomass,1,https://opentraits.org/datasets/betydb
-ash concentration in leaf,1,https://opentraits.org/datasets/betydb
-ash concentration in stem,1,https://opentraits.org/datasets/betydb
-cellulose concentration in leaf,1,https://opentraits.org/datasets/betydb
-cellulose concentration in stem,1,https://opentraits.org/datasets/betydb
-in vitro dry matter digestibility in leaf,1,https://opentraits.org/datasets/betydb
-in vitro dry matter digestibility in stem,1,https://opentraits.org/datasets/betydb
-starch in leaf,1,https://opentraits.org/datasets/betydb
-starch in stem,1,https://opentraits.org/datasets/betydb
-total nonstructural carbohydrates in leaf,1,https://opentraits.org/datasets/betydb
-total nonstructural carbohydrates in stem,1,https://opentraits.org/datasets/betydb
-carbon in stems,1,https://opentraits.org/datasets/betydb
-chloride content in dry weight,1,https://opentraits.org/datasets/betydb
-Density of individual plants,1,https://opentraits.org/datasets/betydb
-diameter of single shoot,1,https://opentraits.org/datasets/betydb
-fructose in rhizome,1,https://opentraits.org/datasets/betydb
-glucose in rhizome,1,https://opentraits.org/datasets/betydb
-height,1,https://opentraits.org/datasets/betydb
-Leaf Area Index,1,https://opentraits.org/datasets/betydb
-length of shoot,1,https://opentraits.org/datasets/betydb
-maximum photosynthetic rate at saturating light,1,https://opentraits.org/datasets/betydb
-,2,https://opentraits.org/datasets/betydb |  https://opentraits.org/datasets/bien
-nitrogen concentration in soil,1,https://opentraits.org/datasets/betydb
-nitrogen content in dry weight,1,https://opentraits.org/datasets/betydb
-nitrogen in rhizomes,1,https://opentraits.org/datasets/betydb
-number of shoots per plants,1,https://opentraits.org/datasets/betydb
-percent moisture content in biomass,1,https://opentraits.org/datasets/betydb
-phosphorus concentration in soil,1,https://opentraits.org/datasets/betydb
-phosphorus in rhizome,1,https://opentraits.org/datasets/betydb
-phosphorus in root,1,https://opentraits.org/datasets/betydb
-phosphorus in shoot,1,https://opentraits.org/datasets/betydb
-potassium concentration in soil,1,https://opentraits.org/datasets/betydb
-potassium in rhizome,1,https://opentraits.org/datasets/betydb
-potassium in root,1,https://opentraits.org/datasets/betydb
-potassium in shoot,1,https://opentraits.org/datasets/betydb
-raffinose in rhizome,1,https://opentraits.org/datasets/betydb
+PHysiology,1,https://opentraits.org/datasets/betydb
 single shoot weight,1,https://opentraits.org/datasets/betydb
-sucrose in rhizome,1,https://opentraits.org/datasets/betydb
-total number of leaves per shoot,1,https://opentraits.org/datasets/betydb
-total sugar in rhizome,1,https://opentraits.org/datasets/betydb
-variant dry matter in rhizome,1,https://opentraits.org/datasets/betydb
-variant dry matter in shoot,1,https://opentraits.org/datasets/betydb
-date of bud break,1,https://opentraits.org/datasets/betydb
-mg carbon dry wieght,1,https://opentraits.org/datasets/betydb
-Fract. of stalk in total biomass,1,https://opentraits.org/datasets/betydb
-fraction of total plant dry weight in foliage,1,https://opentraits.org/datasets/betydb
-fraction of total plant dry weight in roots,1,https://opentraits.org/datasets/betydb
+Physiology?,2,https://opentraits.org/datasets/betydb |  https://opentraits.org/datasets/try
 for grasses,1,https://opentraits.org/datasets/betydb
-Leaf Thickness,1,https://opentraits.org/datasets/betydb
 mean tilt angle,1,https://opentraits.org/datasets/betydb
-Nitrogen Use Efficiency,1,https://opentraits.org/datasets/betydb
-Photosynthetic rate at ambient CO2(370ppm),1,https://opentraits.org/datasets/betydb
-slope of rel'n between stomatal conductance and A [Leuning 1995],1,https://opentraits.org/datasets/betydb
-Water Use Efficiency,1,https://opentraits.org/datasets/betydb
-Soil Het Respiration,1,https://opentraits.org/datasets/betydb
-Soil moisture relative to saturation,1,https://opentraits.org/datasets/betydb
-soil Temp,1,https://opentraits.org/datasets/betydb
-air temperature,1,https://opentraits.org/datasets/betydb
-gravimetric soil water content: g H2O/ g DRY soil,1,https://opentraits.org/datasets/betydb
-Radiative transfer clumping factor,1,https://opentraits.org/datasets/betydb
-C:N ratio in stems,1,https://opentraits.org/datasets/betydb
-Leaf biomass allometry coefficient,1,https://opentraits.org/datasets/betydb
-length of time that a root lives,1,https://opentraits.org/datasets/betydb
-Mimimum height for reproduction,1,https://opentraits.org/datasets/betydb
-decomposition rate of litter,1,https://opentraits.org/datasets/betydb
-leaf litter+ wood litter,1,https://opentraits.org/datasets/betydb
-turn over rate of litter,1,https://opentraits.org/datasets/betydb
-Aboveground biomass,1,https://opentraits.org/datasets/betydb
-Coarse root biomass,1,https://opentraits.org/datasets/betydb
-Cumulative GPP over a specified time step,1,https://opentraits.org/datasets/betydb
-Foliage biomass,1,https://opentraits.org/datasets/betydb
-Structural biomass (ecosystem),1,https://opentraits.org/datasets/betydb
-Biomass of cabbage per area ground,1,https://opentraits.org/datasets/betydb
-Stalk Dry Matter,1,https://opentraits.org/datasets/betydb
-Annual Evapotranspiraiton,1,https://opentraits.org/datasets/betydb
-age.maturity,1,https://opentraits.org/datasets/beukhof-2019
-age.max,1,https://opentraits.org/datasets/beukhof-2019
-AR,1,https://opentraits.org/datasets/beukhof-2019
-body.shape,1,https://opentraits.org/datasets/beukhof-2019
-fecundity,1,https://opentraits.org/datasets/beukhof-2019
-feeding.mode,1,https://opentraits.org/datasets/beukhof-2019
-fin.shape,1,https://opentraits.org/datasets/beukhof-2019
-growth.coefficient,1,https://opentraits.org/datasets/beukhof-2019
-habitat,1,https://opentraits.org/datasets/beukhof-2019
-length.infinity,1,https://opentraits.org/datasets/beukhof-2019
-length.max,1,https://opentraits.org/datasets/beukhof-2019
-offspring.size,1,https://opentraits.org/datasets/beukhof-2019
-spawning.type,1,https://opentraits.org/datasets/beukhof-2019
-tl,1,https://opentraits.org/datasets/beukhof-2019
-whole plant growth form,1,https://opentraits.org/datasets/bien
-whole plant growth form diversity,1,https://opentraits.org/datasets/bien
-whole plant woodiness,1,https://opentraits.org/datasets/bien
-diameter at breast height (1.3 m),1,https://opentraits.org/datasets/bien
-flower color,1,https://opentraits.org/datasets/bien
-leaf compoundness,1,https://opentraits.org/datasets/bien
-maximum leaf length,1,https://opentraits.org/datasets/bien
-maximum leaf width,1,https://opentraits.org/datasets/bien
-maximum whole plant height,1,https://opentraits.org/datasets/bien
-minimum leaf length,1,https://opentraits.org/datasets/bien
-minimum leaf width,1,https://opentraits.org/datasets/bien
-minimum whole plant height,1,https://opentraits.org/datasets/bien
-plant fruiting duration,1,https://opentraits.org/datasets/bien
-stem wood density,1,https://opentraits.org/datasets/bien
-whole plant height,1,https://opentraits.org/datasets/bien
-whole plant vegetative phenology,1,https://opentraits.org/datasets/bien
-leaf dry mass per leaf fresh mass,1,https://opentraits.org/datasets/bien
-leaf nitrogen content per leaf dry mass,1,https://opentraits.org/datasets/bien
-leaf area,1,https://opentraits.org/datasets/bien
-leaf area per leaf dry mass,1,https://opentraits.org/datasets/bien
-vessel lumen area,1,https://opentraits.org/datasets/bien
-vessel number,1,https://opentraits.org/datasets/bien
-seed mass,1,https://opentraits.org/datasets/bien
-longest whole plant longevity,1,https://opentraits.org/datasets/bien
-maximum whole plant longevity,1,https://opentraits.org/datasets/bien
-leaf carbon content per leaf nitrogen content,1,https://opentraits.org/datasets/bien
-leaf dry mass,1,https://opentraits.org/datasets/bien
-leaf life span,1,https://opentraits.org/datasets/bien
-leaf nitrogen content per leaf area,1,https://opentraits.org/datasets/bien
-leaf phosphorus content per leaf area,1,https://opentraits.org/datasets/bien
-leaf phosphorus content per leaf dry mass,1,https://opentraits.org/datasets/bien
-leaf photosynthetic rate per leaf area,1,https://opentraits.org/datasets/bien
-leaf photosynthetic rate per leaf dry mass,1,https://opentraits.org/datasets/bien
-plant flowering begin,1,https://opentraits.org/datasets/bien
-whole plant primary juvenile period length,1,https://opentraits.org/datasets/bien
-leaf carbon content per leaf dry mass,1,https://opentraits.org/datasets/bien
-leaf stomatal conductance for H2O per leaf area,1,https://opentraits.org/datasets/bien
-seed length,1,https://opentraits.org/datasets/bien
-flower pollination syndrome,1,https://opentraits.org/datasets/bien
-whole plant dispersal syndrome,1,https://opentraits.org/datasets/bien
-whole plant sexual system,1,https://opentraits.org/datasets/bien
-plant flowering duration,1,https://opentraits.org/datasets/bien
-leaf stomatal conductance per leaf area,1,https://opentraits.org/datasets/bien
-leaf fresh mass,1,https://opentraits.org/datasets/bien
-leaf thickness,1,https://opentraits.org/datasets/bien
-stem dry mass,1,https://opentraits.org/datasets/bien
-root dry mass,1,https://opentraits.org/datasets/bien
-fruit type,1,https://opentraits.org/datasets/bien
-inflorescence length,1,https://opentraits.org/datasets/bien
-Leaf lamina fracture toughness,1,https://opentraits.org/datasets/bien
-maximum fruit length,1,https://opentraits.org/datasets/bien
-minimum fruit length,1,https://opentraits.org/datasets/bien
-BodySize,1,https://opentraits.org/datasets/bland-2017
-ChelaShape,1,https://opentraits.org/datasets/bland-2017
-ChelaSize,1,https://opentraits.org/datasets/bland-2017
-Consumption,1,https://opentraits.org/datasets/bland-2017
-Cropland,1,https://opentraits.org/datasets/bland-2017
-EggNumber,1,https://opentraits.org/datasets/bland-2017
-ElevMin,1,https://opentraits.org/datasets/bland-2017
-EOO,1,https://opentraits.org/datasets/bland-2017
-Fragment,1,https://opentraits.org/datasets/bland-2017
-HabitatsIUCN,1,https://opentraits.org/datasets/bland-2017
-HabitatType,1,https://opentraits.org/datasets/bland-2017
-HPD,1,https://opentraits.org/datasets/bland-2017
-Livestock,1,https://opentraits.org/datasets/bland-2017
-Mercury,1,https://opentraits.org/datasets/bland-2017
-Pesticide,1,https://opentraits.org/datasets/bland-2017
-Prec,1,https://opentraits.org/datasets/bland-2017
-PrecSeas,1,https://opentraits.org/datasets/bland-2017
-RedList,1,https://opentraits.org/datasets/bland-2017
-Sed,1,https://opentraits.org/datasets/bland-2017
-TempSeas,1,https://opentraits.org/datasets/bland-2017
-Temp,1,https://opentraits.org/datasets/bland-2017
-FruitType,1,https://opentraits.org/datasets/brot
-GrowthForm,1,https://opentraits.org/datasets/brot
-HeatStimGerm,1,https://opentraits.org/datasets/brot
-RespFire,1,https://opentraits.org/datasets/brot
-SeedlEmerg,1,https://opentraits.org/datasets/brot
-SeedMass,1,https://opentraits.org/datasets/brot
-SoilSeedBank,1,https://opentraits.org/datasets/brot
-Clonality,1,https://opentraits.org/datasets/brot
-Diaspore,1,https://opentraits.org/datasets/brot
-DispMode,1,https://opentraits.org/datasets/brot
-Height,1,https://opentraits.org/datasets/brot
-LeafArea,1,https://opentraits.org/datasets/brot
-LeafDivision,1,https://opentraits.org/datasets/brot
-Spinescence,1,https://opentraits.org/datasets/brot
-RootDepth,1,https://opentraits.org/datasets/brot
-NutritionalRelat,1,https://opentraits.org/datasets/brot
-ChemCues,1,https://opentraits.org/datasets/brot
-OtherCues,1,https://opentraits.org/datasets/brot
-LeafShape,1,https://opentraits.org/datasets/brot
-BudSource,1,https://opentraits.org/datasets/brot
-LeafPhenology,1,https://opentraits.org/datasets/brot
-Lifespan,1,https://opentraits.org/datasets/brot
-MatResp,1,https://opentraits.org/datasets/brot
-SLA,1,https://opentraits.org/datasets/brot
-StemDensity,1,https://opentraits.org/datasets/brot
-RespClip,1,https://opentraits.org/datasets/brot
-SeedShape,1,https://opentraits.org/datasets/brot
-FruitMass,1,https://opentraits.org/datasets/brot
-LeafLifespan,1,https://opentraits.org/datasets/brot
-LNCm,1,https://opentraits.org/datasets/brot
-LDMC,1,https://opentraits.org/datasets/brot
-SeedProd,1,https://opentraits.org/datasets/brot
-FireStimFlower,1,https://opentraits.org/datasets/brot
-CFFuel,1,https://opentraits.org/datasets/brot
-DeadFuel,1,https://opentraits.org/datasets/brot
-MatSap,1,https://opentraits.org/datasets/brot
-BarkThick,1,https://opentraits.org/datasets/brot
-P50,1,https://opentraits.org/datasets/brot
-SeedlSurv,1,https://opentraits.org/datasets/brot
-SRR,1,https://opentraits.org/datasets/brot
-d13C,1,https://opentraits.org/datasets/brot
-RespDist,1,https://opentraits.org/datasets/brot
-CanopySeedBank,1,https://opentraits.org/datasets/brot
-SerotinyLevel,1,https://opentraits.org/datasets/brot
-diameter,1,https://opentraits.org/datasets/catching-crabs
-legs,1,https://opentraits.org/datasets/catching-crabs
-pincers,1,https://opentraits.org/datasets/catching-crabs
-sex,1,https://opentraits.org/datasets/catching-crabs
-LeafArea.cm2.,1,https://opentraits.org/datasets/chinaroots
-LeafPermiter.cm.,1,https://opentraits.org/datasets/chinaroots
-LeafWidth.cm.,1,https://opentraits.org/datasets/chinaroots
-LeafHeight.cm.,1,https://opentraits.org/datasets/chinaroots
-LeafCircularity,1,https://opentraits.org/datasets/chinaroots
-LeafAspectRatio,1,https://opentraits.org/datasets/chinaroots
-LeafRoundness,1,https://opentraits.org/datasets/chinaroots
-LeafMass.g.,1,https://opentraits.org/datasets/chinaroots
-SLA.m2.Kg.,1,https://opentraits.org/datasets/chinaroots
-LeafThickness.mm.,1,https://opentraits.org/datasets/chinaroots
-FemurLength,1,https://opentraits.org/datasets/columbian-anurans
-FootLength,1,https://opentraits.org/datasets/columbian-anurans
-FootWebbing,1,https://opentraits.org/datasets/columbian-anurans
-ForearmLength,1,https://opentraits.org/datasets/columbian-anurans
-HeadWidth,1,https://opentraits.org/datasets/columbian-anurans
-MouthWidth,1,https://opentraits.org/datasets/columbian-anurans
-Sex,1,https://opentraits.org/datasets/columbian-anurans
-SnoutVentLength,1,https://opentraits.org/datasets/columbian-anurans
-TibiaLength,1,https://opentraits.org/datasets/columbian-anurans
-matrix population models,1,https://opentraits.org/datasets/compadre
-Red.list.classification..2010.,1,https://opentraits.org/datasets/jeppsson-2014
-log.trend.,1,https://opentraits.org/datasets/jeppsson-2014
-Adult.activity.period..days.,1,https://opentraits.org/datasets/jeppsson-2014
-Body.size..mm.,1,https://opentraits.org/datasets/jeppsson-2014
-Generation.time..years.,1,https://opentraits.org/datasets/jeppsson-2014
-Larval.host.plants..nr..,1,https://opentraits.org/datasets/jeppsson-2014
-Overwintering.stage..adult.larvae.,1,https://opentraits.org/datasets/jeppsson-2014
-Length,1,https://opentraits.org/datasets/passerine-morphology
-Wing,1,https://opentraits.org/datasets/passerine-morphology
-Tail,1,https://opentraits.org/datasets/passerine-morphology
-Tarsus,1,https://opentraits.org/datasets/passerine-morphology
-Toe,1,https://opentraits.org/datasets/passerine-morphology
-Bill.L,1,https://opentraits.org/datasets/passerine-morphology
-Bill.W,1,https://opentraits.org/datasets/passerine-morphology
-Bill.D,1,https://opentraits.org/datasets/passerine-morphology
-HN,1,https://opentraits.org/datasets/passerine-morphology
-NI,1,https://opentraits.org/datasets/passerine-morphology
-HP,1,https://opentraits.org/datasets/passerine-morphology
-EI,1,https://opentraits.org/datasets/passerine-morphology
-OI,1,https://opentraits.org/datasets/passerine-morphology
-AU,1,https://opentraits.org/datasets/passerine-morphology
-AZ,1,https://opentraits.org/datasets/passerine-morphology
-AI,1,https://opentraits.org/datasets/passerine-morphology
-Live.body.mass..mg.,1,https://opentraits.org/datasets/sohlstrom-2018
-Body.length..mm.,1,https://opentraits.org/datasets/sohlstrom-2018
-Body.width..mm.,1,https://opentraits.org/datasets/sohlstrom-2018
+Habitat? and/or Societal value?,1,https://opentraits.org/datasets/bland-2017
+Oocyte size at maturity,1,https://opentraits.org/datasets/coral-traits
+Geographical region,1,https://opentraits.org/datasets/coral-traits
+Ocean basin,1,https://opentraits.org/datasets/coral-traits
+Zooxanthellate,1,https://opentraits.org/datasets/coral-traits
+Abundance GBR,1,https://opentraits.org/datasets/coral-traits
+IUCN Red List category,1,https://opentraits.org/datasets/coral-traits
+Abundance world,1,https://opentraits.org/datasets/coral-traits
+Colony maximum diameter,1,https://opentraits.org/datasets/coral-traits
+Depth upper,1,https://opentraits.org/datasets/coral-traits
+Depth lower,1,https://opentraits.org/datasets/coral-traits
+Wave exposure preference,1,https://opentraits.org/datasets/coral-traits
+Water clarity preference,1,https://opentraits.org/datasets/coral-traits
+Substrate attachment,1,https://opentraits.org/datasets/coral-traits
+Coloniality,1,https://opentraits.org/datasets/coral-traits
+Range size,1,https://opentraits.org/datasets/coral-traits
+Species age phylogeny,1,https://opentraits.org/datasets/coral-traits
+Eastern-most range edge,1,https://opentraits.org/datasets/coral-traits
+Western-most range edge,1,https://opentraits.org/datasets/coral-traits
+Northern-most range edge,1,https://opentraits.org/datasets/coral-traits
+Southern-most range edge,1,https://opentraits.org/datasets/coral-traits
+Growth form Veron,1,https://opentraits.org/datasets/coral-traits
+Corallite width minimum,1,https://opentraits.org/datasets/coral-traits
+Corallite width maximum,1,https://opentraits.org/datasets/coral-traits
+Growth form typical,1,https://opentraits.org/datasets/coral-traits
+Propagule size on release,1,https://opentraits.org/datasets/coral-traits
+Indo-Pacific faunal province,1,https://opentraits.org/datasets/coral-traits
+Genus fossil age,1,https://opentraits.org/datasets/coral-traits
+Genus fossil stage,1,https://opentraits.org/datasets/coral-traits
+Mode of larval development,1,https://opentraits.org/datasets/coral-traits
+Sexual system,1,https://opentraits.org/datasets/coral-traits
+Symbiodinium clade,1,https://opentraits.org/datasets/coral-traits
+Symbiodinium subclade,1,https://opentraits.org/datasets/coral-traits
+Water depth,1,https://opentraits.org/datasets/coral-traits
+Life history strategy,1,https://opentraits.org/datasets/coral-traits
+Symbiodinium sp. in propagules,1,https://opentraits.org/datasets/coral-traits
+Growth outline type,1,https://opentraits.org/datasets/coral-traits
+Growth form Wallace,1,https://opentraits.org/datasets/coral-traits
+Growth rate,1,https://opentraits.org/datasets/coral-traits
+Water temperature,1,https://opentraits.org/datasets/coral-traits
+Nitrogen concentration,1,https://opentraits.org/datasets/coral-traits
+Phosphorus concentration,1,https://opentraits.org/datasets/coral-traits
+Sample identifier,1,https://opentraits.org/datasets/coral-traits
+Skeletal density,1,https://opentraits.org/datasets/coral-traits
+Calcification rate,1,https://opentraits.org/datasets/coral-traits
+Tissue thickness,1,https://opentraits.org/datasets/coral-traits
+Symbiodinium density,1,https://opentraits.org/datasets/coral-traits
+Habitat type,1,https://opentraits.org/datasets/coral-traits
+Wave exposure,1,https://opentraits.org/datasets/coral-traits
+Season,1,https://opentraits.org/datasets/coral-traits
+Irradiance,1,https://opentraits.org/datasets/coral-traits
+Year,1,https://opentraits.org/datasets/coral-traits
+Skeletal micro-density,1,https://opentraits.org/datasets/coral-traits
+Month,1,https://opentraits.org/datasets/coral-traits
+Larval swimming speed,1,https://opentraits.org/datasets/coral-traits
+Direction,1,https://opentraits.org/datasets/coral-traits
+Dark respiration,1,https://opentraits.org/datasets/coral-traits
+Gross photosynthesis,1,https://opentraits.org/datasets/coral-traits
+Chlorophyll a,1,https://opentraits.org/datasets/coral-traits
+Mitotic index,1,https://opentraits.org/datasets/coral-traits
+Polyps per area,1,https://opentraits.org/datasets/coral-traits
+Flow rate,1,https://opentraits.org/datasets/coral-traits
+Distance from tip,1,https://opentraits.org/datasets/coral-traits
+Axial corallite part,1,https://opentraits.org/datasets/coral-traits
+Depth transplanted from,1,https://opentraits.org/datasets/coral-traits
+UV radiation treatment,1,https://opentraits.org/datasets/coral-traits
+Bleaching event,1,https://opentraits.org/datasets/coral-traits
+Downward flux of suspended particulate matter,1,https://opentraits.org/datasets/coral-traits
+Particulate organic matter concentration,1,https://opentraits.org/datasets/coral-traits
+Lipid content,1,https://opentraits.org/datasets/coral-traits
+Polyp fecundity,1,https://opentraits.org/datasets/coral-traits
+Size at maturity,1,https://opentraits.org/datasets/coral-traits
+Colony shape factor,1,https://opentraits.org/datasets/coral-traits
+Colony area,1,https://opentraits.org/datasets/coral-traits
+Distance from crest,1,https://opentraits.org/datasets/coral-traits
+Ratio of female to male gonads,1,https://opentraits.org/datasets/coral-traits
+Colony bleached,1,https://opentraits.org/datasets/coral-traits
+RNA:DNA ratio,1,https://opentraits.org/datasets/coral-traits
+Protein biomass,1,https://opentraits.org/datasets/coral-traits
+Turbidity,1,https://opentraits.org/datasets/coral-traits
+Growth form,1,https://opentraits.org/datasets/coral-traits
+Eggs per area,1,https://opentraits.org/datasets/coral-traits
+Corallite width,1,https://opentraits.org/datasets/coral-traits
+Mature egg diameter,1,https://opentraits.org/datasets/coral-traits
+Age at maturity,1,https://opentraits.org/datasets/coral-traits
+Generation time,1,https://opentraits.org/datasets/coral-traits
+Mesentery fecundity,1,https://opentraits.org/datasets/coral-traits
+Number of septa per corallite,1,https://opentraits.org/datasets/coral-traits
+Distance from shore,1,https://opentraits.org/datasets/coral-traits
+Dissolved oxygen concentration,1,https://opentraits.org/datasets/coral-traits
+Phosphate concentration,1,https://opentraits.org/datasets/coral-traits
+Salinity,1,https://opentraits.org/datasets/coral-traits
+Light extinction coefficient,1,https://opentraits.org/datasets/coral-traits
+Suspended particulate matter concentration,1,https://opentraits.org/datasets/coral-traits
+Nitrite-nitrate concentration,1,https://opentraits.org/datasets/coral-traits
+Individual identifier,1,https://opentraits.org/datasets/coral-traits
+Colony part,1,https://opentraits.org/datasets/coral-traits
+Fish predation controlled,1,https://opentraits.org/datasets/coral-traits
+Shaded,1,https://opentraits.org/datasets/coral-traits
+Plankton controlled,1,https://opentraits.org/datasets/coral-traits
+Propagule age,1,https://opentraits.org/datasets/coral-traits
+Rainfall,1,https://opentraits.org/datasets/coral-traits
+Sunlight,1,https://opentraits.org/datasets/coral-traits
+Damage,1,https://opentraits.org/datasets/coral-traits
+Habitat transplanted from,1,https://opentraits.org/datasets/coral-traits
+Fish association controlled,1,https://opentraits.org/datasets/coral-traits
+Colony surface area,1,https://opentraits.org/datasets/coral-traits
+Leaf area (in case of compound leaves: leaflet,1,https://opentraits.org/datasets/try
+Leaf area (in case of compound leaves: leaf,1,https://opentraits.org/datasets/try
+Leaf area (in case of compound leaves undefined if leaf or leaflet,1,https://opentraits.org/datasets/try
+Leaf area per leaf dry mass (specific leaf area,1,https://opentraits.org/datasets/try
+Leaf texture (sclerophylly,1,https://opentraits.org/datasets/try
+Leaf dry mass per leaf fresh mass (leaf dry matter content,1,https://opentraits.org/datasets/try
+Stem dry mass per stem fresh volume (stem specific density,1,https://opentraits.org/datasets/try
+Stem conduit diameter (vessels,1,https://opentraits.org/datasets/try
+Leaf density (leaf tissue density,1,https://opentraits.org/datasets/try
+Root type,1,https://opentraits.org/datasets/try
+Bark persistence (deciduous,1,https://opentraits.org/datasets/try
+Bark surface structure,1,https://opentraits.org/datasets/try
+Leaf emergences (pubescence,1,https://opentraits.org/datasets/try
+Stem emergences (pubescence,1,https://opentraits.org/datasets/try
+Leaf angle (inclination,1,https://opentraits.org/datasets/try
+Phenology?,1,https://opentraits.org/datasets/try
+Fine root persistence (lifespan,1,https://opentraits.org/datasets/try
+Fine root (absorptive) persistence (lifespan,1,https://opentraits.org/datasets/try
+Fine root (absorptive) length per absorptive fine root dry mass (specific absorptive fine root length,1,https://opentraits.org/datasets/try
+Reproduction/Life cycle? and/or Phenology?,1,https://opentraits.org/datasets/try
+Plant growth rate relative (plant relative growth rate,1,https://opentraits.org/datasets/try
+Fine root length per fine root dry mass (specific fine root length,1,https://opentraits.org/datasets/try
+Morphology? and/or Movement?,1,https://opentraits.org/datasets/try
+Plant dead organ retainment: leaves,1,https://opentraits.org/datasets/try
+Bark secondary compounds: oil,1,https://opentraits.org/datasets/try
+Xylem hydraulic vulnerability,1,https://opentraits.org/datasets/try
+Flower sexual syndrome (dichogamy,1,https://opentraits.org/datasets/try
+Litter (other than leaf: twigs,1,https://opentraits.org/datasets/try
+Plant carbon (C) allocation to root,1,https://opentraits.org/datasets/try
+Plant vegetative�reproduction: spread�distance�,1,https://opentraits.org/datasets/try
+Shoot emergences (pubescence,1,https://opentraits.org/datasets/try
+Plant biomass and allometry: Leaf dry mass per plant dry mass (leaf weight ratio,1,https://opentraits.org/datasets/try
+Fine root (transport) length per transport fine root dry mass (specific transport fine root length,1,https://opentraits.org/datasets/try
+Litter SLA (leaf area per leaf dry mass,1,https://opentraits.org/datasets/try
+Leaf photosynthesis rate per leaf nitrogen (N) content (photosynthetic nitrogen use efficiency,1,https://opentraits.org/datasets/try
+Physiology? and/or Interation?,1,https://opentraits.org/datasets/try
+Wood vessel: dark staining substances in vessels and/or fibers (gum,1,https://opentraits.org/datasets/try
+Root length per root dry mass (specific root length,1,https://opentraits.org/datasets/try
+Phenology? and/or Reproduction/Life history?,1,https://opentraits.org/datasets/try
+Stomata conductance model parameter (Ball-Berry,1,https://opentraits.org/datasets/try
+Seed number per inflorescence (total,1,https://opentraits.org/datasets/try
+Reproduction?,1,https://opentraits.org/datasets/try
+Mycorrhizal colonization: fraction of root length with mycorrhizla hyphae,1,https://opentraits.org/datasets/try
+Wood mechanical property: flexual stiffness,1,https://opentraits.org/datasets/try
+Root tips per fine root dry mass (specific fine root tip abundance,1,https://opentraits.org/datasets/try
+Coarse root length per coarse root dry mass (specific coarse root length,1,https://opentraits.org/datasets/try
+Stem cross-sectional area tissue types: pith,1,https://opentraits.org/datasets/try
+Plant biomass and allometry: Leaves per plant (emergent,1,https://opentraits.org/datasets/try
+Stomata pore area per leaf surface area (abaxial,1,https://opentraits.org/datasets/try
+Xylem hydraulic vulnerability curve (P20,1,https://opentraits.org/datasets/try
+Root tips per absorptive fine root dry mass (specific absorptive fine root tip abundance,1,https://opentraits.org/datasets/try
+Plant biomass and allometry: Branch dry mass (alive,1,https://opentraits.org/datasets/try
+Root dry mass per root volume (root density,1,https://opentraits.org/datasets/try
+Belowground plant organ length per belowground plant organ dry mass (specific belowground plant organ length,1,https://opentraits.org/datasets/try
+Stem dry mass per stem fresh mass (stem dry matter content,1,https://opentraits.org/datasets/try
+Flower onset of flowering (first flowering date,1,https://opentraits.org/datasets/try
+Plant biomass and allometry: Supportive structure (stem,1,https://opentraits.org/datasets/try
+Leaf and leaf-structures fresh to dry shrinkage ratio (length,1,https://opentraits.org/datasets/try
+Wood fibers absent in the center,1,https://opentraits.org/datasets/try
+Fine root (transport) persistence (lifespan,1,https://opentraits.org/datasets/try
+Root persistence (lifespan,1,https://opentraits.org/datasets/try
+Twig (fine branch smaller 2mm) dry mass per twig fresh mass (twig dry matter content,1,https://opentraits.org/datasets/try
+Belowground plant organ persistence (lifespan,1,https://opentraits.org/datasets/try
+Leaf dry mass per fresh mass (cotyledons,1,https://opentraits.org/datasets/try
+Leaf area per dry mass (cotyledons,1,https://opentraits.org/datasets/try
+Root nitrogen (N) uptake preference: ammonium (NH4+),1,https://opentraits.org/datasets/try
+Plant relationship of stem mass,1,https://opentraits.org/datasets/try
+Coarse root ratio of 3,1,https://opentraits.org/datasets/try
+Fine root (absorptive) ratio of 3,1,https://opentraits.org/datasets/try
+Fine root (absorptive) lifespan: fraction of absorptive fine roots that live to the age in �absorptive fine root age�,1,https://opentraits.org/datasets/try
+Fine root nitrogen (N) uptake preference: ammonium (NH4+),1,https://opentraits.org/datasets/try
+Root lifespan: fraction of roots that live to the age in �root age�,1,https://opentraits.org/datasets/try
+Fine root lifespan: fraction of fine roots that live to the age in �fine root age�,1,https://opentraits.org/datasets/try
+Fine root forks per fine root dry mass (specific fine root forks density,1,https://opentraits.org/datasets/try
+Root tips per root dry mass (specific root tip abundance,1,https://opentraits.org/datasets/try
+Litter (cone,1,https://opentraits.org/datasets/try
+Leaf respiration rate in the dark minus respiration in light,1,https://opentraits.org/datasets/try
