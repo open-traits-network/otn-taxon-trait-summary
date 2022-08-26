@@ -31,10 +31,10 @@ Summary from 2022-XX-YY
 
 <div class="table1-start"></div>
 
-|Trait|Number of Datasets|Datasets|
-|---|---|---|
+|Trait Category| Number of Species |Number of Datasets|Datasets|
+|---|--:|--:|---|
 {%- for entry in site.data.trait_sum_summary %}
-| {{ entry.resolvedTraitName }} | {{ entry.resolvedName }} | {% assign datasets = entry.datasetId | split: "|" %}{% for ds in datasets %}[{{ ds | split: "/" | last }}]({{ds}}){% unless forloop.last %} &#124; {% endunless %}{% endfor %} |
+| {{ entry.Trait_category }} | {{ entry.Number_of_species }} | {{ entry.Number_of_datasets }} | {% assign datasets = entry.Datasets | strip_newlines | split: "|" %}{% for ds in datasets %}[{{ ds | split: "/" | last }}]({{ds}}){% unless forloop.last %} &#124; {% endunless %}{% endfor %} |
 {%- endfor %}
 
 <div class="table1-end"></div>
