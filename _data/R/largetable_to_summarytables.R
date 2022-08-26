@@ -5,7 +5,7 @@
 require(data.table)
 
 #functions
-funsum <- function(x)sum(!is.na(x))
+funsum <- function(x)length(unique(x))
 funlist <- function(x)list(unique(x))
 
 # Read in file
@@ -18,20 +18,23 @@ totals <- data.frame("tot_record" = sum(dat$numberOfRecords, na.rm = T),
                      "tot_dataset" = length(unique(dat$datasetId)))
 
 ## Summary by trait (second table)
-trait_summary <- dat[, c(lapply(.SD[, .(resolvedName)], funsum), 
+trait_summary <- dat[, c(lapply(.SD[, .(traitNameVerbatim)], funsum),
+                         lapply(.SD[, .(resolvedName)], funsum), 
                          lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T))), 
                      by = c("resolvedTraitName", "datasetId")]
 
 
 ## Summary by taxa (third table)
 taxon_summary <- dat[, c(lapply(.SD[, .(traitNameVerbatim)], funsum), 
+                         lapply(.SD[, .(resolvedName)], funsum), 
                          lapply(.SD[, .(numberOfRecords)], function(x)sum(x, na.rm=T))), 
-                     by = c("resolvedPhylumName", "resolvedTraitName")]
+                     by = c("resolvedPhylumName")]
 
 
 
 ## Summary of trait summary (first table)
-trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedName)], funsum), 
+trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedName)], function(x)sum(x, na.rm=T)),
+                                       lapply(.SD[, .(resolvedName)], funsum), 
                                        lapply(.SD[, .(datasetId)], funlist)), 
                                    by = "resolvedTraitName"]
 #clean list column
@@ -52,9 +55,9 @@ taxon_trait_summary$traitNameVerbatim <- gsub(")", "", taxon_trait_summary$trait
 
 
 #rename columns
-setnames(taxon_summary, names(taxon_summary), c("Phylum", "Trait_category", "Number_of_traits", "Number_of_records"))
-setnames(trait_summary, names(trait_summary), c("Trait_category", "Dataset", "Number_of_species", "Number_of_records"))
-setnames(trait_sum_summary, names(trait_sum_summary), c("Trait_category", "Number_of_species", "Datasets"))
+setnames(trait_summary, names(trait_summary), c("Trait_category", "Dataset", "Number_of_traits", "Number_of_species", "Number_of_records"))
+setnames(taxon_summary, names(taxon_summary), c("Phylum", "Number_of_traits", "Number_of_species", "Number_of_records"))
+names(trait_sum_summary) <- c("Trait_category", "Number_of_species", "Number_of_datasets", "Datasets")
 setnames(taxon_trait_summary, names(taxon_trait_summary), c("Phylum", "Trait_category", "Number_of_records", "Trait_names"))
 
 #save tables
