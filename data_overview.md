@@ -10,34 +10,39 @@ description: A high level overview of the traits and taxa in the OTN registry
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
 <script type="text/javascript">
 $(document).ready( function () {
-	$('div.table2-start').nextUntil('div.table2-end', 'table').DataTable();
+	$('div.table1-start').nextUntil('div.table1-end', 'table').DataTable({order: [[1, 'desc']],});
 } );
 </script>
 
-[Trait Overview](#trait-overview) - [Trait Overview by Dataset](#trait-overview-by-dataset) - [Taxonomic Overview](#taxonomic-overview) - [Taxonomic Trait Overview](#taxonomic-trait-overview)
+[Trait Overview](#trait-overview) <!-- - [Trait Overview by Dataset](#trait-overview-by-dataset) - [Taxonomic Overview](#taxonomic-overview) - [Taxonomic Trait Overview](#taxonomic-trait-overview) -->
 
-> Warning this is just a sketch of the tables, data is not accurate
+> Warning this is just a prototype of possible tables, data is incomplete
 
+<!--
 ## Summary
 
 Currently, this overview contains XX records of XX traits from XX species in XX datasets.
 Note, that the same record might occur in multiple datasets.
 
 Summary from 2022-XX-YY
+-->
 
 ## Trait Overview
 
-|Trait|Number of taxa|Dataset|
+<div class="table1-start"></div>
+
+|Trait|Number of Datasets|Datasets|
 |---|---|---|
-|Growth Habit | 4500 | [TRY](datasets/try), [AmphiBIO](datasets/amphi-bio), [AmP](datasets/amp) |
-|Body Mass | 137 | [TRY](datasets/try), [AmphiBIO](datasets/amphi-bio) |
-|... | ... | ... | 
+{%- for entry in site.data.trait_sum_summary %}
+| {{ entry.resolvedTraitName }} | {{ entry.resolvedName }} | {% assign datasets = entry.datasetId | split: "|" %}{% for ds in datasets %}[{{ ds | split: "/" | last }}]({{ds}}){% unless forloop.last %} &#124; {% endunless %}{% endfor %} |
+{%- endfor %}
 
-<button>Download as csv</button>
+<div class="table1-end"></div>
 
+<!--
 ## Trait Overview by Dataset
 
-<div class="table2-start"></div>
+<div class="table1-end"></div>
 
 |Trait Bucket|Traits|Number of taxa|Number of records|Dataset|
 |---|---|---|---|---|
@@ -76,3 +81,4 @@ Summary from 2022-XX-YY
 |... | ... | ... | ... | ... |
 
 <button>Download as csv</button>
+ -->
