@@ -1,0 +1,371 @@
+Trait_category,Dataset,Number_of_species,Number_of_records
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/amp,66319,66319
+{p_Am},https://opentraits.org/datasets/amp,3433,3433
+Reproduction,https://opentraits.org/datasets/amp,3423,3423
+Morphology,https://opentraits.org/datasets/amp,2588,2588
+Physiology,https://opentraits.org/datasets/amp,14,14
+Phenology? and/or Reproduction/Life cycle?,https://opentraits.org/datasets/amp,26,26
+scaled functional response for OB  data,https://opentraits.org/datasets/amp,1,1
+scaled functional response for SO  data,https://opentraits.org/datasets/amp,1,1
+scaled functional response for f_tL,https://opentraits.org/datasets/amp,1,1
+scaled functional response for Otocac,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL_16,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL_22,https://opentraits.org/datasets/amp,1,1
+maturity at puberty from  males,https://opentraits.org/datasets/amp,7,7
+Arrhenius temperature  at upper boundary,https://opentraits.org/datasets/amp,1,1
+sc. func. res. HopGrah1995,https://opentraits.org/datasets/amp,1,1
+initial length  for tL and tWw data,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_20,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_25,https://opentraits.org/datasets/amp,1,1
+shape coefficient for straight  carapace length,https://opentraits.org/datasets/amp,1,1
+conversion efficiency from larval reserve to larval structure,https://opentraits.org/datasets/amp,1,1
+sc. funct. res.  0.1 mg tetramin per ind,https://opentraits.org/datasets/amp,1,1
+sc. funct. res.  0.2 mg tetramin per ind,https://opentraits.org/datasets/amp,1,1
+sc. funct. res.  0.3 mg tetramin per ind,https://opentraits.org/datasets/amp,1,1
+sc. funct. res.  0.4 mg tetramin per ind,https://opentraits.org/datasets/amp,1,1
+initial length tL (gaia2016,https://opentraits.org/datasets/amp,1,1
+initial length tL_c (gaia2016,https://opentraits.org/datasets/amp,1,1
+initial length tL_w (gaia2016,https://opentraits.org/datasets/amp,1,1
+lower boundary  temperature,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL data (gaia2016 semifield winter,https://opentraits.org/datasets/amp,2,2
+rate of egg production,https://opentraits.org/datasets/amp,1,1
+scaled func res,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tW_a data,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tW_u data,https://opentraits.org/datasets/amp,1,1
+initial energy in the repro buffer,https://opentraits.org/datasets/amp,2,2
+sc. func. resp.,https://opentraits.org/datasets/amp,2,2
+increase in filtration rate at low food density,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_f,https://opentraits.org/datasets/amp,4,4
+scaled functional response for tL_SK1,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_SK2,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_SK3,https://opentraits.org/datasets/amp,1,1
+Interaction,https://opentraits.org/datasets/amp,1,1
+Reproduction? and/or Phenology?,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL  data,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tW,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL_f1,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_f2,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_f3,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_T*,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tW  data,https://opentraits.org/datasets/amp,1,1
+initial  length for tL2 data,https://opentraits.org/datasets/amp,1,1
+initial  length for tL3 data,https://opentraits.org/datasets/amp,1,1
+initial  length for tL4 data,https://opentraits.org/datasets/amp,1,1
+initial  length for tL5 data,https://opentraits.org/datasets/amp,1,1
+initial  length for tL6 data,https://opentraits.org/datasets/amp,1,1
+initial  length for tL7 data,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tW_f,https://opentraits.org/datasets/amp,14,14
+scaled functional response for tW  data at 17 d,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tW  data from 0-8 d,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tW3 data  from 0-6 d,https://opentraits.org/datasets/amp,1,1
+Morphology/Body size?,https://opentraits.org/datasets/amp,3,3
+Arrhenius temperature  at high temp boundary,https://opentraits.org/datasets/amp,1,1
+Arrhenius temperature  at low temp boundary,https://opentraits.org/datasets/amp,1,1
+Morphology? and/or Morphology/Body size?,https://opentraits.org/datasets/amp,3,3
+maturity at  for males,https://opentraits.org/datasets/amp,5,5
+scaled functional response for tL  data at t=0,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL  data at t=1000,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL data  at t=2000 d,https://opentraits.org/datasets/amp,1,1
+radius at time 0 in tL,https://opentraits.org/datasets/amp,1,1
+scaled functional response for dWd,https://opentraits.org/datasets/amp,1,1
+initial structural length in tL_100,https://opentraits.org/datasets/amp,1,1
+maturity at puberty for  males,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL3,https://opentraits.org/datasets/amp,4,4
+scaled functional response for tL4,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL5,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL6,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL7,https://opentraits.org/datasets/amp,1,1
+zoom  for males,https://opentraits.org/datasets/amp,2,2
+scaled functional response for Shabica,https://opentraits.org/datasets/amp,1,1
+scaled functional response for 1-var data birth onwards,https://opentraits.org/datasets/amp,1,1
+scaled functional response for Tah,https://opentraits.org/datasets/amp,1,1
+scld. fctl. res.  DaviKenn2014 (first part of experiment),https://opentraits.org/datasets/amp,1,1
+scld. fctl. res.  DaviKenn2014 (second part of experiment),https://opentraits.org/datasets/amp,1,1
+zoom factor  for males,https://opentraits.org/datasets/amp,1,1
+determines energy allocation to pups,https://opentraits.org/datasets/amp,1,1
+milk production efficiency of the mother,https://opentraits.org/datasets/amp,2,2
+scaled functional response embryo data  ZaikDom2013,https://opentraits.org/datasets/amp,1,1
+initial energy in reproduction buffer,https://opentraits.org/datasets/amp,2,2
+scaled function respons,https://opentraits.org/datasets/amp,1,1
+scaled functional response for Gonz2010,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL_A,https://opentraits.org/datasets/amp,2,2
+scaled functional response for tL_B,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tW2,https://opentraits.org/datasets/amp,1,1
+Physiology? and/or Morphology?,https://opentraits.org/datasets/amp,1,1
+time at birth in tL,https://opentraits.org/datasets/amp,1,1
+intitial structural length in tL,https://opentraits.org/datasets/amp,1,1
+{F_mb},https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_fA,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_fNZ,https://opentraits.org/datasets/amp,1,1
+reproduction efficiency of the mother,https://opentraits.org/datasets/amp,1,1
+scaled functional response for pups,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL and LW  data,https://opentraits.org/datasets/amp,2,2
+sc. funct. res.  Wagn1990,https://opentraits.org/datasets/amp,1,1
+E_Hh,https://opentraits.org/datasets/amp,1,1
+Arrhenius temperature at lower  boundary,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_Anyui,https://opentraits.org/datasets/amp,1,1
+scaled functional response for tL_Limuri,https://opentraits.org/datasets/amp,1,1
+Habitat,https://opentraits.org/datasets/amphi-bio,12790,12790
+Movement?,https://opentraits.org/datasets/amphi-bio,2688,2688
+Morphology/Body size,https://opentraits.org/datasets/amphi-bio,5227,5227
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/amphi-bio,4692,4691
+Reproduction,https://opentraits.org/datasets/amphi-bio,4432,4432
+Reproduction/Life history? and/or Morphology?,https://opentraits.org/datasets/amphi-bio,2660,2660
+Reproduction/Life history,https://opentraits.org/datasets/amphi-bio,17859,17859
+Interaction,https://opentraits.org/datasets/amphi-bio,1395,1395
+Phenology,https://opentraits.org/datasets/amphi-bio,1175,1175
+Morphology/Body size,https://opentraits.org/datasets/arthropod-species-traits,1239,1239
+Reproduction/Life history,https://opentraits.org/datasets/arthropod-species-traits,1239,1239
+Interaction,https://opentraits.org/datasets/arthropod-species-traits,5244,5244
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/arthropod-species-traits,2597,2597
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/austraits,355888,786256
+Phenology,https://opentraits.org/datasets/austraits,20948,33954
+Morphology,https://opentraits.org/datasets/austraits,39727,87866
+Physiology,https://opentraits.org/datasets/austraits,22471,59069
+Interaction,https://opentraits.org/datasets/austraits,6654,8156
+Reproduction,https://opentraits.org/datasets/austraits,28631,34753
+Reproduction? and/or Morphology?,https://opentraits.org/datasets/austraits,231,299
+Morphology/Body size,https://opentraits.org/datasets/australian-birds,3111,0
+Morphology,https://opentraits.org/datasets/australian-birds,548,0
+Habitat,https://opentraits.org/datasets/australian-birds,8646,0
+Interaction,https://opentraits.org/datasets/australian-birds,2883,0
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/australian-birds,2948,0
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/avianhwi,51718,51718
+Movement,https://opentraits.org/datasets/avianhwi,20688,20688
+Morphology/Body size,https://opentraits.org/datasets/avonet,7141,58447
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/avonet,56588,360720
+Morphology,https://opentraits.org/datasets/avonet,7087,48910
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/bennett-2018,3024,3326
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/bernhardt-2018,23541,23596
+Morphology,https://opentraits.org/datasets/bernhardt-2018,751,753
+Physiology,https://opentraits.org/datasets/betydb,333,2621
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/betydb,1024,10756
+Reproduction,https://opentraits.org/datasets/betydb,54,56
+belowground rhizome biomass; does not include tubers,https://opentraits.org/datasets/betydb,8,29
+rate of fine root loss (temperature dependent,https://opentraits.org/datasets/betydb,2,2
+Includes enlarged stems,https://opentraits.org/datasets/betydb,1,167
+PHysiology,https://opentraits.org/datasets/betydb,2,28
+single shoot weight,https://opentraits.org/datasets/betydb,1,30
+Physiology?,https://opentraits.org/datasets/betydb,5,9
+for grasses,https://opentraits.org/datasets/betydb,1,36
+mean tilt angle,https://opentraits.org/datasets/betydb,1,6
+Reproduction? and/or Morphology?,https://opentraits.org/datasets/betydb,1,1
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/beukhof-2019,17775,54918
+Morphology,https://opentraits.org/datasets/beukhof-2019,3950,12204
+Interaction,https://opentraits.org/datasets/beukhof-2019,1975,6102
+Habitat,https://opentraits.org/datasets/beukhof-2019,1975,6102
+Reproduction/Life history,https://opentraits.org/datasets/beukhof-2019,1975,6102
+Morphology,https://opentraits.org/datasets/bien,155269,351368
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/bien,116379,15058814
+Morphology/Body size,https://opentraits.org/datasets/bien,11158,10138274
+Phenology,https://opentraits.org/datasets/bien,7464,16553
+Physiology,https://opentraits.org/datasets/bien,13531,40159
+Reproduction,https://opentraits.org/datasets/bien,1312,1325
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/bland-2017,8035,8035
+Habitat? and/or Societal value?,https://opentraits.org/datasets/bland-2017,450,450
+Habitat,https://opentraits.org/datasets/bland-2017,450,450
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/brot,19093,26783
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/catching-crabs,3,7642
+Reproduction,https://opentraits.org/datasets/catching-crabs,1,2481
+Morphology,https://opentraits.org/datasets/chinaroots,738,13551
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/columbian-anurans,2344,36984
+Reproduction,https://opentraits.org/datasets/columbian-anurans,293,4623
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/compadre,1229,12725
+Oocyte size at maturity,https://opentraits.org/datasets/coral-traits,97,125
+Geographical region,https://opentraits.org/datasets/coral-traits,1511,2321
+Ocean basin,https://opentraits.org/datasets/coral-traits,1497,1497
+Zooxanthellate,https://opentraits.org/datasets/coral-traits,1550,1550
+Abundance GBR,https://opentraits.org/datasets/coral-traits,400,400
+IUCN Red List category,https://opentraits.org/datasets/coral-traits,818,818
+Abundance world,https://opentraits.org/datasets/coral-traits,823,823
+Colony maximum diameter,https://opentraits.org/datasets/coral-traits,320,532
+Depth upper,https://opentraits.org/datasets/coral-traits,769,1048
+Depth lower,https://opentraits.org/datasets/coral-traits,783,1229
+Wave exposure preference,https://opentraits.org/datasets/coral-traits,934,934
+Water clarity preference,https://opentraits.org/datasets/coral-traits,934,934
+Substrate attachment,https://opentraits.org/datasets/coral-traits,779,891
+Coloniality,https://opentraits.org/datasets/coral-traits,779,891
+Range size,https://opentraits.org/datasets/coral-traits,776,1477
+Species age phylogeny,https://opentraits.org/datasets/coral-traits,1463,1463
+Eastern-most range edge,https://opentraits.org/datasets/coral-traits,709,709
+Western-most range edge,https://opentraits.org/datasets/coral-traits,709,709
+Northern-most range edge,https://opentraits.org/datasets/coral-traits,709,709
+Southern-most range edge,https://opentraits.org/datasets/coral-traits,709,709
+Growth form Veron,https://opentraits.org/datasets/coral-traits,773,1168
+Corallite width minimum,https://opentraits.org/datasets/coral-traits,682,682
+Corallite width maximum,https://opentraits.org/datasets/coral-traits,726,726
+Growth form typical,https://opentraits.org/datasets/coral-traits,773,773
+Propagule size on release,https://opentraits.org/datasets/coral-traits,54,60
+Indo-Pacific faunal province,https://opentraits.org/datasets/coral-traits,695,3814
+Genus fossil age,https://opentraits.org/datasets/coral-traits,832,3799
+Genus fossil stage,https://opentraits.org/datasets/coral-traits,843,2335
+Mode of larval development,https://opentraits.org/datasets/coral-traits,347,347
+Sexual system,https://opentraits.org/datasets/coral-traits,340,340
+Symbiodinium clade,https://opentraits.org/datasets/coral-traits,310,3147
+Symbiodinium subclade,https://opentraits.org/datasets/coral-traits,311,3068
+Water depth,https://opentraits.org/datasets/coral-traits,333,13527
+Life history strategy,https://opentraits.org/datasets/coral-traits,143,143
+Symbiodinium sp. in propagules,https://opentraits.org/datasets/coral-traits,113,113
+Growth outline type,https://opentraits.org/datasets/coral-traits,119,119
+Growth form Wallace,https://opentraits.org/datasets/coral-traits,119,122
+Growth rate,https://opentraits.org/datasets/coral-traits,130,1514
+Water temperature,https://opentraits.org/datasets/coral-traits,76,773
+Nitrogen concentration,https://opentraits.org/datasets/coral-traits,32,131
+Phosphorus concentration,https://opentraits.org/datasets/coral-traits,33,142
+Sample identifier,https://opentraits.org/datasets/coral-traits,34,161
+Skeletal density,https://opentraits.org/datasets/coral-traits,54,422
+Calcification rate,https://opentraits.org/datasets/coral-traits,33,375
+Tissue thickness,https://opentraits.org/datasets/coral-traits,16,59
+Symbiodinium density,https://opentraits.org/datasets/coral-traits,35,4062
+Habitat type,https://opentraits.org/datasets/coral-traits,71,1961
+Wave exposure,https://opentraits.org/datasets/coral-traits,29,1247
+Season,https://opentraits.org/datasets/coral-traits,58,4644
+Irradiance,https://opentraits.org/datasets/coral-traits,24,223
+Year,https://opentraits.org/datasets/coral-traits,62,477
+Skeletal micro-density,https://opentraits.org/datasets/coral-traits,8,9
+Month,https://opentraits.org/datasets/coral-traits,2,31
+Larval swimming speed,https://opentraits.org/datasets/coral-traits,13,394
+Direction,https://opentraits.org/datasets/coral-traits,7,387
+Dark respiration,https://opentraits.org/datasets/coral-traits,11,46
+Gross photosynthesis,https://opentraits.org/datasets/coral-traits,10,37
+Chlorophyll a,https://opentraits.org/datasets/coral-traits,22,110
+Mitotic index,https://opentraits.org/datasets/coral-traits,16,31
+Polyps per area,https://opentraits.org/datasets/coral-traits,25,55
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/coral-traits,17,3867
+Flow rate,https://opentraits.org/datasets/coral-traits,14,63
+Distance from tip,https://opentraits.org/datasets/coral-traits,1,22
+Axial corallite part,https://opentraits.org/datasets/coral-traits,1,22
+Depth transplanted from,https://opentraits.org/datasets/coral-traits,2,6
+UV radiation treatment,https://opentraits.org/datasets/coral-traits,1,2
+Bleaching event,https://opentraits.org/datasets/coral-traits,7,4176
+Downward flux of suspended particulate matter,https://opentraits.org/datasets/coral-traits,8,43
+Particulate organic matter concentration,https://opentraits.org/datasets/coral-traits,5,16
+Lipid content,https://opentraits.org/datasets/coral-traits,8,13
+Polyp fecundity,https://opentraits.org/datasets/coral-traits,10,10
+Size at maturity,https://opentraits.org/datasets/coral-traits,7,7
+Colony shape factor,https://opentraits.org/datasets/coral-traits,3,1158
+Colony area,https://opentraits.org/datasets/coral-traits,5,1163
+Distance from crest,https://opentraits.org/datasets/coral-traits,3,1158
+Ratio of female to male gonads,https://opentraits.org/datasets/coral-traits,6,6
+Colony bleached,https://opentraits.org/datasets/coral-traits,1,1
+RNA:DNA ratio,https://opentraits.org/datasets/coral-traits,23,80
+Protein biomass,https://opentraits.org/datasets/coral-traits,12,32
+Turbidity,https://opentraits.org/datasets/coral-traits,3,22
+Growth form,https://opentraits.org/datasets/coral-traits,8,73
+Eggs per area,https://opentraits.org/datasets/coral-traits,7,10
+Corallite width,https://opentraits.org/datasets/coral-traits,4,4
+Mature egg diameter,https://opentraits.org/datasets/coral-traits,4,6
+Age at maturity,https://opentraits.org/datasets/coral-traits,3,3
+Generation time,https://opentraits.org/datasets/coral-traits,3,3
+Mesentery fecundity,https://opentraits.org/datasets/coral-traits,3,6
+Number of septa per corallite,https://opentraits.org/datasets/coral-traits,3,6
+Distance from shore,https://opentraits.org/datasets/coral-traits,3,45
+Dissolved oxygen concentration,https://opentraits.org/datasets/coral-traits,1,8
+Phosphate concentration,https://opentraits.org/datasets/coral-traits,1,8
+Salinity,https://opentraits.org/datasets/coral-traits,3,24
+Light extinction coefficient,https://opentraits.org/datasets/coral-traits,3,15
+Suspended particulate matter concentration,https://opentraits.org/datasets/coral-traits,2,21
+Nitrite-nitrate concentration,https://opentraits.org/datasets/coral-traits,1,8
+Individual identifier,https://opentraits.org/datasets/coral-traits,2,355
+Colony part,https://opentraits.org/datasets/coral-traits,2,8
+Fish predation controlled,https://opentraits.org/datasets/coral-traits,2,16
+Shaded,https://opentraits.org/datasets/coral-traits,3,36
+Plankton controlled,https://opentraits.org/datasets/coral-traits,3,36
+Propagule age,https://opentraits.org/datasets/coral-traits,1,205
+Rainfall,https://opentraits.org/datasets/coral-traits,2,4
+Sunlight,https://opentraits.org/datasets/coral-traits,2,4
+Damage,https://opentraits.org/datasets/coral-traits,1,4
+Habitat transplanted from,https://opentraits.org/datasets/coral-traits,1,4
+Fish association controlled,https://opentraits.org/datasets/coral-traits,1,12
+Colony surface area,https://opentraits.org/datasets/coral-traits,1,12
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/jeppsson-2014,770,770
+Morphology/Body size,https://opentraits.org/datasets/jeppsson-2014,134,134
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/passerine-morphology,32660,44969
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/sohlstrom-2018,716,19616
+Leaf area (in case of compound leaves: leaflet,https://opentraits.org/datasets/try,18971,91179
+Physiology,https://opentraits.org/datasets/try,255779,1576650
+UNCATEGORIZED_TRAIT,https://opentraits.org/datasets/try,1089565,5455231
+Morphology,https://opentraits.org/datasets/try,618049,2518800
+Leaf area (in case of compound leaves: leaf,https://opentraits.org/datasets/try,12334,92724
+Leaf area (in case of compound leaves undefined if leaf or leaflet,https://opentraits.org/datasets/try,6068,25676
+Leaf area per leaf dry mass (specific leaf area,https://opentraits.org/datasets/try,28941,308596
+Leaf texture (sclerophylly,https://opentraits.org/datasets/try,8425,45311
+Phenology,https://opentraits.org/datasets/try,41587,254113
+Interaction,https://opentraits.org/datasets/try,13342,134760
+Leaf dry mass per leaf fresh mass (leaf dry matter content,https://opentraits.org/datasets/try,7030,220804
+Stem dry mass per stem fresh volume (stem specific density,https://opentraits.org/datasets/try,1523,7247
+Movement,https://opentraits.org/datasets/try,22597,412357
+Stem conduit diameter (vessels,https://opentraits.org/datasets/try,6496,15222
+Leaf density (leaf tissue density,https://opentraits.org/datasets/try,4495,44822
+Root type,https://opentraits.org/datasets/try,5775,12151
+Bark persistence (deciduous,https://opentraits.org/datasets/try,1106,3607
+Bark surface structure,https://opentraits.org/datasets/try,1691,2360
+Leaf emergences (pubescence,https://opentraits.org/datasets/try,3350,32063
+Stem emergences (pubescence,https://opentraits.org/datasets/try,1159,12053
+Leaf angle (inclination,https://opentraits.org/datasets/try,5917,52918
+Habitat,https://opentraits.org/datasets/try,20426,104904
+Phenology?,https://opentraits.org/datasets/try,2283,2323
+Fine root persistence (lifespan,https://opentraits.org/datasets/try,31,458
+Fine root (absorptive) persistence (lifespan,https://opentraits.org/datasets/try,83,496
+Fine root (absorptive) length per absorptive fine root dry mass (specific absorptive fine root length,https://opentraits.org/datasets/try,754,2407
+Reproduction/Life cycle? and/or Phenology?,https://opentraits.org/datasets/try,4485,12662
+Plant growth rate relative (plant relative growth rate,https://opentraits.org/datasets/try,909,5885
+Reproduction,https://opentraits.org/datasets/try,10711,19929
+Fine root length per fine root dry mass (specific fine root length,https://opentraits.org/datasets/try,1114,5721
+Morphology? and/or Movement?,https://opentraits.org/datasets/try,28716,472027
+Plant dead organ retainment: leaves,https://opentraits.org/datasets/try,289,390
+Bark secondary compounds: oil,https://opentraits.org/datasets/try,1095,2159
+Xylem hydraulic vulnerability,https://opentraits.org/datasets/try,831,10746
+Flower sexual syndrome (dichogamy,https://opentraits.org/datasets/try,1716,5729
+Litter (other than leaf: twigs,https://opentraits.org/datasets/try,240,1061
+Plant carbon (C) allocation to root,https://opentraits.org/datasets/try,100,448
+Plant vegetative�reproduction: spread�distance�,https://opentraits.org/datasets/try,95,95
+Shoot emergences (pubescence,https://opentraits.org/datasets/try,1364,3621
+Plant biomass and allometry: Leaf dry mass per plant dry mass (leaf weight ratio,https://opentraits.org/datasets/try,845,4594
+Fine root (transport) length per transport fine root dry mass (specific transport fine root length,https://opentraits.org/datasets/try,127,517
+Litter SLA (leaf area per leaf dry mass,https://opentraits.org/datasets/try,139,513
+Leaf photosynthesis rate per leaf nitrogen (N) content (photosynthetic nitrogen use efficiency,https://opentraits.org/datasets/try,111,140
+Physiology? and/or Interation?,https://opentraits.org/datasets/try,102,162
+Wood vessel: dark staining substances in vessels and/or fibers (gum,https://opentraits.org/datasets/try,373,380
+Root length per root dry mass (specific root length,https://opentraits.org/datasets/try,522,2932
+Phenology? and/or Reproduction/Life history?,https://opentraits.org/datasets/try,3025,44583
+Stomata conductance model parameter (Ball-Berry,https://opentraits.org/datasets/try,50,320
+Seed number per inflorescence (total,https://opentraits.org/datasets/try,765,2794
+Reproduction?,https://opentraits.org/datasets/try,1825,15723
+Mycorrhizal colonization: fraction of root length with mycorrhizla hyphae,https://opentraits.org/datasets/try,190,612
+Wood mechanical property: flexual stiffness,https://opentraits.org/datasets/try,71,563
+Root tips per fine root dry mass (specific fine root tip abundance,https://opentraits.org/datasets/try,105,1037
+Coarse root length per coarse root dry mass (specific coarse root length,https://opentraits.org/datasets/try,21,23
+Stem cross-sectional area tissue types: pith,https://opentraits.org/datasets/try,87,261
+Plant biomass and allometry: Leaves per plant (emergent,https://opentraits.org/datasets/try,90,9270
+Stomata pore area per leaf surface area (abaxial,https://opentraits.org/datasets/try,24,90
+Xylem hydraulic vulnerability curve (P20,https://opentraits.org/datasets/try,37,20574
+Root tips per absorptive fine root dry mass (specific absorptive fine root tip abundance,https://opentraits.org/datasets/try,102,125
+Plant biomass and allometry: Branch dry mass (alive,https://opentraits.org/datasets/try,22,1908
+Root dry mass per root volume (root density,https://opentraits.org/datasets/try,17,17
+Belowground plant organ length per belowground plant organ dry mass (specific belowground plant organ length,https://opentraits.org/datasets/try,68,208
+Stem dry mass per stem fresh mass (stem dry matter content,https://opentraits.org/datasets/try,128,579
+Flower onset of flowering (first flowering date,https://opentraits.org/datasets/try,34,50
+Plant biomass and allometry: Supportive structure (stem,https://opentraits.org/datasets/try,28,755
+Leaf and leaf-structures fresh to dry shrinkage ratio (length,https://opentraits.org/datasets/try,20,3334
+Wood fibers absent in the center,https://opentraits.org/datasets/try,463,497
+Fine root (transport) persistence (lifespan,https://opentraits.org/datasets/try,14,44
+Root persistence (lifespan,https://opentraits.org/datasets/try,61,108
+Twig (fine branch smaller 2mm) dry mass per twig fresh mass (twig dry matter content,https://opentraits.org/datasets/try,42,42
+Belowground plant organ persistence (lifespan,https://opentraits.org/datasets/try,10,30
+Leaf dry mass per fresh mass (cotyledons,https://opentraits.org/datasets/try,10,58
+Leaf area per dry mass (cotyledons,https://opentraits.org/datasets/try,11,65
+Root nitrogen (N) uptake preference: ammonium (NH4+),https://opentraits.org/datasets/try,14,25
+Plant relationship of stem mass,https://opentraits.org/datasets/try,8,35
+Coarse root ratio of 3,https://opentraits.org/datasets/try,1,2
+Fine root (absorptive) ratio of 3,https://opentraits.org/datasets/try,1,3
+Fine root (absorptive) lifespan: fraction of absorptive fine roots that live to the age in �absorptive fine root age�,https://opentraits.org/datasets/try,3,173
+Fine root nitrogen (N) uptake preference: ammonium (NH4+),https://opentraits.org/datasets/try,8,11
+Root lifespan: fraction of roots that live to the age in �root age�,https://opentraits.org/datasets/try,1,13
+Fine root lifespan: fraction of fine roots that live to the age in �fine root age�,https://opentraits.org/datasets/try,5,170
+Fine root forks per fine root dry mass (specific fine root forks density,https://opentraits.org/datasets/try,1,3
+Root tips per root dry mass (specific root tip abundance,https://opentraits.org/datasets/try,28,126
+Litter (cone,https://opentraits.org/datasets/try,2,56
+Reproduction/Life history,https://opentraits.org/datasets/try,1,6
+Leaf respiration rate in the dark minus respiration in light,https://opentraits.org/datasets/try,10,16
+Physiology?,https://opentraits.org/datasets/try,21,520

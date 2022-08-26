@@ -29,6 +29,7 @@ taxon_summary <- dat[, c(lapply(.SD[, .(traitNameVerbatim)], funsum),
                      by = c("resolvedPhylumName", "resolvedTraitName")]
 
 
+
 ## Summary of trait summary (first table)
 trait_sum_summary <- trait_summary[, c(lapply(.SD[, .(resolvedName)], funsum), 
                                        lapply(.SD[, .(datasetId)], funlist)), 
@@ -49,9 +50,16 @@ taxon_trait_summary$traitNameVerbatim <- gsub("\"", "", taxon_trait_summary$trai
 taxon_trait_summary$traitNameVerbatim <- gsub("c(", "", taxon_trait_summary$traitNameVerbatim, fixed=TRUE)
 taxon_trait_summary$traitNameVerbatim <- gsub(")", "", taxon_trait_summary$traitNameVerbatim, fixed=TRUE)
 
+
+#rename columns
+setnames(taxon_summary, names(taxon_summary), c("Phylum", "Trait_category", "Number_of_traits", "Number_of_records"))
+setnames(trait_summary, names(trait_summary), c("Trait_category", "Dataset", "Number_of_species", "Number_of_records"))
+setnames(trait_sum_summary, names(trait_sum_summary), c("Trait_category", "Number_of_species", "Datasets"))
+setnames(taxon_trait_summary, names(taxon_trait_summary), c("Phylum", "Trait_category", "Number_of_records", "Trait_names"))
+
 #save tables
-fwrite(totals, file = "overall_totals.csv")
-fwrite(trait_summary, file = "trait_summary.csv")
-fwrite(taxon_summary, file = "taxon_summary.csv")
-fwrite(trait_sum_summary, file = "trait_sum_summary.csv")
-fwrite(taxon_trait_summary, file = "taxon_trait_summary.csv")
+fwrite(totals, file = "_data/overall_totals.csv")
+fwrite(trait_summary, file = "_data/trait_summary.csv")
+fwrite(taxon_summary, file = "_data/taxon_summary.csv")
+fwrite(trait_sum_summary, file = "_data/trait_sum_summary.csv")
+fwrite(taxon_trait_summary, file = "_data/taxon_trait_summary.csv")
