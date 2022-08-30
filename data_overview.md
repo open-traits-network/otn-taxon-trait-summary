@@ -11,10 +11,13 @@ description: A high level overview of the traits and taxa in the OTN registry
 <script type="text/javascript">
 $(document).ready( function () {
 	$('div.table1-start').nextUntil('div.table1-end', 'table').DataTable({order: [[1, 'desc']],});
+	$('div.table2-start').nextUntil('div.table2-end', 'table').DataTable({order: [[2, 'desc']],});
+	$('div.table3-start').nextUntil('div.table3-end', 'table').DataTable({order: [[1, 'desc']],});
+	$('div.table4-start').nextUntil('div.table4-end', 'table').DataTable({order: [[1, 'asc']],});
 } );
 </script>
 
-[Trait Overview](#trait-overview) <!-- - [Trait Overview by Dataset](#trait-overview-by-dataset) - [Taxonomic Overview](#taxonomic-overview) - [Taxonomic Trait Overview](#taxonomic-trait-overview) -->
+[Trait Overview](#trait-overview) - [Trait Overview by Dataset](#trait-overview-by-dataset) - [Taxonomic Overview](#taxonomic-overview) - [Taxonomic Trait Overview](#taxonomic-trait-overview)
 
 > Warning this is just a prototype of possible tables, data is incomplete
 
@@ -39,46 +42,38 @@ Summary from 2022-08-30
 
 <div class="table1-end"></div>
 
-<!--
 ## Trait Overview by Dataset
 
-<div class="table1-end"></div>
+<div class="table2-start"></div>
 
-|Trait Bucket|Traits|Number of taxa|Number of records|Dataset|
-|---|---|---|---|---|
-|[Size](#) |Height \| Dry Mass \| Crown Radius| 3007 | 10254 | [TRY](datasets/try) |
-|[Morphology](#) |Growth Habit | 223 | 254 | [AmphiBIO](datasets/amphi-bio) |
-|[Morphology](#) |Growth Habit | 21 | 1024 | [AmP](datasets/amp) |
-|... || 0 | 0 | ... |
-|[Size](#) |Body Mass | 123 | 254 | [TRY](datasets/try) |
-|[Size](#) |Body Mass | 302 | 12254 | [AmphiBIO](datasets/amphi-bio) |
-|... || 0 | 0 | ... |
+|Trait Category | Dataset | Number of Traits |Number of Species|Number of Records|
+|---|---|--:|--:|--:|
+{%- for entry in site.data.trait_summary %}
+| {{ entry.Trait_category }} | [{{ entry.Dataset | split: "/" | last }}]({{entry.Dataset}}) | {{ entry.Number_of_traits }} | {{ entry.Number_of_species }} | {{ entry.Number_of_records }} |
+{%- endfor %}
 
 <div class="table2-end"></div>
 
-<button>Download as csv</button>
-
 ## Taxonomic Overview
 
-|Kingdom|Number of traits|Number of records|Dataset|
-|---|---|---|---|
-|Plantae | 2091 | 500723 | [TRY](datasets/try) |
-|... | ... | ... | ... |
-|Animalia | 53 | 30123 | [AmphiBIO](datasets/amphi-bio) |
-|Animalia | 5 | 10231 | [AmP](datasets/amp) |
-|... | ... | ... | ... |
+<div class="table3-start"></div>
 
-<button>Download as csv</button>
+|Phylum| Number of Traits |Number of Species|Number of Records|
+|---|--:|--:|--:|
+{%- for entry in site.data.taxon_summary %}
+| {{ entry.Phylum }} | {{ entry.Number_of_traits }} | {{ entry.Number_of_species }} | {{ entry.Number_of_records }} |
+{%- endfor %}
+
+<div class="table3-end"></div>
 
 ## Taxonomic Trait Overview
 
-|Kingdom|Trait Bucket|Number of records|Traits|Dataset|
-|---|---|---|---|---|
-|Plantae | Morphology | Growth Habit \| Leaf size \| Wood density |76342| [TRY](datasets/try) |
-|... | ... | ... | ... | ... |
-|Animalia | Size | Body length \| Dry mass | 2312 | [AmphiBIO](datasets/amphi-bio) |
-|Animalia | Size | Body length | 843 | [AmP](datasets/amp) |
-|... | ... | ... | ... | ... |
+<div class="table4-start"></div>
 
-<button>Download as csv</button>
- -->
+|Phylum| Trait Category | Number of Records| Traits |
+|---|---|--:|---|
+{%- for entry in site.data.taxon_trait_summary %}
+| {{ entry.Phylum }} | {{entry.Trait_category}} | {{ entry.Number_of_records }} | {{ entry.Trait_names | strip_newlines | replace: "|", "&#124;"}} |
+{%- endfor %}
+
+<div class="table4-end"></div>
