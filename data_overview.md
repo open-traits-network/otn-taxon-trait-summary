@@ -18,14 +18,14 @@ $(document).ready( function () {
 
 > Warning this is just a prototype of possible tables, data is incomplete
 
-<!--
 ## Summary
 
-Currently, this overview contains XX records of XX traits from XX species in XX datasets.
+{%- for entry in site.data.overall_totals %}
+Currently, this overview contains {{ entry.tot_record }} records of {{ entry.tot_trait }} traits from {{ entry.tot_species }} species in {{ entry.tot_dataset }} datasets.
 Note, that the same record might occur in multiple datasets.
+{%- endfor %}
 
-Summary from 2022-XX-YY
--->
+Summary from 2022-08-30
 
 ## Trait Overview
 
